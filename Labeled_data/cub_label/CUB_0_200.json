@@ -1,0 +1,1386 @@
+[
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_103/Sayornis_0106_98841.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_103/Sayornis_0125_98528.jpg",
+    "answer": "Right",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_104/American_Pipit_0006_99857.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_104/American_Pipit_0010_99843.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_104/American_Pipit_0006_99857.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_104/American_Pipit_0029_99667.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_104/American_Pipit_0006_99857.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_104/American_Pipit_0034_99946.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_104/American_Pipit_0006_99857.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_104/American_Pipit_0002_100023.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_104/American_Pipit_0006_99857.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_104/American_Pipit_0081_99785.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_104/American_Pipit_0037_99954.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_104/American_Pipit_0029_99667.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_104/American_Pipit_0037_99954.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_104/American_Pipit_0059_99628.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_104/American_Pipit_0037_99954.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_104/American_Pipit_0034_99946.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_104/American_Pipit_0037_99954.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_104/American_Pipit_0002_100023.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_104/American_Pipit_0037_99954.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_104/American_Pipit_0043_100027.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_104/American_Pipit_0037_99954.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_104/American_Pipit_0081_99785.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_11/Rusty_Blackbird_0094_6582.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_11/Rusty_Blackbird_0023_6752.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_11/Rusty_Blackbird_0094_6582.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_11/Rusty_Blackbird_0033_6879.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_11/Rusty_Blackbird_0094_6582.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_11/Rusty_Blackbird_0093_6628.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_11/Rusty_Blackbird_0054_6676.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_11/Rusty_Blackbird_0033_6879.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_11/Rusty_Blackbird_0054_6676.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_11/Rusty_Blackbird_0093_6628.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_153/Philadelphia_Vireo_0059_794799.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_153/Philadelphia_Vireo_0061_156613.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_153/Philadelphia_Vireo_0059_794799.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_153/Philadelphia_Vireo_0041_156642.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_189/Red_Bellied_Woodpecker_0044_181122.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_189/Red_Bellied_Woodpecker_0025_180756.jpg",
+    "answer": "Right",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0125_187009.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0020_186702.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0072_186309.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0020_186702.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0049_186129.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0020_186702.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0078_186570.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0020_186702.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0119_186153.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0020_186702.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0044_186645.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0020_186702.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0102_186332.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0107_186972.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0102_186332.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0073_186587.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0102_186332.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0028_186526.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0102_186332.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0056_186313.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0102_186332.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0002_186506.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0102_186332.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0117_186916.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0043_186286.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0080_186919.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0043_186286.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0069_186230.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0043_186286.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0128_186581.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0043_186286.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0065_186517.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {},
+  {},
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0095_186561.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0128_186581.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0095_186561.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_195/Carolina_Wren_0065_186517.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_49/Boat_Tailed_Grackle_0100_33985.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_49/Boat_Tailed_Grackle_0016_33770.jpg",
+    "answer": "None",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_49/Boat_Tailed_Grackle_0100_33985.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_49/Boat_Tailed_Grackle_0024_33393.jpg",
+    "answer": "None",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_85/Horned_Lark_0065_74279.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_87/Mallard_0078_76238.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_87/Mallard_0043_77038.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_87/Mallard_0078_76238.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_92/Nighthawk_0078_795340.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_92/Nighthawk_0058_83270.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_92/Nighthawk_0078_795340.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_92/Nighthawk_0031_83636.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/100_92/Nighthawk_0078_795340.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/100_92/Nighthawk_0027_84697.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced eyebrow pattern on its head?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/104_51/Horned_Grebe_0055_35104.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/104_51/Horned_Grebe_0106_35112.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced striped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/104_51/Horned_Grebe_0095_34491.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/104_51/Horned_Grebe_0106_35112.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced striped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0075_40159.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0069_40278.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced striped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0075_40159.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0025_40511.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced striped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0075_40159.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0043_39861.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced striped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0075_40159.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0029_39889.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced striped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0023_39829.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0069_40278.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced striped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0023_39829.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0025_40511.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced striped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0023_39829.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0043_39861.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced striped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0023_39829.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0029_39889.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced striped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0084_40217.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0069_40278.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced striped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0084_40217.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0025_40511.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced striped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0084_40217.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0043_39861.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced striped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0084_40217.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/104_58/Pigeon_Guillemot_0029_39889.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced striped pattern on its head?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/104_88/Western_Meadowlark_0063_77946.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/104_88/Western_Meadowlark_0100_78037.jpg",
+    "answer": "None",
+    "question": "Which bird has a more pronounced striped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/104_88/Western_Meadowlark_0026_78438.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/104_88/Western_Meadowlark_0100_78037.jpg",
+    "answer": "None",
+    "question": "Which bird has a more pronounced striped pattern on its head?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/105_148/Green_Tailed_Towhee_0101_154907.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/105_148/Green_Tailed_Towhee_0070_154844.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced capped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/105_148/Green_Tailed_Towhee_0072_154946.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/105_148/Green_Tailed_Towhee_0070_154844.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced capped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/105_148/Green_Tailed_Towhee_0003_797414.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/105_148/Green_Tailed_Towhee_0070_154844.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced capped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/105_148/Green_Tailed_Towhee_0037_797405.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/105_148/Green_Tailed_Towhee_0070_154844.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced capped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/105_148/Green_Tailed_Towhee_0071_154870.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/105_148/Green_Tailed_Towhee_0070_154844.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced capped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/105_148/Green_Tailed_Towhee_0021_797404.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/105_148/Green_Tailed_Towhee_0070_154844.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced capped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/105_148/Green_Tailed_Towhee_0058_797399.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/105_148/Green_Tailed_Towhee_0070_154844.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced capped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/105_148/Green_Tailed_Towhee_0060_154820.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/105_148/Green_Tailed_Towhee_0109_797440.jpg",
+    "answer": "Right",
+    "question": "Which bird has a more pronounced capped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/105_148/Green_Tailed_Towhee_0060_154820.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/105_148/Green_Tailed_Towhee_0030_797417.jpg",
+    "answer": "Right",
+    "question": "Which bird has a more pronounced capped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/105_38/Great_Crested_Flycatcher_0051_29530.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/105_38/Great_Crested_Flycatcher_0012_29264.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more pronounced capped pattern on its head?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/109_49/Boat_Tailed_Grackle_0063_33492.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/109_49/Boat_Tailed_Grackle_0126_33593.jpg",
+    "answer": "Left",
+    "question": "Which bird has more purple on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/109_49/Boat_Tailed_Grackle_0063_33492.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/109_49/Boat_Tailed_Grackle_0075_33839.jpg",
+    "answer": "Left",
+    "question": "Which bird has more purple on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_11/Rusty_Blackbird_0109_6698.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_11/Rusty_Blackbird_0073_6744.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_11/Rusty_Blackbird_0031_6699.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_11/Rusty_Blackbird_0073_6744.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_11/Rusty_Blackbird_0074_6585.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_11/Rusty_Blackbird_0073_6744.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0018_11883.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0072_14197.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0018_11883.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0054_12213.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0018_11883.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0013_12949.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0018_11883.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0077_14060.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0018_11883.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0006_14317.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0018_11883.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0053_13391.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0018_11883.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0063_11820.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0018_11883.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0002_12163.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0018_11883.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0021_13979.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0018_11883.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0036_13716.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0018_11883.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0017_11574.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0018_11883.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0040_11805.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0018_11883.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0080_13416.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0018_11883.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0059_11596.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0018_11883.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0025_12532.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0018_11883.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_14/Indigo_Bunting_0071_11639.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0091_33504.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0011_34020.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0050_33501.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0011_34020.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0063_33492.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0011_34020.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0069_33685.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0011_34020.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0049_33422.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0011_34020.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0052_33676.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0011_34020.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0043_33595.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0011_34020.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0024_33393.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0011_34020.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0009_33373.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0011_34020.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0028_33777.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0011_34020.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0126_33593.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0011_34020.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0060_33589.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0011_34020.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0086_33818.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0011_34020.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0073_33723.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_49/Boat_Tailed_Grackle_0011_34020.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_87/Mallard_0082_75954.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_87/Mallard_0112_77046.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_87/Mallard_0082_75954.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_87/Mallard_0044_76317.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_87/Mallard_0061_76378.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_87/Mallard_0112_77046.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_87/Mallard_0061_76378.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_87/Mallard_0044_76317.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_91/Mockingbird_0067_79723.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_91/Mockingbird_0082_80570.jpg",
+    "answer": "Right",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_94/White_Breasted_Nuthatch_0113_86057.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_94/White_Breasted_Nuthatch_0110_86038.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_94/White_Breasted_Nuthatch_0113_86057.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_94/White_Breasted_Nuthatch_0036_86596.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_94/White_Breasted_Nuthatch_0113_86057.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_94/White_Breasted_Nuthatch_0108_86308.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/10_94/White_Breasted_Nuthatch_0113_86057.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/10_94/White_Breasted_Nuthatch_0097_85940.jpg",
+    "answer": "Left",
+    "question": "Which bird has more blue on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/110_51/Horned_Grebe_0071_35078.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/110_51/Horned_Grebe_0058_34568.jpg",
+    "answer": "Left",
+    "question": "Which bird has more rufous on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_102/Western_Wood_Pewee_0049_98263.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_102/Western_Wood_Pewee_0020_795054.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_102/Western_Wood_Pewee_0049_98263.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_102/Western_Wood_Pewee_0035_795062.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_102/Western_Wood_Pewee_0049_98263.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_102/Western_Wood_Pewee_0081_98270.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_103/Sayornis_0011_98610.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_103/Sayornis_0081_99508.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_103/Sayornis_0011_98610.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_103/Sayornis_0085_99503.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_148/Green_Tailed_Towhee_0101_154907.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_148/Green_Tailed_Towhee_0061_154880.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_148/Green_Tailed_Towhee_0101_154907.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_148/Green_Tailed_Towhee_0050_154898.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_153/Philadelphia_Vireo_0007_156617.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_153/Philadelphia_Vireo_0041_156642.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_153/Philadelphia_Vireo_0007_156617.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_153/Philadelphia_Vireo_0039_794794.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_153/Philadelphia_Vireo_0007_156617.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_153/Philadelphia_Vireo_0043_794792.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_153/Philadelphia_Vireo_0007_156617.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_153/Philadelphia_Vireo_0015_794778.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_153/Philadelphia_Vireo_0007_156617.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_153/Philadelphia_Vireo_0002_156591.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_185/Bohemian_Waxwing_0098_178009.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_185/Bohemian_Waxwing_0095_177709.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_185/Bohemian_Waxwing_0098_178009.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_185/Bohemian_Waxwing_0079_796687.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_185/Bohemian_Waxwing_0098_178009.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_185/Bohemian_Waxwing_0119_177942.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_185/Bohemian_Waxwing_0079_796687.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_185/Bohemian_Waxwing_0095_177709.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_185/Bohemian_Waxwing_0079_796687.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_185/Bohemian_Waxwing_0119_177942.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_2/Laysan_Albatross_0050_870.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_2/Laysan_Albatross_0091_602.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_2/Laysan_Albatross_0050_870.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_2/Laysan_Albatross_0012_696.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_34/Gray_Crowned_Rosy_Finch_0063_27123.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_34/Gray_Crowned_Rosy_Finch_0010_27039.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_34/Gray_Crowned_Rosy_Finch_0063_27123.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_34/Gray_Crowned_Rosy_Finch_0061_26979.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_39/Least_Flycatcher_0064_30328.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_39/Least_Flycatcher_0011_30222.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_39/Least_Flycatcher_0064_30328.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_39/Least_Flycatcher_0006_30262.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_39/Least_Flycatcher_0064_30328.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_39/Least_Flycatcher_0046_30316.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_40/Olive_Sided_Flycatcher_0054_30732.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_40/Olive_Sided_Flycatcher_0046_30529.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0029_44049.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0004_43755.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0029_44049.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0036_43718.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0029_44049.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0048_43672.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0029_44049.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0015_43658.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0083_43618.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0004_43755.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0083_43618.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0036_43718.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0083_43618.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0048_43672.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0083_43618.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0015_43658.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0021_43743.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0004_43755.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0021_43743.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0036_43718.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0021_43743.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0048_43672.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0021_43743.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_45/Northern_Fulmar_0015_43658.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_5/Crested_Auklet_0028_794951.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_5/Crested_Auklet_0013_794914.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_5/Crested_Auklet_0028_794951.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_5/Crested_Auklet_0059_794929.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_5/Crested_Auklet_0028_794951.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_5/Crested_Auklet_0057_794932.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_5/Crested_Auklet_0047_794918.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_5/Crested_Auklet_0059_794929.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_5/Crested_Auklet_0047_794918.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_5/Crested_Auklet_0057_794932.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_5/Crested_Auklet_0077_785257.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_5/Crested_Auklet_0013_794914.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_5/Crested_Auklet_0077_785257.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_5/Crested_Auklet_0059_794929.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_5/Crested_Auklet_0077_785257.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_5/Crested_Auklet_0057_794932.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_5/Crested_Auklet_0074_794949.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_5/Crested_Auklet_0059_794929.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_5/Crested_Auklet_0074_794949.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_5/Crested_Auklet_0057_794932.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_58/Pigeon_Guillemot_0071_40216.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_58/Pigeon_Guillemot_0084_40217.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_58/Pigeon_Guillemot_0090_40090.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_58/Pigeon_Guillemot_0084_40217.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_58/Pigeon_Guillemot_0079_40389.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_58/Pigeon_Guillemot_0084_40217.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_60/Glaucous_Winged_Gull_0051_44543.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_60/Glaucous_Winged_Gull_0075_44455.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_60/Glaucous_Winged_Gull_0051_44543.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_60/Glaucous_Winged_Gull_0057_44807.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_60/Glaucous_Winged_Gull_0051_44543.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_60/Glaucous_Winged_Gull_0136_45059.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_91/Mockingbird_0027_80980.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_91/Mockingbird_0056_81986.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_91/Mockingbird_0027_80980.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_91/Mockingbird_0048_80441.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_91/Mockingbird_0054_81703.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_91/Mockingbird_0056_81986.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_91/Mockingbird_0054_81703.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_91/Mockingbird_0048_80441.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_94/White_Breasted_Nuthatch_0050_85815.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_94/White_Breasted_Nuthatch_0120_85890.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/111_94/White_Breasted_Nuthatch_0050_85815.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/111_94/White_Breasted_Nuthatch_0042_86488.jpg",
+    "answer": "Left",
+    "question": "Which bird has more grey on its breast?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_101/White_Pelican_0037_95570.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_101/White_Pelican_0046_96888.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0003_795050.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0011_98205.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0003_795050.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0030_98272.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0003_795050.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0022_795058.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0003_795050.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0057_795040.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0019_795046.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0011_98205.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0019_795046.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0030_98272.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0019_795046.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0022_795058.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0019_795046.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0057_795040.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0061_795060.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0011_98205.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0061_795060.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0030_98272.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0061_795060.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0022_795058.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0061_795060.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_102/Western_Wood_Pewee_0057_795040.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_103/Sayornis_0114_98976.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_103/Sayornis_0061_98375.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_103/Sayornis_0114_98976.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_103/Sayornis_0070_99354.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_103/Sayornis_0114_98976.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_103/Sayornis_0106_98841.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_103/Sayornis_0114_98976.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_103/Sayornis_0129_98924.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_103/Sayornis_0032_98962.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_103/Sayornis_0029_99535.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0058_100218.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0073_99642.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0058_100218.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0002_100023.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0058_100218.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0087_99996.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0058_100218.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0080_100055.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0058_100218.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0078_99898.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0058_100218.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0081_99785.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0058_100218.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0095_99959.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0058_100218.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0066_99961.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0058_100218.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0070_100061.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0058_100218.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0036_99658.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0111_99940.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0011_99630.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0111_99940.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0074_100154.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0111_99940.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0006_99857.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0111_99940.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0114_100380.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0111_99940.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_104/American_Pipit_0041_100060.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0094_6582.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0073_6744.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0094_6582.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0022_6808.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0094_6582.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0019_6704.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0001_6548.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0073_6744.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0001_6548.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0022_6808.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0001_6548.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0019_6704.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0054_6676.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0073_6744.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0054_6676.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0022_6808.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0054_6676.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0019_6704.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0091_6695.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0073_6744.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0091_6695.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0022_6808.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0091_6695.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_11/Rusty_Blackbird_0019_6704.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_148/Green_Tailed_Towhee_0046_154967.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_148/Green_Tailed_Towhee_0021_797404.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_148/Green_Tailed_Towhee_0046_154967.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_148/Green_Tailed_Towhee_0050_154898.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_148/Green_Tailed_Towhee_0046_154967.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_148/Green_Tailed_Towhee_0096_154945.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_148/Green_Tailed_Towhee_0046_154967.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_148/Green_Tailed_Towhee_0043_797430.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_148/Green_Tailed_Towhee_0046_154967.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_148/Green_Tailed_Towhee_0053_154921.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_148/Green_Tailed_Towhee_0046_154967.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_148/Green_Tailed_Towhee_0104_797403.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test/11_148/Green_Tailed_Towhee_0046_154967.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test/11_148/Green_Tailed_Towhee_0017_797400.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  }
+]

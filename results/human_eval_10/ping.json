@@ -1,0 +1,2149 @@
+[
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/comp_cars/data/test_image/73/467/2015/e788a609573809.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/comp_cars/data/test_image/73/467/2009/14506ee7ad8b75.jpg",
+    "answer": "Left",
+    "question": "Based on these images, which car is newer in terms of its model year or release year? \nNote that this question refers solely to the year each car was first introduced or manufactured, \nnot its current condition or usage.",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/comp_cars/data/test_image/75/1654/2013/a717c2d01d694b.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/comp_cars/data/test_image/75/1654/2010/8cbcedb2024b5b.jpg",
+    "answer": "Left",
+    "question": "Based on these images, which car is newer in terms of its model year or release year? \nNote that this question refers solely to the year each car was first introduced or manufactured, \nnot its current condition or usage.",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/comp_cars/data/test_image/73/435/2009/59a5794bd08cda.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/comp_cars/data/test_image/73/435/2014/3e126f3d7b5e17.jpg",
+    "answer": "Right",
+    "question": "Based on these images, which car is newer in terms of its model year or release year? \nNote that this question refers solely to the year each car was first introduced or manufactured, \nnot its current condition or usage.",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/comp_cars/data/test_image/39/1330/2013/92355182c0aace.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/comp_cars/data/test_image/39/1330/2010/ed86c05eef64c4.jpg",
+    "answer": "Left",
+    "question": "Based on these images, which car is newer in terms of its model year or release year? \nNote that this question refers solely to the year each car was first introduced or manufactured, \nnot its current condition or usage.",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/comp_cars/data/test_image/100/252/2010/60cf7eb86b2bfd.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/comp_cars/data/test_image/100/252/2013/af46927ac82d38.jpg",
+    "answer": "Right",
+    "question": "Based on these images, which car is newer in terms of its model year or release year? \nNote that this question refers solely to the year each car was first introduced or manufactured, \nnot its current condition or usage.",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/comp_cars/data/test_image/48/319/2010/80baa9dea14738.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/comp_cars/data/test_image/48/319/2014/0f7a1d3a414c76.jpg",
+    "answer": "Right",
+    "question": "Based on these images, which car is newer in terms of its model year or release year? \nNote that this question refers solely to the year each car was first introduced or manufactured, \nnot its current condition or usage.",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/comp_cars/data/test_image/114/1445/2013/ccb2241c8b649b.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/comp_cars/data/test_image/114/1445/2010/817e32e25ba2e1.jpg",
+    "answer": "Left",
+    "question": "Based on these images, which car is newer in terms of its model year or release year? \nNote that this question refers solely to the year each car was first introduced or manufactured, \nnot its current condition or usage.",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/comp_cars/data/test_image/159/1570/2014/b563c0b9b8bafb.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/comp_cars/data/test_image/159/1570/2011/b9ea23c7cd260f.jpg",
+    "answer": "Left",
+    "question": "Based on these images, which car is newer in terms of its model year or release year? \nNote that this question refers solely to the year each car was first introduced or manufactured, \nnot its current condition or usage.",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/comp_cars/data/test_image/149/1812/2010/2b8ce5e4d509af.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/comp_cars/data/test_image/149/1812/2014/51f9f398fe9b9f.jpg",
+    "answer": "Right",
+    "question": "Based on these images, which car is newer in terms of its model year or release year? \nNote that this question refers solely to the year each car was first introduced or manufactured, \nnot its current condition or usage.",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/comp_cars/data/test_image/131/1015/2015/344ab75ce71175.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/comp_cars/data/test_image/131/1015/2009/bea0d8a7187e74.jpg",
+    "answer": "Left",
+    "question": "Based on these images, which car is newer in terms of its model year or release year? \nNote that this question refers solely to the year each car was first introduced or manufactured, \nnot its current condition or usage.",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/celeba/adj_images/test/Smiling/149208.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/celeba/adj_images/test/Smiling/154503.jpg",
+    "question": "Which person smiles more?",
+    "answer": "Left",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/celeba/adj_images/test/Smiling/095175.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/celeba/adj_images/test/Smiling/069127.jpg",
+    "question": "Which person smiles more?",
+    "answer": "Left",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/celeba/adj_images/test/Smiling/076205.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/celeba/adj_images/test/Smiling/015588.jpg",
+    "question": "Which person smiles more?",
+    "answer": "Right",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/celeba/adj_images/test/Smiling/032447.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/celeba/adj_images/test/Smiling/133215.jpg",
+    "question": "Which person smiles more?",
+    "answer": "Left",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/celeba/adj_images/test/Smiling/150771.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/celeba/adj_images/test/Smiling/131370.jpg",
+    "question": "Which person smiles more?",
+    "answer": "Right",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/celeba/adj_images/test/Smiling/105980.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/celeba/adj_images/test/Smiling/188483.jpg",
+    "question": "Which person smiles more?",
+    "answer": "Right",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/celeba/adj_images/test/Smiling/195175.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/celeba/adj_images/test/Smiling/177127.jpg",
+    "question": "Which person smiles more?",
+    "answer": "Left",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/celeba/adj_images/test/Smiling/053734.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/celeba/adj_images/test/Smiling/178770.jpg",
+    "question": "Which person smiles more?",
+    "answer": "Right",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/celeba/adj_images/test/Smiling/112595.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/celeba/adj_images/test/Smiling/153052.jpg",
+    "question": "Which person smiles more?",
+    "answer": "Left",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/celeba/adj_images/test/Smiling/062728.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/celeba/adj_images/test/Smiling/154701.jpg",
+    "question": "Which person smiles more?",
+    "answer": "Right",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/cub_200_2011/att_cls_images/test/127_18/Spotted_Catbird_0023_796793.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/cub_200_2011/att_cls_images/test/127_18/Spotted_Catbird_0029_796825.jpg",
+    "answer": "Right",
+    "question": "Which bird has more yellow on its throat?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/cub_200_2011/att_cls_images/test/152_93/Clark_Nutcracker_0003_85296.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/cub_200_2011/att_cls_images/test/152_93/Clark_Nutcracker_0087_84898.jpg",
+    "answer": "Left",
+    "question": "Which bird has a smaller bill length to head length ratio?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/cub_200_2011/att_cls_images/test/154_102/Western_Wood_Pewee_0003_795050.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/cub_200_2011/att_cls_images/test/154_102/Western_Wood_Pewee_0028_795057.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its forehead?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/cub_200_2011/att_cls_images/test/239_34/Gray_Crowned_Rosy_Finch_0018_26978.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/cub_200_2011/att_cls_images/test/77_34/Gray_Crowned_Rosy_Finch_0029_797300.jpg",
+    "answer": "Left",
+    "question": "Which bird has a more spotted pattern on its breast?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/cub_200_2011/att_cls_images/test/159_104/American_Pipit_0008_100390.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/cub_200_2011/att_cls_images/test/159_104/American_Pipit_0011_99630.jpg",
+    "answer": "Left",
+    "question": "Which bird has more yellow on its forehead?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/cub_200_2011/att_cls_images/test/182_88/Western_Meadowlark_0063_77946.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/cub_200_2011/att_cls_images/test/182_88/Western_Meadowlark_0081_77798.jpg",
+    "answer": "Left",
+    "question": "Which bird has more buff on its under tail?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/cub_200_2011/att_cls_images/test/167_41/Scissor_Tailed_Flycatcher_0020_41680.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/cub_200_2011/att_cls_images/test/167_41/Scissor_Tailed_Flycatcher_0103_41938.jpg",
+    "answer": "Left",
+    "question": "Which bird has more buff on its forehead?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/cub_200_2011/att_cls_images/test/167_99/Ovenbird_0122_92993.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/cub_200_2011/att_cls_images/test/167_99/Ovenbird_0093_92705.jpg",
+    "answer": "Right",
+    "question": "Which bird has more buff on its forehead?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/cub_200_2011/att_cls_images/test/111_94/White_Breasted_Nuthatch_0120_85890.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/cub_200_2011/att_cls_images/test/111_94/White_Breasted_Nuthatch_0050_85815.jpg",
+    "answer": "Right",
+    "question": "Which bird has more grey on its breast?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/cub_200_2011/att_cls_images/test/154_103/Sayornis_0137_98305.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/cub_200_2011/att_cls_images/test/154_103/Sayornis_0129_98924.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its forehead?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/nyu_depth_v2/obj_images/test/mattress/531.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/nyu_depth_v2/obj_images/test/mattress/1100.jpg",
+    "answer": "Right",
+    "question": "Which mattress is closer to the camera?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/nyu_depth_v2/obj_images/test/bed/992.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/nyu_depth_v2/obj_images/test/bed/1184.jpg",
+    "answer": "Left",
+    "question": "Which bed is closer to the camera?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/nyu_depth_v2/obj_images/test/bed/1101.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/nyu_depth_v2/obj_images/test/bed/1186.jpg",
+    "answer": "Left",
+    "question": "Which bed is closer to the camera?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/nyu_depth_v2/obj_images/test/cutting board/132.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/nyu_depth_v2/obj_images/test/cutting board/563.jpg",
+    "answer": "Left",
+    "question": "Which cutting board is closer to the camera?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/nyu_depth_v2/obj_images/test/cabinet/528.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/nyu_depth_v2/obj_images/test/cabinet/1262.jpg",
+    "answer": "Left",
+    "question": "Which cabinet is closer to the camera?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/nyu_depth_v2/obj_images/test/sink/142.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/nyu_depth_v2/obj_images/test/sink/806.jpg",
+    "answer": "Left",
+    "question": "Which sink is closer to the camera?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/nyu_depth_v2/obj_images/test/blinds/1070.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/nyu_depth_v2/obj_images/test/blinds/1115.jpg",
+    "answer": "Left",
+    "question": "Which blinds is closer to the camera?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/nyu_depth_v2/obj_images/test/faucet/734.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/nyu_depth_v2/obj_images/test/faucet/668.jpg",
+    "answer": "Right",
+    "question": "Which faucet is closer to the camera?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/nyu_depth_v2/obj_images/test/table/549.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/nyu_depth_v2/obj_images/test/table/19.jpg",
+    "answer": "Right",
+    "question": "Which table is closer to the camera?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/nyu_depth_v2/obj_images/test/bottle/571.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/nyu_depth_v2/obj_images/test/bottle/567.jpg",
+    "answer": "Left",
+    "question": "Which bottle is closer to the camera?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/fashionpedia/adj_obj_folder_pairs_images/val/asymmetrical_dress-symmetrical_dress/asymmetrical_dress/3ad8d42ba64449a7617160489b43cffb.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/fashionpedia/adj_obj_folder_pairs_images/val/asymmetrical_dress-symmetrical_dress/symmetrical_dress/8013b694ce0185715887693a5728c3aa.jpg",
+    "answer": "Left",
+    "question": "Which dress is more asymmetrical?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/fashionpedia/adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-square (neckline)_neckline/asymmetric (neckline)_neckline/93689df6d05b8406fcf9083057344e3e.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/fashionpedia/adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-square (neckline)_neckline/square (neckline)_neckline/fd567ffad275955ac945eeeacc1fdac5.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more square?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/fashionpedia/adj_obj_folder_pairs_images/val/floral_skirt-geometric_skirt/floral_skirt/c9946804239bdb74aa23c4a56445b9a8.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/fashionpedia/adj_obj_folder_pairs_images/val/floral_skirt-geometric_skirt/geometric_skirt/e9276aedf39f09ebe6ded9e203982fea.jpg",
+    "answer": "Left",
+    "question": "Which skirt is more floral?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/fashionpedia/adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-square (neckline)_neckline/asymmetric (neckline)_neckline/3ad8d42ba64449a7617160489b43cffb.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/fashionpedia/adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-square (neckline)_neckline/square (neckline)_neckline/31376f97ef5d1d083e6f1092d5d33b7b.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more square?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/fashionpedia/adj_obj_folder_pairs_images/val/oval (neck)_neckline-plunging (neckline)_neckline/oval (neck)_neckline/fb24ea2a89e0ec6dc4b093ccbb2fc743.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/fashionpedia/adj_obj_folder_pairs_images/val/oval (neck)_neckline-plunging (neckline)_neckline/plunging (neckline)_neckline/de699dedf1aade91f713ea59f187f74f.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more plunging?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/fashionpedia/adj_obj_folder_pairs_images/val/curved (fit)_pants-regular (fit)_pants/curved (fit)_pants/4d3fd642c9d08290f6262759a51d252f.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/fashionpedia/adj_obj_folder_pairs_images/val/curved (fit)_pants-regular (fit)_pants/regular (fit)_pants/0146a53e12d690914995248fb6872121.jpg",
+    "answer": "Left",
+    "question": "Which pants'  fit is more curved?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/fashionpedia/adj_obj_folder_pairs_images/val/distressed_pants-floral_pants/distressed_pants/ff6884bdb45a9aca6df20885e950eb1f.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/fashionpedia/adj_obj_folder_pairs_images/val/distressed_pants-floral_pants/floral_pants/4872c05863d20208e9d4c59587261de2.jpg",
+    "answer": "Right",
+    "question": "Which pants are more floral?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/fashionpedia/adj_obj_folder_pairs_images/val/asymmetrical_dress-symmetrical_dress/asymmetrical_dress/d94ce4e0c5ce05803cf589dbcfa81d15.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/fashionpedia/adj_obj_folder_pairs_images/val/asymmetrical_dress-symmetrical_dress/symmetrical_dress/37370ccfad7a49a1121ad83eb0a39b87.jpg",
+    "answer": "Left",
+    "question": "Which dress is more asymmetrical?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/fashionpedia/adj_obj_folder_pairs_images/val/oval (neck)_neckline-plunging (neckline)_neckline/oval (neck)_neckline/9899405b768a99e31657ccf8d2931e92.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/fashionpedia/adj_obj_folder_pairs_images/val/oval (neck)_neckline-plunging (neckline)_neckline/plunging (neckline)_neckline/de90e3f82e7a96e74dfc900b07caf5ab.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more oval?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/fashionpedia/adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/asymmetric (neckline)_neckline/3ad8d42ba64449a7617160489b43cffb.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/fashionpedia/adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/round (neck)_neckline/eb20c87403d09323d402b3461afbdb0e.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more asymmetric?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/fer-2013/test/fearful/im148.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/fer-2013/test/fearful/im143.png",
+    "question": "Which person feels more fearful?",
+    "answer": "Right",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/fer-2013/test/neutral/im934.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/fer-2013/test/neutral/im932.png",
+    "question": "Which person feels more neutral?",
+    "answer": "Left",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/fer-2013/test/neutral/im708.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/fer-2013/test/neutral/im700.png",
+    "question": "Which person feels more neutral?",
+    "answer": "Left",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/fer-2013/test/angry/im347.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/fer-2013/test/angry/im346.png",
+    "question": "Which person feels more angry?",
+    "answer": "Left",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/fer-2013/test/sad/im693.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/fer-2013/test/sad/im694.png",
+    "question": "Which person feels more sad?",
+    "answer": "Right",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/fer-2013/test/happy/im707.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/fer-2013/test/happy/im708.png",
+    "question": "Which person feels more happy?",
+    "answer": "Left",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/fer-2013/test/surprised/im286.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/fer-2013/test/surprised/im285.png",
+    "question": "Which person feels more surprised?",
+    "answer": "Right",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/fer-2013/test/sad/im156.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/fer-2013/test/sad/im16.png",
+    "question": "Which person feels more sad?",
+    "answer": "Left",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/fer-2013/test/fearful/im257.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/fer-2013/test/fearful/im258.png",
+    "question": "Which person feels more fearful?",
+    "answer": "Right",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/fer-2013/test/surprised/im659.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/fer-2013/test/surprised/im660.png",
+    "question": "Which person feels more surprised?",
+    "answer": "Right",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "path_input": "magic_brush/dev/images/335479/335479-input.png",
+    "input_global": "there are many people riding this train together",
+    "path_output": "magic_brush/dev/images/335479/335479-output1.png",
+    "output_local": "angry people riding the train together",
+    "output_global": "There are many angry people riding this train together",
+    "instruction": "make the people angry",
+    "CLIP_similarity": 0.9814453125,
+    "GPT_option": "coat, newspaper, suitcase, hair, eye, ear, hand, leg, seat, backpack, button, glasses, wristwatch, shoe, pole, ceiling panel, floor.",
+    "If_modified_option": true,
+    "Modified_option": "coat, newspaper, suitcase, hair, eye, ear, hand, leg, seat, bag, glasses, wristwatch, shoe, pole, ceiling panel, floor, man, pants, jacket, ",
+    "Answeer": "man",
+    "Quality": "accept",
+    "question": "\n                        What is the most obvious difference between two images? Choose from the following options. \n                        If there is no obvious difference, choose None. Options: None,coat, newspaper, suitcase, hair, eye, ear, hand, leg, seat, bag, glasses, wristwatch, shoe, pole, ceiling panel, floor, man, pants, jacket, .\n                        Please only return one of the options without any other words. \n                        ",
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/magicbrush/dev/images/335479/335479-input.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/magicbrush/dev/images/335479/335479-output1.png",
+    "answer": "man",
+    "final_option": [
+      "coat",
+      " newspaper",
+      " suitcase",
+      " hair",
+      " eye",
+      " ear",
+      " hand",
+      " leg",
+      " seat",
+      " bag",
+      " glasses",
+      " wristwatch",
+      " shoe",
+      " pole",
+      " ceiling panel",
+      " floor",
+      " man",
+      " pants",
+      " jacket",
+      "None"
+    ],
+    "human_answer": " man"
+  },
+  {
+    "path_input": "magic_brush/dev/images/43425/43425-output2.png",
+    "input_global": "A black long haired dog sitting outside next to a street with one eye.",
+    "path_output": "magic_brush/dev/images/43425/43425-output3.png",
+    "output_local": "hat",
+    "output_global": "A black long haired dog sitting outside next to a street with one eye wearing a hat.",
+    "instruction": "Give it a hat.",
+    "CLIP_similarity": 0.94873046875,
+    "GPT_option": "dog, eye, mouth, ear, hair, hat",
+    "If_modified_option": true,
+    "Modified_option": "dog, eye, mouth, fur, nose, ear, hair, hat",
+    "Answeer": "hat",
+    "Quality": "accept",
+    "question": "\n                        What is the most obvious difference between two images? Choose from the following options. \n                        If there is no obvious difference, choose None. Options: None,dog, eye, mouth, fur, nose, ear, hair, hat.\n                        Please only return one of the options without any other words. \n                        ",
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/magicbrush/dev/images/43425/43425-output2.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/magicbrush/dev/images/43425/43425-output3.png",
+    "answer": "hat",
+    "final_option": [
+      "dog",
+      " eye",
+      " mouth",
+      " fur",
+      " nose",
+      " ear",
+      " hair",
+      " hat",
+      "None"
+    ],
+    "human_answer": " hat"
+  },
+  {
+    "path_input": "magic_brush/dev/images/70952/70952-output1.png",
+    "input_global": "A dark-haired older man holding a glass of wine while standing between two beautiful ladies.",
+    "path_output": "magic_brush/dev/images/70952/70952-output2.png",
+    "output_local": "ladies in red dresses",
+    "output_global": "A dark-haired older man holding a glass of wine while standing between two beautiful ladies in red dresses.",
+    "instruction": "let the ladies wear red dresses",
+    "CLIP_similarity": 0.97607421875,
+    "GPT_option": "wine glass, hat, shirt, dress, apron, earring, leg, hand, eye, mouth, ear, hair, finger, necklace",
+    "If_modified_option": true,
+    "Modified_option": "wine glass, hat, shirt, red dress, apron, earring, hand, eye, mouth, ear, hair, finger, picture frame, wall, ring",
+    "Answeer": "red dress",
+    "Quality": "accept",
+    "question": "\n                        What is the most obvious difference between two images? Choose from the following options. \n                        If there is no obvious difference, choose None. Options: None,wine glass, hat, shirt, red dress, apron, earring, hand, eye, mouth, ear, hair, finger, picture frame, wall, ring.\n                        Please only return one of the options without any other words. \n                        ",
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/magicbrush/dev/images/70952/70952-output1.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/magicbrush/dev/images/70952/70952-output2.png",
+    "answer": "red dress",
+    "final_option": [
+      "wine glass",
+      " hat",
+      " shirt",
+      " red dress",
+      " apron",
+      " earring",
+      " hand",
+      " eye",
+      " mouth",
+      " ear",
+      " hair",
+      " finger",
+      " picture frame",
+      " wall",
+      " ring",
+      "None"
+    ],
+    "human_answer": " red dress"
+  },
+  {
+    "path_input": "magic_brush/dev/images/501972/501972-output1.png",
+    "input_global": "A battle tank parked next to a sidewalk.",
+    "path_output": "magic_brush/dev/images/501972/501972-output2.png",
+    "output_local": "man running towards battle tank",
+    "output_global": "A man running towards a battle tank parked next to a sidewalk.",
+    "instruction": "let a man run towards the tank",
+    "CLIP_similarity": 0.96533203125,
+    "GPT_option": "leg, eye, ear, hair, hand, t-shirt, pants, street, tank, palm trees, sky, road, road signs, bushes",
+    "If_modified_option": true,
+    "Modified_option": "man, road lines, tank, wheels, palm trees, sky, road, road signs, bushes, grass, traffic lights, ",
+    "Answeer": "man",
+    "Quality": "accept",
+    "question": "\n                        What is the most obvious difference between two images? Choose from the following options. \n                        If there is no obvious difference, choose None. Options: None,man, road lines, tank, wheels, palm trees, sky, road, road signs, bushes, grass, traffic lights, .\n                        Please only return one of the options without any other words. \n                        ",
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/magicbrush/dev/images/501972/501972-output1.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/magicbrush/dev/images/501972/501972-output2.png",
+    "answer": "man",
+    "final_option": [
+      "man",
+      " road lines",
+      " tank",
+      " wheels",
+      " palm trees",
+      " sky",
+      " road",
+      " road signs",
+      " bushes",
+      " grass",
+      " traffic lights",
+      "None"
+    ],
+    "human_answer": "man"
+  },
+  {
+    "path_input": "magic_brush/dev/images/90192/90192-input.png",
+    "input_global": "A white plate topped with sliced up fruit.",
+    "path_output": "magic_brush/dev/images/90192/90192-output1.png",
+    "output_local": "blue plate with sliced up fruit",
+    "output_global": "A blue plate topped with sliced up fruit.",
+    "instruction": "Make the plate blue.",
+    "CLIP_similarity": 0.9873046875,
+    "GPT_option": "plate, watermelon, kiwi, orange, banana, blueberry, pineapple, apple",
+    "If_modified_option": false,
+    "Modified_option": "plate, watermelon, kiwi, orange, banana, blueberry, pineapple, apple",
+    "Answeer": "plate",
+    "Quality": "accept",
+    "question": "\n                        What is the most obvious difference between two images? Choose from the following options. \n                        If there is no obvious difference, choose None. Options: None,plate, watermelon, kiwi, orange, banana, blueberry, pineapple, apple.\n                        Please only return one of the options without any other words. \n                        ",
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/magicbrush/dev/images/90192/90192-input.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/magicbrush/dev/images/90192/90192-output1.png",
+    "answer": "plate",
+    "final_option": [
+      "plate",
+      " watermelon",
+      " kiwi",
+      " orange",
+      " banana",
+      " blueberry",
+      " pineapple",
+      " apple",
+      "None"
+    ],
+    "human_answer": " watermelon"
+  },
+  {
+    "path_input": "magic_brush/dev/images/25989/25989-output2.png",
+    "input_global": "A small black dog with a newspaper in its mouth.",
+    "path_output": "magic_brush/dev/images/25989/25989-output3.png",
+    "output_local": "potted plant and small black dog with a newspaper in its mouth.",
+    "output_global": "A small black dog with a newspaper in its mouth next to a potted plant.",
+    "instruction": "let there be potted plant",
+    "CLIP_similarity": 0.99169921875,
+    "GPT_option": "dog, soccer ball, plant pots, grass, shoe",
+    "If_modified_option": true,
+    "Modified_option": "dog, soccer ball, plant pots, grass, leaves, paper, ear, paw, hair",
+    "Answeer": "plant pots",
+    "Quality": "accept",
+    "question": "\n                        What is the most obvious difference between two images? Choose from the following options. \n                        If there is no obvious difference, choose None. Options: None,dog, soccer ball, plant pots, grass, leaves, paper, ear, paw, hair.\n                        Please only return one of the options without any other words. \n                        ",
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/magicbrush/dev/images/25989/25989-output2.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/magicbrush/dev/images/25989/25989-output3.png",
+    "answer": "plant pots",
+    "final_option": [
+      "dog",
+      " soccer ball",
+      " plant pots",
+      " grass",
+      " leaves",
+      " paper",
+      " ear",
+      " paw",
+      " hair",
+      "None"
+    ],
+    "human_answer": " plant pots"
+  },
+  {
+    "path_input": "magic_brush/dev/images/44437/44437-input.png",
+    "input_global": "three baseball players on the baseball field at a game",
+    "path_output": "magic_brush/dev/images/44437/44437-output1.png",
+    "output_local": "baseball player with face mask",
+    "output_global": "Baseball player wearing a face mask on the field during a game with two teammates",
+    "instruction": "put a face mask on one of the players",
+    "CLIP_similarity": 0.95263671875,
+    "GPT_option": "leg, eye, ear, hand, hair, hat, t-shirt, pants, glove, baseball cap, baseball helmet, catcher's gear, baseball, jersey, shoes, socks, bracelet",
+    "If_modified_option": true,
+    "Modified_option": "leg, eye, ear, hand, hair, hat, shirt, pants, glove, baseball cap, baseball helmet, catcher's gear, baseball, jersey, shoes, socks, bracelet, knee pads, grass, spectators, face mask",
+    "Answeer": "face mask",
+    "Quality": "accept",
+    "question": "\n                        What is the most obvious difference between two images? Choose from the following options. \n                        If there is no obvious difference, choose None. Options: None,leg, eye, ear, hand, hair, hat, shirt, pants, glove, baseball cap, baseball helmet, catcher's gear, baseball, jersey, shoes, socks, bracelet, knee pads, grass, spectators, face mask.\n                        Please only return one of the options without any other words. \n                        ",
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/magicbrush/dev/images/44437/44437-input.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/magicbrush/dev/images/44437/44437-output1.png",
+    "answer": "face mask",
+    "final_option": [
+      "leg",
+      " eye",
+      " ear",
+      " hand",
+      " hair",
+      " hat",
+      " shirt",
+      " pants",
+      " glove",
+      " baseball cap",
+      " baseball helmet",
+      " catcher's gear",
+      " baseball",
+      " jersey",
+      " shoes",
+      " socks",
+      " bracelet",
+      " knee pads",
+      " grass",
+      " spectators",
+      " face mask",
+      "None"
+    ],
+    "human_answer": " face mask"
+  },
+  {
+    "path_input": "magic_brush/dev/images/381112/381112-input.png",
+    "input_global": "A herd of giraffe standing next to each other near a tree.",
+    "path_output": "magic_brush/dev/images/381112/381112-output1.png",
+    "output_local": "A herd of giraffe standing near a tree.",
+    "output_global": "A group of giraffes standing near a tree.",
+    "instruction": "remove a giraffe",
+    "CLIP_similarity": 0.94091796875,
+    "GPT_option": "leg, eye, ear, tree, giraffe, sky, wall, grass, shade structure",
+    "If_modified_option": true,
+    "Modified_option": "giraffe, sky, wall, grass, shade structure, shadow, tree, ",
+    "Answeer": "giraffe",
+    "Quality": "accept",
+    "question": "\n                        What is the most obvious difference between two images? Choose from the following options. \n                        If there is no obvious difference, choose None. Options: None,giraffe, sky, wall, grass, shade structure, shadow, tree, .\n                        Please only return one of the options without any other words. \n                        ",
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/magicbrush/dev/images/381112/381112-input.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/magicbrush/dev/images/381112/381112-output1.png",
+    "answer": "giraffe",
+    "final_option": [
+      "giraffe",
+      " sky",
+      " wall",
+      " grass",
+      " shade structure",
+      " shadow",
+      " tree",
+      "None"
+    ],
+    "human_answer": "giraffe"
+  },
+  {
+    "path_input": "magic_brush/dev/images/311326/311326-input.png",
+    "input_global": "Blood oranges cut in half side by side on a cutting board.",
+    "path_output": "magic_brush/dev/images/311326/311326-output1.png",
+    "output_local": "apple cut in half on a cutting board",
+    "output_global": "Apples cut in half side by side on a cutting board.",
+    "instruction": "Let the blood orange be swapped with an apple.",
+    "CLIP_similarity": 0.9453125,
+    "GPT_option": "apple, orange slices",
+    "If_modified_option": true,
+    "Modified_option": "orange slices, apple, seeds, table",
+    "Answeer": "apple",
+    "Quality": "accept",
+    "question": "\n                        What is the most obvious difference between two images? Choose from the following options. \n                        If there is no obvious difference, choose None. Options: None,orange slices, apple, seeds, table.\n                        Please only return one of the options without any other words. \n                        ",
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/magicbrush/dev/images/311326/311326-input.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/magicbrush/dev/images/311326/311326-output1.png",
+    "answer": "apple",
+    "final_option": [
+      "orange slices",
+      " apple",
+      " seeds",
+      " table",
+      "None"
+    ],
+    "human_answer": " apple"
+  },
+  {
+    "path_input": "magic_brush/dev/images/456782/456782-input.png",
+    "input_global": "a number of traffic lights hanging above a street",
+    "path_output": "magic_brush/dev/images/456782/456782-output1.png",
+    "output_local": "green traffic lights hanging above a street",
+    "output_global": "A number of traffic lights hanging above a street with green lights shining",
+    "instruction": "change the red lights to green lights",
+    "CLIP_similarity": 0.982421875,
+    "GPT_option": "clouds, traffic lights, power lines, cars, road, signs, trees, buildings, sky.",
+    "If_modified_option": true,
+    "Modified_option": "clouds, traffic lights, power lines, cars, road, signs, trees, buildings, sky, sidewalk, headlights, grass",
+    "Answeer": "traffic lights",
+    "Quality": "accept",
+    "question": "\n                        What is the most obvious difference between two images? Choose from the following options. \n                        If there is no obvious difference, choose None. Options: None,clouds, traffic lights, power lines, cars, road, signs, trees, buildings, sky, sidewalk, headlights, grass.\n                        Please only return one of the options without any other words. \n                        ",
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/magicbrush/dev/images/456782/456782-input.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/magicbrush/dev/images/456782/456782-output1.png",
+    "answer": "traffic lights",
+    "final_option": [
+      "clouds",
+      " traffic lights",
+      " power lines",
+      " cars",
+      " road",
+      " signs",
+      " trees",
+      " buildings",
+      " sky",
+      " sidewalk",
+      " headlights",
+      " grass",
+      "None"
+    ],
+    "human_answer": " traffic lights"
+  },
+  {
+    "image": "q-bench2/llvisionqa_compare_dev/sd1.5_highcorr_006.jpg_cat_JPEGImages__2009_003583.jpg.jpg",
+    "question": "Compared to the first image, how is the clarity of the second image? Options: Less clear, About the same, Clearer. Please only return one of the options without any other words or punctuation.",
+    "answer": "About the same",
+    "option": [
+      "Less clear",
+      "About the same",
+      "Clearer"
+    ],
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/q-bench2/llvisionqa_compare_dev/sd1.5_highcorr_006.jpg_cat_JPEGImages__2009_003583.jpg.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/q-bench2/llvisionqa_compare_dev/sd1.5_highcorr_006.jpg_cat_JPEGImages__2009_003583.jpg.jpg",
+    "final_option": [
+      "Less clear",
+      "About the same",
+      "Clearer"
+    ],
+    "human_answer": "Clearer"
+  },
+  {
+    "image": "q-bench2/llvisionqa_compare_dev/11310848503.jpg_cat_0086fc43-0327-4ff1-8f27-26262a6e36c4.webp.jpg",
+    "question": "Compared to the first image, how is the richness of color in the second image? Options: Richer, More monotonous, Similar. Please only return one of the options without any other words or punctuation.",
+    "answer": "Richer",
+    "option": [
+      "Richer",
+      "More monotonous",
+      "Similar"
+    ],
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/q-bench2/llvisionqa_compare_dev/11310848503.jpg_cat_0086fc43-0327-4ff1-8f27-26262a6e36c4.webp.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/q-bench2/llvisionqa_compare_dev/11310848503.jpg_cat_0086fc43-0327-4ff1-8f27-26262a6e36c4.webp.jpg",
+    "final_option": [
+      "Richer",
+      "More monotonous",
+      "Similar"
+    ],
+    "human_answer": "Richer"
+  },
+  {
+    "image": "q-bench2/llvisionqa_compare_dev/3704662776.jpg_cat_EMOTIC__COCO_val2014_000000513389.jpg.jpg",
+    "question": "Are both images not genuine? Options: Yes, No. Please only return one of the options without any other words or punctuation.",
+    "answer": "No",
+    "option": [
+      "Yes",
+      "No"
+    ],
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/q-bench2/llvisionqa_compare_dev/3704662776.jpg_cat_EMOTIC__COCO_val2014_000000513389.jpg.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/q-bench2/llvisionqa_compare_dev/3704662776.jpg_cat_EMOTIC__COCO_val2014_000000513389.jpg.jpg",
+    "final_option": [
+      "Yes",
+      "No"
+    ],
+    "human_answer": "No"
+  },
+  {
+    "image": "q-bench2/llvisionqa_compare_dev/3900873243.jpg_cat_227.jpg.jpg",
+    "question": "Compared to the first image, how is the noise situation in the second image? Options: Similar, More serious, Slighter. Please only return one of the options without any other words or punctuation.",
+    "answer": "More serious",
+    "option": [
+      "Similar",
+      "More serious",
+      "Slighter"
+    ],
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/q-bench2/llvisionqa_compare_dev/3900873243.jpg_cat_227.jpg.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/q-bench2/llvisionqa_compare_dev/3900873243.jpg_cat_227.jpg.jpg",
+    "final_option": [
+      "Similar",
+      "More serious",
+      "Slighter"
+    ],
+    "human_answer": "More serious"
+  },
+  {
+    "image": "q-bench2/llvisionqa_compare_dev/10732971054.jpg_cat_51.jpg.jpg",
+    "question": "Is the focus of the first image not as good as the second image? Options: Yes, No. Please only return one of the options without any other words or punctuation.",
+    "answer": "No",
+    "option": [
+      "Yes",
+      "No"
+    ],
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/q-bench2/llvisionqa_compare_dev/10732971054.jpg_cat_51.jpg.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/q-bench2/llvisionqa_compare_dev/10732971054.jpg_cat_51.jpg.jpg",
+    "final_option": [
+      "Yes",
+      "No"
+    ],
+    "human_answer": "No"
+  },
+  {
+    "image": "q-bench2/llvisionqa_compare_dev/840.JPG_cat_387.bmp.jpg",
+    "question": "Compared to the first image, how is the texture detail of the second image? Options: Richer, About the same, Less rich. Please only return one of the options without any other words or punctuation.",
+    "answer": "Richer",
+    "option": [
+      "Richer",
+      "About the same",
+      "Less rich"
+    ],
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/q-bench2/llvisionqa_compare_dev/840.JPG_cat_387.bmp.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/q-bench2/llvisionqa_compare_dev/840.JPG_cat_387.bmp.jpg",
+    "final_option": [
+      "Richer",
+      "About the same",
+      "Less rich"
+    ],
+    "human_answer": "Richer"
+  },
+  {
+    "image": "q-bench2/llvisionqa_compare_dev/a6352fe1-5b8f-4d93-a594-b3236caaa8e5.webp_cat_7960fadc-e44f-493e-bf78-91711e7614e0.webp.jpg",
+    "question": "Are both of these images very real? Options: Yes, No. Please only return one of the options without any other words or punctuation.",
+    "answer": "No",
+    "option": [
+      "Yes",
+      "No"
+    ],
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/q-bench2/llvisionqa_compare_dev/a6352fe1-5b8f-4d93-a594-b3236caaa8e5.webp_cat_7960fadc-e44f-493e-bf78-91711e7614e0.webp.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/q-bench2/llvisionqa_compare_dev/a6352fe1-5b8f-4d93-a594-b3236caaa8e5.webp_cat_7960fadc-e44f-493e-bf78-91711e7614e0.webp.jpg",
+    "final_option": [
+      "Yes",
+      "No"
+    ],
+    "human_answer": "No"
+  },
+  {
+    "image": "q-bench2/llvisionqa_compare_dev/00085.jpg_cat_game_1773.jpg.jpg",
+    "question": "Which area in the two images is not affected by blurring? Options: The bushes in the first image, The floor in the first image, The background in the second image, The man in the second image. Please only return one of the options without any other words or punctuation.",
+    "answer": "The man in the second image",
+    "option": [
+      "The bushes in the first image",
+      "The floor in the first image",
+      "The background in the second image",
+      "The man in the second image"
+    ],
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/q-bench2/llvisionqa_compare_dev/00085.jpg_cat_game_1773.jpg.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/q-bench2/llvisionqa_compare_dev/00085.jpg_cat_game_1773.jpg.jpg",
+    "final_option": [
+      "The bushes in the first image",
+      "The floor in the first image",
+      "The background in the second image",
+      "The man in the second image"
+    ],
+    "human_answer": "The man in the second image"
+  },
+  {
+    "image": "q-bench2/llvisionqa_compare_dev/2938430307.jpg_cat_99.jpg.jpg",
+    "question": "Which part below is most affected by noise? Options: The ground in the first image, The person in the second image, The animal in the first image. Please only return one of the options without any other words or punctuation.",
+    "answer": "The person in the second image",
+    "option": [
+      "The ground in the first image",
+      "The person in the second image",
+      "The animal in the first image"
+    ],
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/q-bench2/llvisionqa_compare_dev/2938430307.jpg_cat_99.jpg.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/q-bench2/llvisionqa_compare_dev/2938430307.jpg_cat_99.jpg.jpg",
+    "final_option": [
+      "The ground in the first image",
+      "The person in the second image",
+      "The animal in the first image"
+    ],
+    "human_answer": "The person in the second image"
+  },
+  {
+    "image": "q-bench2/llvisionqa_compare_dev/5795183898.jpg_cat_6513274589.jpg.jpg",
+    "question": "Which part has the most severe issue of losing texture details? Options: Checkerboard ground in the first image, Horse in the second image, Background in the second image. Please only return one of the options without any other words or punctuation.",
+    "answer": "Background in the second image",
+    "option": [
+      "Checkerboard ground in the first image",
+      "Horse in the second image",
+      "Background in the second image"
+    ],
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/q-bench2/llvisionqa_compare_dev/5795183898.jpg_cat_6513274589.jpg.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/q-bench2/llvisionqa_compare_dev/5795183898.jpg_cat_6513274589.jpg.jpg",
+    "final_option": [
+      "Checkerboard ground in the first image",
+      "Horse in the second image",
+      "Background in the second image"
+    ],
+    "human_answer": "Background in the second image"
+  },
+  {
+    "left": "germany_bundesliga/2015-2016/2015-09-20 - 18-30 Dortmund 3 - 0 Bayer Leverkusen/1_frames_actions/001556_Foul/001556.png",
+    "right": "germany_bundesliga/2015-2016/2015-09-20 - 18-30 Dortmund 3 - 0 Bayer Leverkusen/1_frames_actions/001556_Foul/001558.png",
+    "answer": "Left",
+    "CLIP": 0.90869140625,
+    "time": "001556",
+    "action": "Foul",
+    "match": "2015-09-20 - 18-30 Dortmund 3 - 0 Bayer Leverkusen",
+    "season": "2015-2016",
+    "league": "germany_bundesliga",
+    "question": "\n                                These are two frames related to Foul in a soccer match.\n                                Which frame happens first? Please only return one option from (Left, Right, None)\n                                without any other words. If these two frames are exactly the same, select None.\n                                Otherwise, choose Left if the first frame happens first and select Right\n                                if the second frame happens first.\n                                ",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/soccernet/germany_bundesliga/2015-2016/2015-09-20 - 18-30 Dortmund 3 - 0 Bayer Leverkusen/1_frames_actions/001556_Foul/001556.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/soccernet/germany_bundesliga/2015-2016/2015-09-20 - 18-30 Dortmund 3 - 0 Bayer Leverkusen/1_frames_actions/001556_Foul/001558.png",
+    "human_answer": "Left"
+  },
+  {
+    "left": "england_epl/2015-2016/2016-02-27 - 18-00 Southampton 1 - 2 Chelsea/1_frames_actions/001092_Foul/001094.png",
+    "right": "england_epl/2015-2016/2016-02-27 - 18-00 Southampton 1 - 2 Chelsea/1_frames_actions/001092_Foul/001092.png",
+    "answer": "Right",
+    "CLIP": 0.8251953125,
+    "time": "001092",
+    "action": "Foul",
+    "match": "2016-02-27 - 18-00 Southampton 1 - 2 Chelsea",
+    "season": "2015-2016",
+    "league": "england_epl",
+    "question": "\n                                These are two frames related to Foul in a soccer match.\n                                Which frame happens first? Please only return one option from (Left, Right, None)\n                                without any other words. If these two frames are exactly the same, select None.\n                                Otherwise, choose Left if the first frame happens first and select Right\n                                if the second frame happens first.\n                                ",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/soccernet/england_epl/2015-2016/2016-02-27 - 18-00 Southampton 1 - 2 Chelsea/1_frames_actions/001092_Foul/001094.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/soccernet/england_epl/2015-2016/2016-02-27 - 18-00 Southampton 1 - 2 Chelsea/1_frames_actions/001092_Foul/001092.png",
+    "human_answer": "Left"
+  },
+  {
+    "left": "italy_serie-a/2016-2017/2016-10-02 - 19-00 AC Milan 4 - 3 Sassuolo/2_frames_actions/001467_Foul/001467.png",
+    "right": "italy_serie-a/2016-2017/2016-10-02 - 19-00 AC Milan 4 - 3 Sassuolo/2_frames_actions/001467_Foul/001469.png",
+    "answer": "Left",
+    "CLIP": 0.9482421875,
+    "time": "001467",
+    "action": "Foul",
+    "match": "2016-10-02 - 19-00 AC Milan 4 - 3 Sassuolo",
+    "season": "2016-2017",
+    "league": "italy_serie-a",
+    "question": "\n                                These are two frames related to Foul in a soccer match.\n                                Which frame happens first? Please only return one option from (Left, Right, None)\n                                without any other words. If these two frames are exactly the same, select None.\n                                Otherwise, choose Left if the first frame happens first and select Right\n                                if the second frame happens first.\n                                ",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/soccernet/italy_serie-a/2016-2017/2016-10-02 - 19-00 AC Milan 4 - 3 Sassuolo/2_frames_actions/001467_Foul/001467.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/soccernet/italy_serie-a/2016-2017/2016-10-02 - 19-00 AC Milan 4 - 3 Sassuolo/2_frames_actions/001467_Foul/001469.png",
+    "human_answer": "Left"
+  },
+  {
+    "left": "england_epl/2015-2016/2015-08-30 - 18-00 Swansea 2 - 1 Manchester United/1_frames_actions/000014_Shots off target/000016.png",
+    "right": "england_epl/2015-2016/2015-08-30 - 18-00 Swansea 2 - 1 Manchester United/1_frames_actions/000014_Shots off target/000014.png",
+    "answer": "Right",
+    "CLIP": 0.97412109375,
+    "time": "000014",
+    "action": "Shots off target",
+    "match": "2015-08-30 - 18-00 Swansea 2 - 1 Manchester United",
+    "season": "2015-2016",
+    "league": "england_epl",
+    "question": "\n                                These are two frames related to Shots off target in a soccer match.\n                                Which frame happens first? Please only return one option from (Left, Right, None)\n                                without any other words. If these two frames are exactly the same, select None.\n                                Otherwise, choose Left if the first frame happens first and select Right\n                                if the second frame happens first.\n                                ",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/soccernet/england_epl/2015-2016/2015-08-30 - 18-00 Swansea 2 - 1 Manchester United/1_frames_actions/000014_Shots off target/000016.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/soccernet/england_epl/2015-2016/2015-08-30 - 18-00 Swansea 2 - 1 Manchester United/1_frames_actions/000014_Shots off target/000014.png",
+    "human_answer": "Right"
+  },
+  {
+    "left": "spain_laliga/2015-2016/2015-12-20 - 18-00 Real Madrid 1 - 0 Rayo Vallecano/1_frames_actions/002078_Indirect free-kick/002080.png",
+    "right": "spain_laliga/2015-2016/2015-12-20 - 18-00 Real Madrid 1 - 0 Rayo Vallecano/1_frames_actions/002078_Indirect free-kick/002078.png",
+    "answer": "Right",
+    "CLIP": 0.974609375,
+    "time": "002078",
+    "action": "Indirect free-kick",
+    "match": "2015-12-20 - 18-00 Real Madrid 1 - 0 Rayo Vallecano",
+    "season": "2015-2016",
+    "league": "spain_laliga",
+    "question": "\n                                These are two frames related to Indirect free-kick in a soccer match.\n                                Which frame happens first? Please only return one option from (Left, Right, None)\n                                without any other words. If these two frames are exactly the same, select None.\n                                Otherwise, choose Left if the first frame happens first and select Right\n                                if the second frame happens first.\n                                ",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/soccernet/spain_laliga/2015-2016/2015-12-20 - 18-00 Real Madrid 1 - 0 Rayo Vallecano/1_frames_actions/002078_Indirect free-kick/002080.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/soccernet/spain_laliga/2015-2016/2015-12-20 - 18-00 Real Madrid 1 - 0 Rayo Vallecano/1_frames_actions/002078_Indirect free-kick/002078.png",
+    "human_answer": "Right"
+  },
+  {
+    "left": "england_epl/2015-2016/2016-04-23 - 17-00 Bournemouth 1 - 4 Chelsea/1_frames_actions/002025_Shots on target/002027.png",
+    "right": "england_epl/2015-2016/2016-04-23 - 17-00 Bournemouth 1 - 4 Chelsea/1_frames_actions/002025_Shots on target/002025.png",
+    "answer": "Right",
+    "CLIP": 0.876953125,
+    "time": "002025",
+    "action": "Shots on target",
+    "match": "2016-04-23 - 17-00 Bournemouth 1 - 4 Chelsea",
+    "season": "2015-2016",
+    "league": "england_epl",
+    "question": "\n                                These are two frames related to Shots on target in a soccer match.\n                                Which frame happens first? Please only return one option from (Left, Right, None)\n                                without any other words. If these two frames are exactly the same, select None.\n                                Otherwise, choose Left if the first frame happens first and select Right\n                                if the second frame happens first.\n                                ",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/soccernet/england_epl/2015-2016/2016-04-23 - 17-00 Bournemouth 1 - 4 Chelsea/1_frames_actions/002025_Shots on target/002027.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/soccernet/england_epl/2015-2016/2016-04-23 - 17-00 Bournemouth 1 - 4 Chelsea/1_frames_actions/002025_Shots on target/002025.png",
+    "human_answer": "Left"
+  },
+  {
+    "left": "europe_uefa-champions-league/2016-2017/2016-09-28 - 21-45 Napoli 4 - 2 Benfica/1_frames_actions/001145_Goal/001147.png",
+    "right": "europe_uefa-champions-league/2016-2017/2016-09-28 - 21-45 Napoli 4 - 2 Benfica/1_frames_actions/001145_Goal/001145.png",
+    "answer": "Right",
+    "CLIP": 0.9326171875,
+    "time": "001145",
+    "action": "Goal",
+    "match": "2016-09-28 - 21-45 Napoli 4 - 2 Benfica",
+    "season": "2016-2017",
+    "league": "europe_uefa-champions-league",
+    "question": "\n                                These are two frames related to Goal in a soccer match.\n                                Which frame happens first? Please only return one option from (Left, Right, None)\n                                without any other words. If these two frames are exactly the same, select None.\n                                Otherwise, choose Left if the first frame happens first and select Right\n                                if the second frame happens first.\n                                ",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/soccernet/europe_uefa-champions-league/2016-2017/2016-09-28 - 21-45 Napoli 4 - 2 Benfica/1_frames_actions/001145_Goal/001147.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/soccernet/europe_uefa-champions-league/2016-2017/2016-09-28 - 21-45 Napoli 4 - 2 Benfica/1_frames_actions/001145_Goal/001145.png",
+    "human_answer": "Right"
+  },
+  {
+    "left": "england_epl/2015-2016/2016-01-24 - 19-00 Arsenal 0 - 1 Chelsea/2_frames_actions/000589_Corner/000591.png",
+    "right": "england_epl/2015-2016/2016-01-24 - 19-00 Arsenal 0 - 1 Chelsea/2_frames_actions/000589_Corner/000589.png",
+    "answer": "Right",
+    "CLIP": 0.95361328125,
+    "time": "000589",
+    "action": "Corner",
+    "match": "2016-01-24 - 19-00 Arsenal 0 - 1 Chelsea",
+    "season": "2015-2016",
+    "league": "england_epl",
+    "question": "\n                                These are two frames related to Corner in a soccer match.\n                                Which frame happens first? Please only return one option from (Left, Right, None)\n                                without any other words. If these two frames are exactly the same, select None.\n                                Otherwise, choose Left if the first frame happens first and select Right\n                                if the second frame happens first.\n                                ",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/soccernet/england_epl/2015-2016/2016-01-24 - 19-00 Arsenal 0 - 1 Chelsea/2_frames_actions/000589_Corner/000591.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/soccernet/england_epl/2015-2016/2016-01-24 - 19-00 Arsenal 0 - 1 Chelsea/2_frames_actions/000589_Corner/000589.png",
+    "human_answer": "Right"
+  },
+  {
+    "left": "italy_serie-a/2016-2017/2016-08-20 - 19-00 AS Roma 4 - 0 Udinese/1_frames_actions/000336_Foul/000336.png",
+    "right": "italy_serie-a/2016-2017/2016-08-20 - 19-00 AS Roma 4 - 0 Udinese/1_frames_actions/000336_Foul/000338.png",
+    "answer": "Left",
+    "CLIP": 0.92822265625,
+    "time": "000336",
+    "action": "Foul",
+    "match": "2016-08-20 - 19-00 AS Roma 4 - 0 Udinese",
+    "season": "2016-2017",
+    "league": "italy_serie-a",
+    "question": "\n                                These are two frames related to Foul in a soccer match.\n                                Which frame happens first? Please only return one option from (Left, Right, None)\n                                without any other words. If these two frames are exactly the same, select None.\n                                Otherwise, choose Left if the first frame happens first and select Right\n                                if the second frame happens first.\n                                ",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/soccernet/italy_serie-a/2016-2017/2016-08-20 - 19-00 AS Roma 4 - 0 Udinese/1_frames_actions/000336_Foul/000336.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/soccernet/italy_serie-a/2016-2017/2016-08-20 - 19-00 AS Roma 4 - 0 Udinese/1_frames_actions/000336_Foul/000338.png",
+    "human_answer": "Left"
+  },
+  {
+    "left": "spain_laliga/2014-2015/2015-04-28 - 21-00 Barcelona 6 - 0 Getafe/1_frames_actions/002519_Foul/002521.png",
+    "right": "spain_laliga/2014-2015/2015-04-28 - 21-00 Barcelona 6 - 0 Getafe/1_frames_actions/002519_Foul/002519.png",
+    "answer": "Right",
+    "CLIP": 0.92431640625,
+    "time": "002519",
+    "action": "Foul",
+    "match": "2015-04-28 - 21-00 Barcelona 6 - 0 Getafe",
+    "season": "2014-2015",
+    "league": "spain_laliga",
+    "question": "\n                                These are two frames related to Foul in a soccer match.\n                                Which frame happens first? Please only return one option from (Left, Right, None)\n                                without any other words. If these two frames are exactly the same, select None.\n                                Otherwise, choose Left if the first frame happens first and select Right\n                                if the second frame happens first.\n                                ",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/soccernet/spain_laliga/2014-2015/2015-04-28 - 21-00 Barcelona 6 - 0 Getafe/1_frames_actions/002519_Foul/002521.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/soccernet/spain_laliga/2014-2015/2015-04-28 - 21-00 Barcelona 6 - 0 Getafe/1_frames_actions/002519_Foul/002519.png",
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/spot-the-diff/pair_images/test/8911/8911.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/spot-the-diff/pair_images/test/8911/8911_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/8911/8911_diff.jpg",
+    "difference": [
+      "before only two people standing",
+      "after 4 other persons standing",
+      "after the 2 people in the before image have moved"
+    ],
+    "image_1_object_list": "Yellow lines, red building, clear sky, walking people, leafless trees.",
+    "image_2_object_list": "Walking people, leafless trees, red bricks, shadowed pavement, yellow lines.",
+    "gpt_extract_objects_gt": "people",
+    "Modified_option": "people, leafless trees, people, leafless trees, red building, red bricks, clear sky, yellow lines, shadowed pavement, yellow lines",
+    "Answer": "people",
+    "answer": "people",
+    "final_option": [
+      "people",
+      " leafless trees",
+      " people",
+      " leafless trees",
+      " red building",
+      " red bricks",
+      " clear sky",
+      " yellow lines",
+      " shadowed pavement",
+      " yellow lines",
+      "None"
+    ],
+    "question": "\n                    What is the most obvious difference between two images? Choose from the following options. \n                    If there is no obvious difference, choose None. Options: None, people, leafless trees, people, leafless trees, red building, red bricks, clear sky, yellow lines, shadowed pavement, yellow lines.\n                    Please only return one of the options without any other words. \n                    ",
+    "human_answer": "people"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/spot-the-diff/pair_images/test/9974/9974.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/spot-the-diff/pair_images/test/9974/9974_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/9974/9974_diff.jpg",
+    "difference": [
+      "the three people have dissapeared"
+    ],
+    "image_1_object_list": "Three people, red car, yellow poles, leafless trees.",
+    "image_2_object_list": "shadowed trees, walking people, yellow poles, red car.",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " yellow poles, leafless trees.,Three people, red car,shadowed trees, walking people",
+    "Answer": "walking people",
+    "answer": "walking people",
+    "final_option": [
+      " yellow poles",
+      " leafless trees.",
+      "Three people",
+      " red car",
+      "shadowed trees",
+      " walking people",
+      "None"
+    ],
+    "question": "\n                    What is the most obvious difference between two images? Choose from the following options. \n                    If there is no obvious difference, choose None. Options: None,  yellow poles, leafless trees.,Three people, red car,shadowed trees, walking people.\n                    Please only return one of the options without any other words. \n                    ",
+    "human_answer": "Three people"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/spot-the-diff/pair_images/test/9366/9366.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/spot-the-diff/pair_images/test/9366/9366_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/9366/9366_diff.jpg",
+    "difference": [
+      "nothing in the second shot appears to have changed"
+    ],
+    "image_1_object_list": "black cars, white truck, blue car, gray car, silver car, red car.",
+    "image_2_object_list": "busy people, white trucks, black cars, green trees, yellow poles.",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": "blue car, white trucks, red car, yellow vans, gray car, silver car, green trees, black cars, black shadow",
+    "Answer": "black shadow",
+    "answer": "black shadow",
+    "final_option": [
+      "blue car",
+      " white trucks",
+      " red car",
+      " yellow vans",
+      " gray car",
+      " silver car",
+      " green trees",
+      " black cars",
+      " black shadow",
+      "None"
+    ],
+    "question": "\n                    What is the most obvious difference between two images? Choose from the following options. \n                    If there is no obvious difference, choose None. Options: None, blue car, white trucks, red car, yellow vans, gray car, silver car, green trees, black cars, black shadow.\n                    Please only return one of the options without any other words. \n                    ",
+    "human_answer": " black shadow"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/spot-the-diff/pair_images/test/11235/11235.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/spot-the-diff/pair_images/test/11235/11235_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/11235/11235_diff.jpg",
+    "difference": [
+      "the people are no longer there",
+      "the person and door are closed now",
+      "the person in white is no longer there"
+    ],
+    "image_1_object_list": "black car, walking people, brown building, open door, white poles, person in white",
+    "image_2_object_list": "black car, brown building, yellow lines, bare trees, walking people, open door, person in white",
+    "gpt_extract_objects_gt": "people, person, door, person in white",
+    "Modified_option": "black car, brown building, yellow poles, bare trees, 3 walking people, yellow curb",
+    "Answer": "3 walking people",
+    "answer": "3 walking people",
+    "final_option": [
+      "black car",
+      " brown building",
+      " yellow poles",
+      " bare trees",
+      " 3 walking people",
+      " yellow curb",
+      "None"
+    ],
+    "question": "\n                    What is the most obvious difference between two images? Choose from the following options. \n                    If there is no obvious difference, choose None. Options: None, black car, brown building, yellow poles, bare trees, 3 walking people, yellow curb.\n                    Please only return one of the options without any other words. \n                    ",
+    "human_answer": " 3 walking people"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/spot-the-diff/pair_images/test/2530/2530.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/spot-the-diff/pair_images/test/2530/2530_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/2530/2530_diff.jpg",
+    "difference": [
+      "there a no people next to the white truck"
+    ],
+    "image_1_object_list": "wet pavement, white truck, black cars, gray buildings, green trees",
+    "image_2_object_list": "white truck, black cars, white cars, grey building, wet pavement",
+    "gpt_extract_objects_gt": "white truck",
+    "Modified_option": "lined parking spaces, yellow lines, yellow arrows, white truck, white cars, black cars, brick wall, white building, green trees, silver car, walking people",
+    "Answer": "walking people",
+    "answer": "walking people",
+    "final_option": [
+      "lined parking spaces",
+      " yellow lines",
+      " yellow arrows",
+      " white truck",
+      " white cars",
+      " black cars",
+      " brick wall",
+      " white building",
+      " green trees",
+      " silver car",
+      " walking people",
+      "None"
+    ],
+    "question": "\n                    What is the most obvious difference between two images? Choose from the following options. \n                    If there is no obvious difference, choose None. Options: None, lined parking spaces, yellow lines, yellow arrows, white truck, white cars, black cars, brick wall, white building, green trees, silver car, walking people.\n                    Please only return one of the options without any other words. \n                    ",
+    "human_answer": " walking people"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/spot-the-diff/pair_images/test/11179/11179.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/spot-the-diff/pair_images/test/11179/11179_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/11179/11179_diff.jpg",
+    "difference": [
+      "the right image is different because it is missing a red car and two people"
+    ],
+    "image_1_object_list": "Red car, two people, white trucks, large trees, gray dumpster, yellow poles, white building.",
+    "image_2_object_list": "Red car, two people, green trees, white truck, gray dumpster.",
+    "gpt_extract_objects_gt": "red car, two people",
+    "Modified_option": " green trees, gray dumpster, white trucks, white truck, large trees, white building., yellow poles, gray dumpster.,Red car, two people",
+    "Answer": "two people",
+    "answer": "two people",
+    "final_option": [
+      " green trees",
+      " gray dumpster",
+      " white trucks",
+      " white truck",
+      " large trees",
+      " white building.",
+      " yellow poles",
+      " gray dumpster.",
+      "Red car",
+      " two people",
+      "None"
+    ],
+    "question": "\n                    What is the most obvious difference between two images? Choose from the following options. \n                    If there is no obvious difference, choose None. Options: None,  green trees, gray dumpster, white trucks, white truck, large trees, white building., yellow poles, gray dumpster.,Red car, two people.\n                    Please only return one of the options without any other words. \n                    ",
+    "human_answer": " two people"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/spot-the-diff/pair_images/test/12107/12107.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/spot-the-diff/pair_images/test/12107/12107_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/12107/12107_diff.jpg",
+    "difference": [
+      "there are no people near the barricades in the back of the image",
+      "there are now three people in the foreground in the center"
+    ],
+    "image_1_object_list": "yellow poles, red bricks, bare trees, walking people.",
+    "image_2_object_list": "walking people, red bikes, yellow poles, brown bricks, green trees.",
+    "gpt_extract_objects_gt": "people, people",
+    "Modified_option": "brick building, walking people, yellow curb, yellow poles, leafless trees, green grass, black roof, white windows, paved sidewalk, carless parking lot, parked bicycles, brick path, building shadow",
+    "Answer": "walking people",
+    "answer": "walking people",
+    "final_option": [
+      "brick building",
+      " walking people",
+      " yellow curb",
+      " yellow poles",
+      " leafless trees",
+      " green grass",
+      " black roof",
+      " white windows",
+      " paved sidewalk",
+      " carless parking lot",
+      " parked bicycles",
+      " brick path",
+      " building shadow",
+      "None"
+    ],
+    "question": "\n                    What is the most obvious difference between two images? Choose from the following options. \n                    If there is no obvious difference, choose None. Options: None, brick building, walking people, yellow curb, yellow poles, leafless trees, green grass, black roof, white windows, paved sidewalk, carless parking lot, parked bicycles, brick path, building shadow.\n                    Please only return one of the options without any other words. \n                    ",
+    "human_answer": " walking people"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/spot-the-diff/pair_images/test/12128/12128.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/spot-the-diff/pair_images/test/12128/12128_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/12128/12128_diff.jpg",
+    "difference": [
+      "there are 4 extra people in the after image",
+      "two standing near the original two people and two standing slightly farther from the original two"
+    ],
+    "image_1_object_list": "yellow poles, brick building, walking people, leafless trees, paved driveway.",
+    "image_2_object_list": "people, red building, shadowed trees, paved sidewalk, yellow-lined parking area",
+    "gpt_extract_objects_gt": "people",
+    "Modified_option": " leafless trees, red building, brick building, yellow-lined parking area, paved sidewalk,yellow poles, paved driveway.,people, walking people, shadowed trees",
+    "Answer": "people",
+    "answer": "people",
+    "final_option": [
+      " leafless trees",
+      " red building",
+      " brick building",
+      " yellow-lined parking area",
+      " paved sidewalk",
+      "yellow poles",
+      " paved driveway.",
+      "people",
+      " walking people",
+      " shadowed trees",
+      "None"
+    ],
+    "question": "\n                    What is the most obvious difference between two images? Choose from the following options. \n                    If there is no obvious difference, choose None. Options: None,  leafless trees, red building, brick building, yellow-lined parking area, paved sidewalk,yellow poles, paved driveway.,people, walking people, shadowed trees.\n                    Please only return one of the options without any other words. \n                    ",
+    "human_answer": "people"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/spot-the-diff/pair_images/test/1416/1416.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/spot-the-diff/pair_images/test/1416/1416_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/1416/1416_diff.jpg",
+    "difference": [
+      "the person who was getting in or out of the red car isn t visible anymore",
+      "there is a person in a red coat walking through the parking lot",
+      "the truck at one end of the parking area is starting to pull away from the parking spot"
+    ],
+    "image_1_object_list": "red car, white truck, grey sedan, black SUV, silver hatchback, grey minivan, person in red coat",
+    "image_2_object_list": "red car, person in red coat, white truck, gray car, black car, white car, white building",
+    "gpt_extract_objects_gt": "red car, person in a red coat, truck",
+    "Modified_option": " white car, white truck, silver hatchback, black SUV, black car,red car, person in red coat, grey minivan, white building, gray car, grey sedan",
+    "Answer": "person in red coat",
+    "answer": "person in red coat",
+    "final_option": [
+      " white car",
+      " white truck",
+      " silver hatchback",
+      " black SUV",
+      " black car",
+      "red car",
+      " person in red coat",
+      " grey minivan",
+      " white building",
+      " gray car",
+      " grey sedan",
+      "None"
+    ],
+    "question": "\n                    What is the most obvious difference between two images? Choose from the following options. \n                    If there is no obvious difference, choose None. Options: None,  white car, white truck, silver hatchback, black SUV, black car,red car, person in red coat, grey minivan, white building, gray car, grey sedan.\n                    Please only return one of the options without any other words. \n                    ",
+    "human_answer": " person in red coat"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/spot-the-diff/pair_images/test/9941/9941.png",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/spot-the-diff/pair_images/test/9941/9941_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/9941/9941_diff.jpg",
+    "difference": [
+      "there is less people"
+    ],
+    "image_1_object_list": "yellow poles, leafless trees, walking people, grey building, empty parking spaces, bare branches, paved road.",
+    "image_2_object_list": "Walking people, leafless trees, shadowed building, parked car, yellow curb.",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": "brick building, standing people, yellow curb, yellow poles, leafless trees, green grass, black roof, white windows, paved sidewalk, carless parking lot, parked bicycles, brick path, building shadow",
+    "Answer": "standing people",
+    "answer": "standing people",
+    "final_option": [
+      "brick building",
+      " standing people",
+      " yellow curb",
+      " yellow poles",
+      " leafless trees",
+      " green grass",
+      " black roof",
+      " white windows",
+      " paved sidewalk",
+      " carless parking lot",
+      " parked bicycles",
+      " brick path",
+      " building shadow",
+      "None"
+    ],
+    "question": "\n                    What is the most obvious difference between two images? Choose from the following options. \n                    If there is no obvious difference, choose None. Options: None, brick building, standing people, yellow curb, yellow poles, leafless trees, green grass, black roof, white windows, paved sidewalk, carless parking lot, parked bicycles, brick path, building shadow.\n                    Please only return one of the options without any other words. \n                    ",
+    "human_answer": " standing people"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/transformed_states/release_dataset/images/broken keyboard/8669465327_f797f28121_z.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/transformed_states/release_dataset/images/broken keyboard/6095fd9674072b83e329538d50305685.jpg",
+    "type": "State",
+    "answer": "Left",
+    "question": "Which keyboard is more broken?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/transformed_states/release_dataset/images/frozen chicken/frozen%20chicken%20full-500x500.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/transformed_states/release_dataset/images/frozen chicken/chicken-feet.jpg",
+    "type": "State",
+    "answer": "Right",
+    "question": "Which chicken is more frozen?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/transformed_states/release_dataset/images/spilled sauce/steider-studios-applesauce-canned.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/transformed_states/release_dataset/images/spilled sauce/imag1088.jpg",
+    "type": "State",
+    "answer": "Right",
+    "question": "Which sauce is more spilled?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/transformed_states/release_dataset/images/huge animal/a31cf02b276dbf1803681370d1c3590a.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/transformed_states/release_dataset/images/huge animal/huge-liger.jpg",
+    "type": "Size",
+    "answer": "Right",
+    "question": "Which animal is more huge?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/transformed_states/release_dataset/images/rusty penny/Rusty-Penny.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/transformed_states/release_dataset/images/rusty penny/ai372.jpg",
+    "type": "State",
+    "answer": "Left",
+    "question": "Which penny is rustier?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/transformed_states/release_dataset/images/damp canyon/Canyoning-Empress-Falls-1.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/transformed_states/release_dataset/images/damp canyon/xin1.jpg",
+    "type": "State",
+    "answer": "Left",
+    "question": "Which canyon is damper?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/transformed_states/release_dataset/images/painted wheel/2.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/transformed_states/release_dataset/images/painted wheel/image5.jpg",
+    "type": "State",
+    "answer": "Left",
+    "question": "Which wheel is more painted?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/transformed_states/release_dataset/images/small candle/Small-Candle-Light-iPhone-5-Wallpapers-BullGallery.Com.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/transformed_states/release_dataset/images/small candle/Golden-spice-small-candle.jpg",
+    "type": "Size",
+    "answer": "Left",
+    "question": "Which candle is smaller?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/transformed_states/release_dataset/images/viscous sauce/img_0037.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/transformed_states/release_dataset/images/viscous sauce/4349308206_84d10eb9b9_z.jpg",
+    "type": "State",
+    "answer": "Right",
+    "question": "Which sauce is more viscous?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/transformed_states/release_dataset/images/dry cat/Dry-cat-shampoo.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/transformed_states/release_dataset/images/dry cat/best-dry-cat-food-2.jpg",
+    "type": "State",
+    "answer": "Right",
+    "question": "Which cat is dryer?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/vaw/att_obj_images/val/black_television/2397798.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/vaw/att_obj_images/val/black_television/2386609.jpg",
+    "type": "Color",
+    "answer": "Left",
+    "question": "Which television is more black?",
+    "adj": "black",
+    "object": "television",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/vaw/att_obj_images/val/wearing white_man/2323410.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/vaw/att_obj_images/val/wearing white_man/2407846.jpg",
+    "type": "State",
+    "answer": "Left",
+    "question": "Which man is more wearing white?",
+    "adj": "wearing white",
+    "object": "man",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/vaw/att_obj_images/val/sitting_bird/2415068.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/vaw/att_obj_images/val/sitting_bird/2369435.jpg",
+    "type": "State",
+    "answer": "Left",
+    "question": "Which bird is more sitting?",
+    "adj": "sitting",
+    "object": "bird",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/vaw/att_obj_images/val/small_baby/2321331.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/vaw/att_obj_images/val/small_baby/2385516.jpg",
+    "type": "None",
+    "answer": "Left",
+    "question": "Which baby is smaller?",
+    "adj": "small",
+    "object": "baby",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/vaw/att_obj_images/val/skinny_skis/1592530.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/vaw/att_obj_images/val/skinny_skis/2371292.jpg",
+    "type": "Size",
+    "answer": "Right",
+    "question": "Which skis is skinnier?",
+    "adj": "skinny",
+    "object": "skis",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/vaw/att_obj_images/val/using computer_man/2339751.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/vaw/att_obj_images/val/using computer_man/2365231.jpg",
+    "type": "State",
+    "answer": "Left",
+    "question": "Which man is more using computer?",
+    "adj": "using computer",
+    "object": "man",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/vaw/att_obj_images/val/large_writing/2370438.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/vaw/att_obj_images/val/large_writing/2386448.jpg",
+    "type": "Size",
+    "answer": "Left",
+    "question": "Which writing is larger?",
+    "adj": "large",
+    "object": "writing",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/vaw/att_obj_images/val/light brown_table/2322260.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/vaw/att_obj_images/val/light brown_table/2360353.jpg",
+    "type": "Color",
+    "answer": "Left",
+    "question": "Which table is lighter brown?",
+    "adj": "light brown",
+    "object": "table",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/vaw/att_obj_images/val/red_umbrella/2397397.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/vaw/att_obj_images/val/red_umbrella/2369662.jpg",
+    "type": "Color",
+    "answer": "Left",
+    "question": "Which umbrella is redder?",
+    "adj": "red",
+    "object": "umbrella",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/vaw/att_obj_images/val/white_cow/2372363.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/vaw/att_obj_images/val/white_cow/2326317.jpg",
+    "type": "Color",
+    "answer": "Left",
+    "question": "Which cow is more white?",
+    "adj": "white",
+    "object": "cow",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/vqav2/counting_images/val2014/807/31041.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/vqav2/counting_images/val2014/807/363207.jpg",
+    "answer": "Right",
+    "folder": "807",
+    "question": "Which image has more layers in the cake?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/vqav2/counting_images/val2014/308/66038.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/vqav2/counting_images/val2014/308/212761.jpg",
+    "answer": "Right",
+    "folder": "308",
+    "question": "Which image has more umbrellas?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/vqav2/counting_images/val2014/730/289486.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/vqav2/counting_images/val2014/730/295336.jpg",
+    "answer": "Same",
+    "folder": "730",
+    "question": "Which image has more giraffes?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/vqav2/counting_images/val2014/92/472164.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/vqav2/counting_images/val2014/92/262617.jpg",
+    "answer": "Right",
+    "folder": "92",
+    "question": "Which image has more pizza slices total?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/vqav2/counting_images/val2014/538/167456.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/vqav2/counting_images/val2014/538/274126.jpg",
+    "answer": "Left",
+    "folder": "538",
+    "question": "Which image has more boats?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/vqav2/counting_images/val2014/172/139192.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/vqav2/counting_images/val2014/172/530987.jpg",
+    "answer": "Left",
+    "folder": "172",
+    "question": "Which image has more elephants?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/vqav2/counting_images/val2014/5087/369799.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/vqav2/counting_images/val2014/5087/487266.jpg",
+    "answer": "Left",
+    "folder": "5087",
+    "question": "Which image has more rows of people?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/vqav2/counting_images/val2014/3549/51025.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/vqav2/counting_images/val2014/3549/108541.jpg",
+    "answer": "Left",
+    "folder": "3549",
+    "question": "Which image has more cars on the road?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/vqav2/counting_images/val2014/541/542625.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/vqav2/counting_images/val2014/541/69926.jpg",
+    "answer": "Right",
+    "folder": "541",
+    "question": "Which image has more cars?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/vqav2/counting_images/val2014/658/470095.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/vqav2/counting_images/val2014/658/85434.jpg",
+    "answer": "Left",
+    "folder": "658",
+    "question": "Which image has more skiers?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0017.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0026.jpg",
+    "answer": "Right",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0000.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0068.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more right-angled tip of the anal fin?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/wildfish/diff_images/val/Chromis_margaritifer-Chromis_iomelas/Chromis_margaritifer/Chromis_margaritifer_0010.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/wildfish/diff_images/val/Chromis_margaritifer-Chromis_iomelas/Chromis_iomelas/Chromis_iomelas_0029.jpg",
+    "answer": "Right",
+    "question": "Which has fish has a more evenly split white to black coloration ratio?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/wildfish/diff_images/val/Chaetodon_punctatofasciatus-Chaetodon_pelewensis/Chaetodon_punctatofasciatus/Chaetodon_punctatofasciatus_0020.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/wildfish/diff_images/val/Chaetodon_punctatofasciatus-Chaetodon_pelewensis/Chaetodon_pelewensis/Chaetodon_pelewensis_0048.jpg",
+    "answer": "Left",
+    "question": "Which fish has more vertical bars?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0017.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0004.jpg",
+    "answer": "Right",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/wildfish/diff_images/val/Chaetodon_vagabundus-Chaetodon_decussatus/Chaetodon_vagabundus/Chaetodon_vagabundus_0029.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/wildfish/diff_images/val/Chaetodon_vagabundus-Chaetodon_decussatus/Chaetodon_decussatus/Chaetodon_decussatus_0021.jpg",
+    "answer": "Right",
+    "question": "Which fish has a more solid black back half with a yellow tail?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0037.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0081.jpg",
+    "answer": "Right",
+    "question": "Which fish is more black with variable orange on the head, ventral parts, and fins?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0012.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0004.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/wildfish/diff_images/val/Chaetodon_vagabundus-Chaetodon_decussatus/Chaetodon_vagabundus/Chaetodon_vagabundus_0029.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/wildfish/diff_images/val/Chaetodon_vagabundus-Chaetodon_decussatus/Chaetodon_decussatus/Chaetodon_decussatus_0046.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more solid yellow backside with two black lines?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Left"
+  },
+  {
+    "image_1": "/local/scratch/jihyung/comp_imgs/dataset/wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0072.jpg",
+    "image_2": "/local/scratch/jihyung/comp_imgs/dataset/wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0013.jpg",
+    "answer": "Right",
+    "question": " Which fish has more striae present behind the pectoral fin?",
+    "final_option": [
+      "Left",
+      "Right"
+    ],
+    "human_answer": "Right"
+  }
+]

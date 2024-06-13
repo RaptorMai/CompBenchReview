@@ -1,0 +1,2624 @@
+[
+    {
+        "image_1": "fer-2013/test/happy/im1691.png",
+        "image_2": "fer-2013/test/happy/im1692.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1692.png",
+        "image_2": "fer-2013/test/happy/im1693.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1691.png",
+        "image_2": "fer-2013/test/happy/im1696.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1692.png",
+        "image_2": "fer-2013/test/happy/im1694.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1692.png",
+        "image_2": "fer-2013/test/happy/im1695.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1695.png",
+        "image_2": "fer-2013/test/happy/im1699.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im170.png",
+        "image_2": "fer-2013/test/happy/im1700.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im170.png",
+        "image_2": "fer-2013/test/happy/im1701.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1702.png",
+        "image_2": "fer-2013/test/happy/im1705.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1707.png",
+        "image_2": "fer-2013/test/happy/im1705.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1709.png",
+        "image_2": "fer-2013/test/happy/im171.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1710.png",
+        "image_2": "fer-2013/test/happy/im1711.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1717.png",
+        "image_2": "fer-2013/test/happy/im1712.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1714.png",
+        "image_2": "fer-2013/test/happy/im1717.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1721.png",
+        "image_2": "fer-2013/test/happy/im1718.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1721.png",
+        "image_2": "fer-2013/test/happy/im1719.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1720.png",
+        "image_2": "fer-2013/test/happy/im172.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1727.png",
+        "image_2": "fer-2013/test/happy/im1728.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1728.png",
+        "image_2": "fer-2013/test/happy/im1729.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1732.png",
+        "image_2": "fer-2013/test/happy/im1730.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1733.png",
+        "image_2": "fer-2013/test/happy/im1735.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1736.png",
+        "image_2": "fer-2013/test/happy/im1737.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1744.png",
+        "image_2": "fer-2013/test/happy/im1741.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1738.png",
+        "image_2": "fer-2013/test/happy/im1737.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1743.png",
+        "image_2": "fer-2013/test/happy/im1741.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1745.png",
+        "image_2": "fer-2013/test/happy/im1746.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1748.png",
+        "image_2": "fer-2013/test/happy/im1750.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1751.png",
+        "image_2": "fer-2013/test/happy/im1752.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1754.png",
+        "image_2": "fer-2013/test/happy/im1755.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1756.png",
+        "image_2": "fer-2013/test/happy/im1759.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1758.png",
+        "image_2": "fer-2013/test/happy/im1760.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1763.png",
+        "image_2": "fer-2013/test/happy/im1764.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1764.png",
+        "image_2": "fer-2013/test/happy/im1765.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1766.png",
+        "image_2": "fer-2013/test/happy/im1769.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im177.png",
+        "image_2": "fer-2013/test/happy/im1771.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1769.png",
+        "image_2": "fer-2013/test/happy/im1771.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im1772.png",
+        "image_2": "fer-2013/test/happy/im178.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im181.png",
+        "image_2": "fer-2013/test/happy/im183.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im180.png",
+        "image_2": "fer-2013/test/happy/im178.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im185.png",
+        "image_2": "fer-2013/test/happy/im186.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im186.png",
+        "image_2": "fer-2013/test/happy/im187.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im188.png",
+        "image_2": "fer-2013/test/happy/im190.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im191.png",
+        "image_2": "fer-2013/test/happy/im193.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im192.png",
+        "image_2": "fer-2013/test/happy/im193.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im194.png",
+        "image_2": "fer-2013/test/happy/im195.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im196.png",
+        "image_2": "fer-2013/test/happy/im197.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im198.png",
+        "image_2": "fer-2013/test/happy/im199.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im20.png",
+        "image_2": "fer-2013/test/happy/im200.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im202.png",
+        "image_2": "fer-2013/test/happy/im203.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im207.png",
+        "image_2": "fer-2013/test/happy/im205.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im209.png",
+        "image_2": "fer-2013/test/happy/im21.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im211.png",
+        "image_2": "fer-2013/test/happy/im212.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im214.png",
+        "image_2": "fer-2013/test/happy/im215.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im214.png",
+        "image_2": "fer-2013/test/happy/im217.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im217.png",
+        "image_2": "fer-2013/test/happy/im218.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im222.png",
+        "image_2": "fer-2013/test/happy/im220.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im222.png",
+        "image_2": "fer-2013/test/happy/im221.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im223.png",
+        "image_2": "fer-2013/test/happy/im224.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im227.png",
+        "image_2": "fer-2013/test/happy/im225.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im23.png",
+        "image_2": "fer-2013/test/happy/im230.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im230.png",
+        "image_2": "fer-2013/test/happy/im231.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im232.png",
+        "image_2": "fer-2013/test/happy/im233.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im233.png",
+        "image_2": "fer-2013/test/happy/im234.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im238.png",
+        "image_2": "fer-2013/test/happy/im235.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im239.png",
+        "image_2": "fer-2013/test/happy/im24.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im244.png",
+        "image_2": "fer-2013/test/happy/im246.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im248.png",
+        "image_2": "fer-2013/test/happy/im25.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im250.png",
+        "image_2": "fer-2013/test/happy/im251.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im254.png",
+        "image_2": "fer-2013/test/happy/im253.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im254.png",
+        "image_2": "fer-2013/test/happy/im256.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im257.png",
+        "image_2": "fer-2013/test/happy/im259.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im264.png",
+        "image_2": "fer-2013/test/happy/im265.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im264.png",
+        "image_2": "fer-2013/test/happy/im263.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im266.png",
+        "image_2": "fer-2013/test/happy/im267.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im268.png",
+        "image_2": "fer-2013/test/happy/im267.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im269.png",
+        "image_2": "fer-2013/test/happy/im270.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im273.png",
+        "image_2": "fer-2013/test/happy/im271.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im275.png",
+        "image_2": "fer-2013/test/happy/im276.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im276.png",
+        "image_2": "fer-2013/test/happy/im277.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im278.png",
+        "image_2": "fer-2013/test/happy/im279.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im281.png",
+        "image_2": "fer-2013/test/happy/im280.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im284.png",
+        "image_2": "fer-2013/test/happy/im285.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im29.png",
+        "image_2": "fer-2013/test/happy/im290.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im291.png",
+        "image_2": "fer-2013/test/happy/im292.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im293.png",
+        "image_2": "fer-2013/test/happy/im295.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im296.png",
+        "image_2": "fer-2013/test/happy/im298.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im30.png",
+        "image_2": "fer-2013/test/happy/im3.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im301.png",
+        "image_2": "fer-2013/test/happy/im302.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im302.png",
+        "image_2": "fer-2013/test/happy/im303.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im308.png",
+        "image_2": "fer-2013/test/happy/im309.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im308.png",
+        "image_2": "fer-2013/test/happy/im31.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im313.png",
+        "image_2": "fer-2013/test/happy/im315.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im314.png",
+        "image_2": "fer-2013/test/happy/im315.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im32.png",
+        "image_2": "fer-2013/test/happy/im321.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im320.png",
+        "image_2": "fer-2013/test/happy/im321.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im323.png",
+        "image_2": "fer-2013/test/happy/im322.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im323.png",
+        "image_2": "fer-2013/test/happy/im324.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im329.png",
+        "image_2": "fer-2013/test/happy/im330.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im33.png",
+        "image_2": "fer-2013/test/happy/im332.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im336.png",
+        "image_2": "fer-2013/test/happy/im335.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im334.png",
+        "image_2": "fer-2013/test/happy/im33.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im340.png",
+        "image_2": "fer-2013/test/happy/im342.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im343.png",
+        "image_2": "fer-2013/test/happy/im342.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im348.png",
+        "image_2": "fer-2013/test/happy/im349.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im352.png",
+        "image_2": "fer-2013/test/happy/im354.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im356.png",
+        "image_2": "fer-2013/test/happy/im357.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im357.png",
+        "image_2": "fer-2013/test/happy/im358.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im359.png",
+        "image_2": "fer-2013/test/happy/im360.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im368.png",
+        "image_2": "fer-2013/test/happy/im369.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im373.png",
+        "image_2": "fer-2013/test/happy/im371.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im373.png",
+        "image_2": "fer-2013/test/happy/im372.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im374.png",
+        "image_2": "fer-2013/test/happy/im375.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im380.png",
+        "image_2": "fer-2013/test/happy/im381.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im38.png",
+        "image_2": "fer-2013/test/happy/im382.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im377.png",
+        "image_2": "fer-2013/test/happy/im378.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im383.png",
+        "image_2": "fer-2013/test/happy/im386.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im39.png",
+        "image_2": "fer-2013/test/happy/im390.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im392.png",
+        "image_2": "fer-2013/test/happy/im393.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im395.png",
+        "image_2": "fer-2013/test/happy/im396.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im397.png",
+        "image_2": "fer-2013/test/happy/im40.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im400.png",
+        "image_2": "fer-2013/test/happy/im401.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im400.png",
+        "image_2": "fer-2013/test/happy/im402.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im406.png",
+        "image_2": "fer-2013/test/happy/im407.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im406.png",
+        "image_2": "fer-2013/test/happy/im409.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im41.png",
+        "image_2": "fer-2013/test/happy/im410.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im416.png",
+        "image_2": "fer-2013/test/happy/im415.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im419.png",
+        "image_2": "fer-2013/test/happy/im42.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im426.png",
+        "image_2": "fer-2013/test/happy/im427.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im424.png",
+        "image_2": "fer-2013/test/happy/im425.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im422.png",
+        "image_2": "fer-2013/test/happy/im423.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im421.png",
+        "image_2": "fer-2013/test/happy/im424.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im436.png",
+        "image_2": "fer-2013/test/happy/im433.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im436.png",
+        "image_2": "fer-2013/test/happy/im434.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im436.png",
+        "image_2": "fer-2013/test/happy/im435.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im429.png",
+        "image_2": "fer-2013/test/happy/im428.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im430.png",
+        "image_2": "fer-2013/test/happy/im431.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im440.png",
+        "image_2": "fer-2013/test/happy/im441.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im444.png",
+        "image_2": "fer-2013/test/happy/im445.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im442.png",
+        "image_2": "fer-2013/test/happy/im443.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im446.png",
+        "image_2": "fer-2013/test/happy/im447.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im449.png",
+        "image_2": "fer-2013/test/happy/im45.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im45.png",
+        "image_2": "fer-2013/test/happy/im451.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im458.png",
+        "image_2": "fer-2013/test/happy/im459.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {},
+    {
+        "image_1": "fer-2013/test/happy/im459.png",
+        "image_2": "fer-2013/test/happy/im462.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im464.png",
+        "image_2": "fer-2013/test/happy/im466.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im470.png",
+        "image_2": "fer-2013/test/happy/im471.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im470.png",
+        "image_2": "fer-2013/test/happy/im472.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im474.png",
+        "image_2": "fer-2013/test/happy/im477.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im475.png",
+        "image_2": "fer-2013/test/happy/im477.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im482.png",
+        "image_2": "fer-2013/test/happy/im483.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im49.png",
+        "image_2": "fer-2013/test/happy/im489.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im486.png",
+        "image_2": "fer-2013/test/happy/im489.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {},
+    {
+        "image_1": "fer-2013/test/happy/im491.png",
+        "image_2": "fer-2013/test/happy/im493.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {},
+    {},
+    {
+        "image_1": "fer-2013/test/happy/im497.png",
+        "image_2": "fer-2013/test/happy/im499.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im50.png",
+        "image_2": "fer-2013/test/happy/im501.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im506.png",
+        "image_2": "fer-2013/test/happy/im508.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im504.png",
+        "image_2": "fer-2013/test/happy/im507.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im502.png",
+        "image_2": "fer-2013/test/happy/im505.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im509.png",
+        "image_2": "fer-2013/test/happy/im51.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {},
+    {
+        "image_1": "fer-2013/test/happy/im514.png",
+        "image_2": "fer-2013/test/happy/im515.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im515.png",
+        "image_2": "fer-2013/test/happy/im517.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im515.png",
+        "image_2": "fer-2013/test/happy/im516.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im518.png",
+        "image_2": "fer-2013/test/happy/im519.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im525.png",
+        "image_2": "fer-2013/test/happy/im524.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {},
+    {
+        "image_1": "fer-2013/test/happy/im527.png",
+        "image_2": "fer-2013/test/happy/im528.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im527.png",
+        "image_2": "fer-2013/test/happy/im53.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im535.png",
+        "image_2": "fer-2013/test/happy/im532.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im538.png",
+        "image_2": "fer-2013/test/happy/im539.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im540.png",
+        "image_2": "fer-2013/test/happy/im54.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im541.png",
+        "image_2": "fer-2013/test/happy/im542.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im545.png",
+        "image_2": "fer-2013/test/happy/im548.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im548.png",
+        "image_2": "fer-2013/test/happy/im549.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im551.png",
+        "image_2": "fer-2013/test/happy/im550.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im559.png",
+        "image_2": "fer-2013/test/happy/im561.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im56.png",
+        "image_2": "fer-2013/test/happy/im560.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im563.png",
+        "image_2": "fer-2013/test/happy/im564.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im564.png",
+        "image_2": "fer-2013/test/happy/im565.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im566.png",
+        "image_2": "fer-2013/test/happy/im567.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im57.png",
+        "image_2": "fer-2013/test/happy/im570.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im569.png",
+        "image_2": "fer-2013/test/happy/im57.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im572.png",
+        "image_2": "fer-2013/test/happy/im573.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im578.png",
+        "image_2": "fer-2013/test/happy/im580.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im58.png",
+        "image_2": "fer-2013/test/happy/im580.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im581.png",
+        "image_2": "fer-2013/test/happy/im582.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im581.png",
+        "image_2": "fer-2013/test/happy/im583.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im587.png",
+        "image_2": "fer-2013/test/happy/im59.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im591.png",
+        "image_2": "fer-2013/test/happy/im594.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im595.png",
+        "image_2": "fer-2013/test/happy/im598.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im596.png",
+        "image_2": "fer-2013/test/happy/im597.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im60.png",
+        "image_2": "fer-2013/test/happy/im6.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im60.png",
+        "image_2": "fer-2013/test/happy/im600.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im602.png",
+        "image_2": "fer-2013/test/happy/im601.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im605.png",
+        "image_2": "fer-2013/test/happy/im606.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im617.png",
+        "image_2": "fer-2013/test/happy/im618.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im618.png",
+        "image_2": "fer-2013/test/happy/im62.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im622.png",
+        "image_2": "fer-2013/test/happy/im623.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im626.png",
+        "image_2": "fer-2013/test/happy/im627.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im628.png",
+        "image_2": "fer-2013/test/happy/im627.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im633.png",
+        "image_2": "fer-2013/test/happy/im632.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im630.png",
+        "image_2": "fer-2013/test/happy/im63.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im635.png",
+        "image_2": "fer-2013/test/happy/im636.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im637.png",
+        "image_2": "fer-2013/test/happy/im636.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im638.png",
+        "image_2": "fer-2013/test/happy/im639.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im642.png",
+        "image_2": "fer-2013/test/happy/im64.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im644.png",
+        "image_2": "fer-2013/test/happy/im645.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im646.png",
+        "image_2": "fer-2013/test/happy/im647.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im65.png",
+        "image_2": "fer-2013/test/happy/im650.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im653.png",
+        "image_2": "fer-2013/test/happy/im654.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im66.png",
+        "image_2": "fer-2013/test/happy/im660.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im670.png",
+        "image_2": "fer-2013/test/happy/im668.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im666.png",
+        "image_2": "fer-2013/test/happy/im665.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im671.png",
+        "image_2": "fer-2013/test/happy/im672.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im675.png",
+        "image_2": "fer-2013/test/happy/im674.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im675.png",
+        "image_2": "fer-2013/test/happy/im676.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im678.png",
+        "image_2": "fer-2013/test/happy/im679.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im683.png",
+        "image_2": "fer-2013/test/happy/im684.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im680.png",
+        "image_2": "fer-2013/test/happy/im683.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im683.png",
+        "image_2": "fer-2013/test/happy/im684.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im686.png",
+        "image_2": "fer-2013/test/happy/im689.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im684.png",
+        "image_2": "fer-2013/test/happy/im688.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im69.png",
+        "image_2": "fer-2013/test/happy/im692.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im694.png",
+        "image_2": "fer-2013/test/happy/im693.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im696.png",
+        "image_2": "fer-2013/test/happy/im697.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im703.png",
+        "image_2": "fer-2013/test/happy/im704.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im704.png",
+        "image_2": "fer-2013/test/happy/im705.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im701.png",
+        "image_2": "fer-2013/test/happy/im704.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im702.png",
+        "image_2": "fer-2013/test/happy/im703.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im707.png",
+        "image_2": "fer-2013/test/happy/im708.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im71.png",
+        "image_2": "fer-2013/test/happy/im708.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im71.png",
+        "image_2": "fer-2013/test/happy/im710.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im713.png",
+        "image_2": "fer-2013/test/happy/im711.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im715.png",
+        "image_2": "fer-2013/test/happy/im713.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im716.png",
+        "image_2": "fer-2013/test/happy/im718.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im719.png",
+        "image_2": "fer-2013/test/happy/im72.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im720.png",
+        "image_2": "fer-2013/test/happy/im722.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im730.png",
+        "image_2": "fer-2013/test/happy/im731.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im730.png",
+        "image_2": "fer-2013/test/happy/im733.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im733.png",
+        "image_2": "fer-2013/test/happy/im732.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im727.png",
+        "image_2": "fer-2013/test/happy/im726.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im734.png",
+        "image_2": "fer-2013/test/happy/im736.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im74.png",
+        "image_2": "fer-2013/test/happy/im742.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im739.png",
+        "image_2": "fer-2013/test/happy/im738.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im742.png",
+        "image_2": "fer-2013/test/happy/im741.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im743.png",
+        "image_2": "fer-2013/test/happy/im745.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im743.png",
+        "image_2": "fer-2013/test/happy/im751.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im747.png",
+        "image_2": "fer-2013/test/happy/im748.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im752.png",
+        "image_2": "fer-2013/test/happy/im753.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im754.png",
+        "image_2": "fer-2013/test/happy/im753.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im755.png",
+        "image_2": "fer-2013/test/happy/im756.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im758.png",
+        "image_2": "fer-2013/test/happy/im759.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im761.png",
+        "image_2": "fer-2013/test/happy/im762.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im768.png",
+        "image_2": "fer-2013/test/happy/im769.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im764.png",
+        "image_2": "fer-2013/test/happy/im767.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im768.png",
+        "image_2": "fer-2013/test/happy/im769.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im776.png",
+        "image_2": "fer-2013/test/happy/im773.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im777.png",
+        "image_2": "fer-2013/test/happy/im779.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im772.png",
+        "image_2": "fer-2013/test/happy/im775.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im783.png",
+        "image_2": "fer-2013/test/happy/im784.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im786.png",
+        "image_2": "fer-2013/test/happy/im788.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im785.png",
+        "image_2": "fer-2013/test/happy/im787.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {},
+    {
+        "image_1": "fer-2013/test/happy/im794.png",
+        "image_2": "fer-2013/test/happy/im795.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im804.png",
+        "image_2": "fer-2013/test/happy/im803.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im802.png",
+        "image_2": "fer-2013/test/happy/im803.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im80.png",
+        "image_2": "fer-2013/test/happy/im8.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im798.png",
+        "image_2": "fer-2013/test/happy/im805.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im810.png",
+        "image_2": "fer-2013/test/happy/im809.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im814.png",
+        "image_2": "fer-2013/test/happy/im812.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im814.png",
+        "image_2": "fer-2013/test/happy/im813.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im815.png",
+        "image_2": "fer-2013/test/happy/im816.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im818.png",
+        "image_2": "fer-2013/test/happy/im819.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im818.png",
+        "image_2": "fer-2013/test/happy/im82.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im822.png",
+        "image_2": "fer-2013/test/happy/im820.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im824.png",
+        "image_2": "fer-2013/test/happy/im825.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {},
+    {
+        "image_1": "fer-2013/test/happy/im834.png",
+        "image_2": "fer-2013/test/happy/im835.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im836.png",
+        "image_2": "fer-2013/test/happy/im837.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im84.png",
+        "image_2": "fer-2013/test/happy/im840.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im842.png",
+        "image_2": "fer-2013/test/happy/im843.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im844.png",
+        "image_2": "fer-2013/test/happy/im846.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im845.png",
+        "image_2": "fer-2013/test/happy/im846.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im851.png",
+        "image_2": "fer-2013/test/happy/im852.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im86.png",
+        "image_2": "fer-2013/test/happy/im857.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im86.png",
+        "image_2": "fer-2013/test/happy/im858.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im855.png",
+        "image_2": "fer-2013/test/happy/im859.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im860.png",
+        "image_2": "fer-2013/test/happy/im861.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im866.png",
+        "image_2": "fer-2013/test/happy/im863.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im869.png",
+        "image_2": "fer-2013/test/happy/im867.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im865.png",
+        "image_2": "fer-2013/test/happy/im868.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im87.png",
+        "image_2": "fer-2013/test/happy/im870.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im874.png",
+        "image_2": "fer-2013/test/happy/im873.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im872.png",
+        "image_2": "fer-2013/test/happy/im870.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im879.png",
+        "image_2": "fer-2013/test/happy/im88.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im881.png",
+        "image_2": "fer-2013/test/happy/im882.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im884.png",
+        "image_2": "fer-2013/test/happy/im885.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im888.png",
+        "image_2": "fer-2013/test/happy/im889.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im896.png",
+        "image_2": "fer-2013/test/happy/im893.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im890.png",
+        "image_2": "fer-2013/test/happy/im891.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im894.png",
+        "image_2": "fer-2013/test/happy/im892.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im897.png",
+        "image_2": "fer-2013/test/happy/im898.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im90.png",
+        "image_2": "fer-2013/test/happy/im898.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im901.png",
+        "image_2": "fer-2013/test/happy/im904.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im905.png",
+        "image_2": "fer-2013/test/happy/im906.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im906.png",
+        "image_2": "fer-2013/test/happy/im907.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im908.png",
+        "image_2": "fer-2013/test/happy/im911.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im910.png",
+        "image_2": "fer-2013/test/happy/im913.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im914.png",
+        "image_2": "fer-2013/test/happy/im915.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im916.png",
+        "image_2": "fer-2013/test/happy/im915.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im917.png",
+        "image_2": "fer-2013/test/happy/im918.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im919.png",
+        "image_2": "fer-2013/test/happy/im918.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im923.png",
+        "image_2": "fer-2013/test/happy/im926.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im924.png",
+        "image_2": "fer-2013/test/happy/im927.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im930.png",
+        "image_2": "fer-2013/test/happy/im93.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im933.png",
+        "image_2": "fer-2013/test/happy/im932.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im933.png",
+        "image_2": "fer-2013/test/happy/im934.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im940.png",
+        "image_2": "fer-2013/test/happy/im939.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im938.png",
+        "image_2": "fer-2013/test/happy/im940.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im94.png",
+        "image_2": "fer-2013/test/happy/im940.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im941.png",
+        "image_2": "fer-2013/test/happy/im943.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im947.png",
+        "image_2": "fer-2013/test/happy/im946.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im949.png",
+        "image_2": "fer-2013/test/happy/im95.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im950.png",
+        "image_2": "fer-2013/test/happy/im951.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im959.png",
+        "image_2": "fer-2013/test/happy/im957.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im956.png",
+        "image_2": "fer-2013/test/happy/im955.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im958.png",
+        "image_2": "fer-2013/test/happy/im957.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {},
+    {
+        "image_1": "fer-2013/test/happy/im963.png",
+        "image_2": "fer-2013/test/happy/im964.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im970.png",
+        "image_2": "fer-2013/test/happy/im97.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im971.png",
+        "image_2": "fer-2013/test/happy/im972.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im974.png",
+        "image_2": "fer-2013/test/happy/im975.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im977.png",
+        "image_2": "fer-2013/test/happy/im976.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im978.png",
+        "image_2": "fer-2013/test/happy/im980.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im979.png",
+        "image_2": "fer-2013/test/happy/im981.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im982.png",
+        "image_2": "fer-2013/test/happy/im984.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im985.png",
+        "image_2": "fer-2013/test/happy/im986.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im987.png",
+        "image_2": "fer-2013/test/happy/im988.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im988.png",
+        "image_2": "fer-2013/test/happy/im989.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im990.png",
+        "image_2": "fer-2013/test/happy/im991.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im992.png",
+        "image_2": "fer-2013/test/happy/im993.png",
+        "question": "Which person feels more happy?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/happy/im996.png",
+        "image_2": "fer-2013/test/happy/im999.png",
+        "question": "Which person feels more happy?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im0.png",
+        "image_2": "fer-2013/test/neutral/im1.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im100.png",
+        "image_2": "fer-2013/test/neutral/im1005.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1001.png",
+        "image_2": "fer-2013/test/neutral/im10.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1006.png",
+        "image_2": "fer-2013/test/neutral/im1007.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1012.png",
+        "image_2": "fer-2013/test/neutral/im1013.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1010.png",
+        "image_2": "fer-2013/test/neutral/im101.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {},
+    {
+        "image_1": "fer-2013/test/neutral/im1023.png",
+        "image_2": "fer-2013/test/neutral/im1021.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1024.png",
+        "image_2": "fer-2013/test/neutral/im1025.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {},
+    {
+        "image_1": "fer-2013/test/neutral/im1027.png",
+        "image_2": "fer-2013/test/neutral/im1031.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1034.png",
+        "image_2": "fer-2013/test/neutral/im1035.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1039.png",
+        "image_2": "fer-2013/test/neutral/im104.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1038.png",
+        "image_2": "fer-2013/test/neutral/im1040.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1049.png",
+        "image_2": "fer-2013/test/neutral/im1047.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1048.png",
+        "image_2": "fer-2013/test/neutral/im1049.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1051.png",
+        "image_2": "fer-2013/test/neutral/im1053.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1054.png",
+        "image_2": "fer-2013/test/neutral/im1055.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1057.png",
+        "image_2": "fer-2013/test/neutral/im1058.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1057.png",
+        "image_2": "fer-2013/test/neutral/im1059.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1060.png",
+        "image_2": "fer-2013/test/neutral/im1066.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {},
+    {
+        "image_1": "fer-2013/test/neutral/im1070.png",
+        "image_2": "fer-2013/test/neutral/im1071.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1075.png",
+        "image_2": "fer-2013/test/neutral/im1074.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1076.png",
+        "image_2": "fer-2013/test/neutral/im1077.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1079.png",
+        "image_2": "fer-2013/test/neutral/im1082.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1084.png",
+        "image_2": "fer-2013/test/neutral/im1085.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1081.png",
+        "image_2": "fer-2013/test/neutral/im1083.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1093.png",
+        "image_2": "fer-2013/test/neutral/im1096.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1094.png",
+        "image_2": "fer-2013/test/neutral/im1096.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1090.png",
+        "image_2": "fer-2013/test/neutral/im1096.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1097.png",
+        "image_2": "fer-2013/test/neutral/im1098.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1105.png",
+        "image_2": "fer-2013/test/neutral/im1108.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {},
+    {
+        "image_1": "fer-2013/test/neutral/im1123.png",
+        "image_2": "fer-2013/test/neutral/im1120.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1124.png",
+        "image_2": "fer-2013/test/neutral/im1125.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im113.png",
+        "image_2": "fer-2013/test/neutral/im1127.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1133.png",
+        "image_2": "fer-2013/test/neutral/im1135.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im114.png",
+        "image_2": "fer-2013/test/neutral/im1140.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1139.png",
+        "image_2": "fer-2013/test/neutral/im1136.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1145.png",
+        "image_2": "fer-2013/test/neutral/im1149.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1152.png",
+        "image_2": "fer-2013/test/neutral/im1151.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1157.png",
+        "image_2": "fer-2013/test/neutral/im1159.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1161.png",
+        "image_2": "fer-2013/test/neutral/im1162.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {},
+    {
+        "image_1": "fer-2013/test/neutral/im1170.png",
+        "image_2": "fer-2013/test/neutral/im1174.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1181.png",
+        "image_2": "fer-2013/test/neutral/im1182.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1183.png",
+        "image_2": "fer-2013/test/neutral/im1184.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1190.png",
+        "image_2": "fer-2013/test/neutral/im119.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1190.png",
+        "image_2": "fer-2013/test/neutral/im1194.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im120.png",
+        "image_2": "fer-2013/test/neutral/im1197.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im120.png",
+        "image_2": "fer-2013/test/neutral/im1198.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im120.png",
+        "image_2": "fer-2013/test/neutral/im1199.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1201.png",
+        "image_2": "fer-2013/test/neutral/im1202.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1207.png",
+        "image_2": "fer-2013/test/neutral/im1209.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1208.png",
+        "image_2": "fer-2013/test/neutral/im1212.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1226.png",
+        "image_2": "fer-2013/test/neutral/im1228.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1230.png",
+        "image_2": "fer-2013/test/neutral/im1226.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im1227.png",
+        "image_2": "fer-2013/test/neutral/im123.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im126.png",
+        "image_2": "fer-2013/test/neutral/im130.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im138.png",
+        "image_2": "fer-2013/test/neutral/im139.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im140.png",
+        "image_2": "fer-2013/test/neutral/im139.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im145.png",
+        "image_2": "fer-2013/test/neutral/im143.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im148.png",
+        "image_2": "fer-2013/test/neutral/im15.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im146.png",
+        "image_2": "fer-2013/test/neutral/im15.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im159.png",
+        "image_2": "fer-2013/test/neutral/im155.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im16.png",
+        "image_2": "fer-2013/test/neutral/im161.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im160.png",
+        "image_2": "fer-2013/test/neutral/im161.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {},
+    {
+        "image_1": "fer-2013/test/neutral/im165.png",
+        "image_2": "fer-2013/test/neutral/im167.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im178.png",
+        "image_2": "fer-2013/test/neutral/im179.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im179.png",
+        "image_2": "fer-2013/test/neutral/im18.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im179.png",
+        "image_2": "fer-2013/test/neutral/im180.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im179.png",
+        "image_2": "fer-2013/test/neutral/im181.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im179.png",
+        "image_2": "fer-2013/test/neutral/im182.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im183.png",
+        "image_2": "fer-2013/test/neutral/im186.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im186.png",
+        "image_2": "fer-2013/test/neutral/im184.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {},
+    {
+        "image_1": "fer-2013/test/neutral/im188.png",
+        "image_2": "fer-2013/test/neutral/im189.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im195.png",
+        "image_2": "fer-2013/test/neutral/im191.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im195.png",
+        "image_2": "fer-2013/test/neutral/im192.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/",
+        "image_2": "fer-2013/test/neutral/im194.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im200.png",
+        "image_2": "fer-2013/test/neutral/im197.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im200.png",
+        "image_2": "fer-2013/test/neutral/im198.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im200.png",
+        "image_2": "fer-2013/test/neutral/im199.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im200.png",
+        "image_2": "fer-2013/test/neutral/im2.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im200.png",
+        "image_2": "fer-2013/test/neutral/im20.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im204.png",
+        "image_2": "fer-2013/test/neutral/im205.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im210.png",
+        "image_2": "fer-2013/test/neutral/im211.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im219.png",
+        "image_2": "fer-2013/test/neutral/im221.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im22.png",
+        "image_2": "fer-2013/test/neutral/im221.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im216.png",
+        "image_2": "fer-2013/test/neutral/im221.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im229.png",
+        "image_2": "fer-2013/test/neutral/im228.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im225.png",
+        "image_2": "fer-2013/test/neutral/im224.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im231.png",
+        "image_2": "fer-2013/test/neutral/im232.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {},
+    {
+        "image_1": "fer-2013/test/neutral/im234.png",
+        "image_2": "fer-2013/test/neutral/im235.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im239.png",
+        "image_2": "fer-2013/test/neutral/im24.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im243.png",
+        "image_2": "fer-2013/test/neutral/im241.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im249.png",
+        "image_2": "fer-2013/test/neutral/im245.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {},
+    {
+        "image_1": "fer-2013/test/neutral/im265.png",
+        "image_2": "fer-2013/test/neutral/im266.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im267.png",
+        "image_2": "fer-2013/test/neutral/im266.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im262.png",
+        "image_2": "fer-2013/test/neutral/im264.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im272.png",
+        "image_2": "fer-2013/test/neutral/im273.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im274.png",
+        "image_2": "fer-2013/test/neutral/im272.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    }
+]

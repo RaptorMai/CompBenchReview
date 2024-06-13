@@ -1,0 +1,1400 @@
+[
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/frayed_jacket-quilted_jacket/frayed_jacket/33a60f6f6d0abe76697705b61564ad30.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/frayed_jacket-quilted_jacket/quilted_jacket/124dc5471306edcadc0d89bfc7353939.jpg",
+    "answer": "Left",
+    "question": "Which jacket is more frayed?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/frayed_jacket-quilted_jacket/frayed_jacket/33a60f6f6d0abe76697705b61564ad30.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/frayed_jacket-quilted_jacket/quilted_jacket/fad1a9c9583ecdcf383d47d322fbc53a.jpg",
+    "answer": "Left",
+    "question": "Which jacket is more frayed?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/frayed_jacket-quilted_jacket/frayed_jacket/33a60f6f6d0abe76697705b61564ad30.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/frayed_jacket-quilted_jacket/quilted_jacket/f94473431eecc5ca5f6434ee413fc2d0.jpg",
+    "answer": "Left",
+    "question": "Which jacket is more frayed?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/frayed_jacket-quilted_jacket/frayed_jacket/33a60f6f6d0abe76697705b61564ad30.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/frayed_jacket-quilted_jacket/quilted_jacket/f94473431eecc5ca5f6434ee413fc2d0.jpg",
+    "answer": "Right",
+    "question": "Which jacket is more quilted?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/frayed_jacket-quilted_jacket/frayed_jacket/33a60f6f6d0abe76697705b61564ad30.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/frayed_jacket-quilted_jacket/quilted_jacket/fad1a9c9583ecdcf383d47d322fbc53a.jpg",
+    "answer": "Right",
+    "question": "Which jacket is more quilted?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/round (neck)_neckline/ae97534d312305c3b2ce4c956d54d3a9.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/plunging (neckline)_neckline/6499b518ea551522410fc199dc73a159.jpg",
+    "answer": "Left",
+    "question": "Which neckline is rounder ?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/round (neck)_neckline/28cc10255347d209843aa9a595eaed69.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/plunging (neckline)_neckline/09c1c65c2b742a710bc736a8fe566d11.jpg",
+    "answer": "Left",
+    "question": "Which neckline is rounder ?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/round (neck)_neckline/b2514d07946f182a890908a7ba436bd5.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/plunging (neckline)_neckline/ba49f22a7e2927ec0df677e4d199c93d.jpg",
+    "answer": "Left",
+    "question": "Which neckline is rounder ?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/round (neck)_neckline/15910ed48cbfceeff0e0b808694b732c.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/plunging (neckline)_neckline/60d05fa8bc73b960e13f73cb8a312b0e.jpg",
+    "answer": "Left",
+    "question": "Which neckline is rounder ?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/round (neck)_neckline/b95dae1ed0c598a38d17906e9b27dabe.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/plunging (neckline)_neckline/de699dedf1aade91f713ea59f187f74f.jpg",
+    "answer": "Left",
+    "question": "Which neckline is rounder ?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/round (neck)_neckline/91d63e4fe4777e2d1a6e7f9e6f93de2d.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/plunging (neckline)_neckline/5b119f366a58e6706b6c721fb0c52d9d.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more plunging?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/round (neck)_neckline/5fc2853754a2d370b75869fe467672a5.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/plunging (neckline)_neckline/5b119f366a58e6706b6c721fb0c52d9d.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more plunging?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/round (neck)_neckline/466e69961de78100fddae84c64fbf542.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/plunging (neckline)_neckline/de90e3f82e7a96e74dfc900b07caf5ab.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more plunging?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/round (neck)_neckline/f7d42de488267872bad676577e46b027.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/plunging (neckline)_neckline/7229de52add8dfb593d50f63cc39df10.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more plunging?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/round (neck)_neckline/12bf6fb74bf3a422429b71f23210d5fa.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/plunging (neckline)_neckline/e1c633bb82c74fbfc7504a7186c97751.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more plunging?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/round (neck)_neckline/155ea684f404a9b299b20ae06a64b813.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/plunging (neckline)_neckline/dcad9d1fe5e077912fe84049c3e7076c.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more plunging?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/round (neck)_neckline/05bfc7156bc37ce44207ca814f1b3737.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/plunging (neckline)_neckline/215ae3c02ff82ed943816a80204d7a41.jpg",
+    "answer": "Left",
+    "question": "Which neckline is rounder ?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/round (neck)_neckline/3696956aa43b2641bdb8ee6fd0ea213f.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/plunging (neckline)_neckline/47a6e8d14d0e8c92f3759036b8541cf9.jpg",
+    "answer": "Left",
+    "question": "Which neckline is rounder ?"
+  },
+  {},
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/round (neck)_neckline/fd860a8100f35a28da87cec4c565ecdd.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/plunging (neckline)_neckline/f0ac4ba410f7dd70272184ff5fe4b5ce.jpg",
+    "answer": "Left",
+    "question": "Which neckline is rounder ?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/round (neck)_neckline/dbbc57a65ecd459890dfd87b72288f70.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/plunging (neckline)_neckline/8eacc19c92ca15c7d79d66bfb2626fe7.jpg",
+    "answer": "Left",
+    "question": "Which neckline is rounder ?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/round (neck)_neckline/7364f45820e10eb53b3b6827c2b08516.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/plunging (neckline)_neckline/15b762ffae2204c3554787051c72670a.jpg",
+    "answer": "Left",
+    "question": "Which neckline is rounder ?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/round (neck)_neckline/2c93c741cc5e4e4fce6f7a7b0d46064e.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/plunging (neckline)_neckline/05ac586e0bd29fdf12a9506bf05b280b.jpg",
+    "answer": "Left",
+    "question": "Which neckline is rounder ?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/round (neck)_neckline/7d9a766f0de2a8aab3004ac1bee9768f.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/plunging (neckline)_neckline/e8ba08760f890218971b282215d816dc.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more plunging?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/round (neck)_neckline/3ad847bd01f73476418f50f8419bf644.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/plunging (neckline)_neckline/f6d5d138127a985997df20d4cad1b276.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more plunging?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/round (neck)_neckline/b2514d07946f182a890908a7ba436bd5.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-plunging (neckline)_neckline/plunging (neckline)_neckline/09c1c65c2b742a710bc736a8fe566d11.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more plunging?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_sweatshirt-geometric_sweatshirt/plain (pattern)_sweatshirt/fcc71ab647c43d3bdae6ba5e9349464d.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/19dd339879e0b1efdda6a92bbd2c754d.jpg",
+    "answer": "Right",
+    "question": "Which sweatshirt is more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_sweatshirt-geometric_sweatshirt/plain (pattern)_sweatshirt/a8769fb3b98cdcf3cfaef9dcd329a8d1.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/b7e37d461b7abbe7af0bb979742b2a77.jpg",
+    "answer": "Right",
+    "question": "Which sweatshirt is more geometric?"
+  },
+  {},
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_sweatshirt-geometric_sweatshirt/plain (pattern)_sweatshirt/b2514d07946f182a890908a7ba436bd5.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/b7e37d461b7abbe7af0bb979742b2a77.jpg",
+    "answer": "Right",
+    "question": "Which sweatshirt is more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_sweatshirt-geometric_sweatshirt/plain (pattern)_sweatshirt/77e9eefca9b24d5d5b2ca7a43d1fc1ce.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/ec83daef3597c9591605493556a4fc73.jpg",
+    "answer": "Left",
+    "question": "Which sweatshirt's  pattern is more plain?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_sweatshirt-geometric_sweatshirt/plain (pattern)_sweatshirt/474d53c6c7a10c536cb49d55104211bf.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/db754979155507a6528eeb152a0adaf9.jpg",
+    "answer": "Right",
+    "question": "Which sweatshirt is more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_sweatshirt-geometric_sweatshirt/plain (pattern)_sweatshirt/2adffb322a52bb5e4111ff76b9883f36.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/17e3e8454e1addcf98b2449ccb96d3a9.jpg",
+    "answer": "Right",
+    "question": "Which sweatshirt is more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_sweatshirt-geometric_sweatshirt/plain (pattern)_sweatshirt/3e57b446b927f69e56d46f3e5db68b37.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/ec83daef3597c9591605493556a4fc73.jpg",
+    "answer": "Left",
+    "question": "Which sweatshirt's  pattern is more plain?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_sweatshirt-geometric_sweatshirt/plain (pattern)_sweatshirt/47c2e3e2ff0bfcacd0b42339314862d3.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/19dd339879e0b1efdda6a92bbd2c754d.jpg",
+    "answer": "Left",
+    "question": "Which sweatshirt's  pattern is more plain?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/floral_sweatshirt/5dbc92d79e36f8af3824a776b28b97d0.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/f19900e56c52d4736c9ddf371d9181cc.jpg",
+    "answer": "Left",
+    "question": "Which sweatshirt is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/floral_sweatshirt/733128db0ce4f09443fc561514458c7f.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/f19900e56c52d4736c9ddf371d9181cc.jpg",
+    "answer": "Left",
+    "question": "Which sweatshirt is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/floral_sweatshirt/09c1c65c2b742a710bc736a8fe566d11.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/19dd339879e0b1efdda6a92bbd2c754d.jpg",
+    "answer": "Right",
+    "question": "Which sweatshirt is more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/floral_sweatshirt/473ca12a9a40ada656994abef67bf900.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/b7e37d461b7abbe7af0bb979742b2a77.jpg",
+    "answer": "Left",
+    "question": "Which sweatshirt is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/floral_sweatshirt/110884e327a094ad86358ece522dddff.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/19dd339879e0b1efdda6a92bbd2c754d.jpg",
+    "answer": "Left",
+    "question": "Which sweatshirt is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/floral_sweatshirt/28cc10255347d209843aa9a595eaed69.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/db754979155507a6528eeb152a0adaf9.jpg",
+    "answer": "Left",
+    "question": "Which sweatshirt is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/floral_sweatshirt/9c09e13e8d3b85d10cbdf08277af395e.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/ec83daef3597c9591605493556a4fc73.jpg",
+    "answer": "Left",
+    "question": "Which sweatshirt is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/floral_sweatshirt/6804c0168b384deb92f498ba8ed5ca4a.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/19dd339879e0b1efdda6a92bbd2c754d.jpg",
+    "answer": "Right",
+    "question": "Which sweatshirt is more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/floral_sweatshirt/492c43f88806dc6beb84ed534f0fc001.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/f9c5f3efdae7ce33986891e0ba2f0a9c.jpg",
+    "answer": "Right",
+    "question": "Which sweatshirt is more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/floral_sweatshirt/d56bf67bd74cb0f2128007818675a465.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/7d9a766f0de2a8aab3004ac1bee9768f.jpg",
+    "answer": "Left",
+    "question": "Which sweatshirt is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/floral_sweatshirt/3eb7a0ff606c78fe102f35a98f08573c.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/ec83daef3597c9591605493556a4fc73.jpg",
+    "answer": "Left",
+    "question": "Which sweatshirt is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/floral_sweatshirt/fa9d0d5edd31d61640e21fafc6aaa2c2.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/3ed12074817fa4dff22b8df5ba0ce3f5.jpg",
+    "answer": "Left",
+    "question": "Which sweatshirt is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/floral_sweatshirt/c5e12ba6c5f039031bd14b4670d581c3.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/ec83daef3597c9591605493556a4fc73.jpg",
+    "answer": "Left",
+    "question": "Which sweatshirt is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/floral_sweatshirt/5cba4260eab80d368b662a6348ab47ad.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/ec83daef3597c9591605493556a4fc73.jpg",
+    "answer": "Right",
+    "question": "Which sweatshirt is more geometric?"
+  },
+  {},
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/floral_sweatshirt/a95fbf0046baf4bb406f4f9e27a70454.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/17e3e8454e1addcf98b2449ccb96d3a9.jpg",
+    "answer": "Left",
+    "question": "Which sweatshirt is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/floral_sweatshirt/3a87ce99efb87686869fdb390cc5ef0c.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/17e3e8454e1addcf98b2449ccb96d3a9.jpg",
+    "answer": "Right",
+    "question": "Which sweatshirt is more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/floral_sweatshirt/b57c1abdc520418a85d2c94514304670.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_sweatshirt-geometric_sweatshirt/geometric_sweatshirt/17e3e8454e1addcf98b2449ccb96d3a9.jpg",
+    "answer": "Left",
+    "question": "Which sweatshirt is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_pants-geometric_pants/floral_pants/6a0d484572ffd11cc5ea627df2c82b94.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_pants-geometric_pants/geometric_pants/537ecc29cbe6e09d8eb0038a0dc7edbe.jpg",
+    "answer": "Left",
+    "question": "Which pants are more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_pants-geometric_pants/floral_pants/6a0d484572ffd11cc5ea627df2c82b94.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_pants-geometric_pants/geometric_pants/537ecc29cbe6e09d8eb0038a0dc7edbe.jpg",
+    "answer": "Right",
+    "question": "Which pants are more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_pants-geometric_pants/floral_pants/fc9a327bebcf15c590090192a6ff09bf.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_pants-geometric_pants/geometric_pants/72a138c47a27759553ebb2b2c1a94707.jpg",
+    "answer": "Left",
+    "question": "Which pants are more floral?"
+  },
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_sweater-geometric_sweater/plain (pattern)_sweater/4dc413ef5a47c5da696ba2f72835e6ed.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_sweater-geometric_sweater/geometric_sweater/a1678fa388b815b80f71ac94878eef47.jpg",
+    "answer": "Right",
+    "question": "Which sweater is more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_sweater-geometric_sweater/plain (pattern)_sweater/a419c030ecf1f588302b7db62ee2bb21.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_sweater-geometric_sweater/geometric_sweater/a1678fa388b815b80f71ac94878eef47.jpg",
+    "answer": "Right",
+    "question": "Which sweater is more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_sweater-geometric_sweater/plain (pattern)_sweater/a3f881917b1e3e8875dfe97f9ae98bee.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_sweater-geometric_sweater/geometric_sweater/a1678fa388b815b80f71ac94878eef47.jpg",
+    "answer": "Right",
+    "question": "Which sweater is more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_sweater-geometric_sweater/plain (pattern)_sweater/fd860a8100f35a28da87cec4c565ecdd.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_sweater-geometric_sweater/geometric_sweater/a1678fa388b815b80f71ac94878eef47.jpg",
+    "answer": "Right",
+    "question": "Which sweater is more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_sweater-geometric_sweater/plain (pattern)_sweater/d15a9ee27ee2180fee5ba2447d6c7939.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_sweater-geometric_sweater/geometric_sweater/a1678fa388b815b80f71ac94878eef47.jpg",
+    "answer": "Right",
+    "question": "Which sweater is more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_sweater-geometric_sweater/plain (pattern)_sweater/871b1533f5ecd9f4de3d7942ab3dfcc1.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_sweater-geometric_sweater/geometric_sweater/a1678fa388b815b80f71ac94878eef47.jpg",
+    "answer": "Right",
+    "question": "Which sweater is more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_sweater-geometric_sweater/plain (pattern)_sweater/05af199570c00b817102c3cb6834a6e4.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_sweater-geometric_sweater/geometric_sweater/a1678fa388b815b80f71ac94878eef47.jpg",
+    "answer": "Right",
+    "question": "Which sweater is more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_sweater-geometric_sweater/plain (pattern)_sweater/8e87687c1064403a1cd1500b516a7ad8.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_sweater-geometric_sweater/geometric_sweater/a1678fa388b815b80f71ac94878eef47.jpg",
+    "answer": "Right",
+    "question": "Which sweater is more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_coat-geometric_coat/floral_coat/55cd7f4f81847745f62b4bc59df3df1f.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_coat-geometric_coat/geometric_coat/79a404d13384b4e687f5927f1d28e2e3.jpg",
+    "answer": "Left",
+    "question": "Which coat is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_coat-geometric_coat/floral_coat/55cd7f4f81847745f62b4bc59df3df1f.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_coat-geometric_coat/geometric_coat/bd8d3293d99b77a3fa0ec0dd058235dc.jpg",
+    "answer": "Left",
+    "question": "Which coat is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_coat-geometric_coat/floral_coat/ebf78f93576a0c6222dc50801fd113c6.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_coat-geometric_coat/geometric_coat/79a404d13384b4e687f5927f1d28e2e3.jpg",
+    "answer": "Left",
+    "question": "Which coat is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_coat-geometric_coat/floral_coat/ebf78f93576a0c6222dc50801fd113c6.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_coat-geometric_coat/geometric_coat/bd8d3293d99b77a3fa0ec0dd058235dc.jpg",
+    "answer": "Left",
+    "question": "Which coat is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_coat-geometric_coat/floral_coat/55cd7f4f81847745f62b4bc59df3df1f.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_coat-geometric_coat/geometric_coat/79a404d13384b4e687f5927f1d28e2e3.jpg",
+    "answer": "Right",
+    "question": "Which coat is more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/frayed_jacket-floral_jacket/frayed_jacket/33a60f6f6d0abe76697705b61564ad30.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/frayed_jacket-floral_jacket/floral_jacket/2551e47761b4dec0095aa9d1529385e0.jpg",
+    "answer": "Left",
+    "question": "Which jacket is more frayed?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/frayed_jacket-floral_jacket/frayed_jacket/33a60f6f6d0abe76697705b61564ad30.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/frayed_jacket-floral_jacket/floral_jacket/5fc2853754a2d370b75869fe467672a5.jpg",
+    "answer": "Right",
+    "question": "Which jacket is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/regular (fit)_pants-loose (fit)_pants/regular (fit)_pants/9606b2f07120decea19e5cfc6e003585.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/regular (fit)_pants-loose (fit)_pants/regular (fit)_pants/d67ad10df9224b51361c9dfb18f5a9ef.jpg",
+    "answer": "Right",
+    "question": "Which pants'  fit is looser ?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/regular (fit)_pants-loose (fit)_pants/regular (fit)_pants/12bf6fb74bf3a422429b71f23210d5fa.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/regular (fit)_pants-loose (fit)_pants/regular (fit)_pants/004e9e21cd1aca568a8ffc77a54638ce.jpg",
+    "answer": "Right",
+    "question": "Which pants'  fit is looser ?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/regular (fit)_pants-loose (fit)_pants/regular (fit)_pants/f17fd9050a7d16a084f93c11b8506bb5.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/regular (fit)_pants-loose (fit)_pants/loose (fit)_pants/2310f7efadf3407b64a2a4532a1d2ee7.jpg",
+    "answer": "Right",
+    "question": "Which pants'  fit is looser ?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/regular (fit)_pants-loose (fit)_pants/regular (fit)_pants/473b84b26a91ed22e0c0584cab355068.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/regular (fit)_pants-loose (fit)_pants/regular (fit)_pants/888ce4d1599f17c5b16537b13bad7fc3.jpg",
+    "answer": "Right",
+    "question": "Which pants'  fit is looser ?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/regular (fit)_pants-loose (fit)_pants/regular (fit)_pants/84e8048def1e6bbfd0c8558a949ef76d.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/regular (fit)_pants-loose (fit)_pants/loose (fit)_pants/1fc67fcf2301de07315b2b1eae7d1e87.jpg",
+    "answer": "Right",
+    "question": "Which pants'  fit is looser ?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/floral_dress/fffea54b50ac7e4bf24688c8614a5f27.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/geometric_dress/0a4aae5ecd970a120bfcc6b377b6e187.jpg",
+    "answer": "Left",
+    "question": "Which dress is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/floral_dress/35a40d006d7f633f12d86624236cf272.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/geometric_dress/0a4aae5ecd970a120bfcc6b377b6e187.jpg",
+    "answer": "Left",
+    "question": "Which dress is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/floral_dress/78c76bd3d70e760b4b59fde91b1cc03f.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/geometric_dress/0a4aae5ecd970a120bfcc6b377b6e187.jpg",
+    "answer": "Left",
+    "question": "Which dress is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/floral_dress/8d6cc2330f9c370096ac3f33147b2b83.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/geometric_dress/a38445479f8dcc4074a291d8eb99e97a.jpg",
+    "answer": "Left",
+    "question": "Which dress is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/floral_dress/856299572eafa93c80b15e6587779553.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/geometric_dress/750ff1f0bb17bd102b4e68e96684a2ee.jpg",
+    "answer": "Left",
+    "question": "Which dress is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/floral_dress/0046f98599f05fd7233973e430d6d04d.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/geometric_dress/a38445479f8dcc4074a291d8eb99e97a.jpg",
+    "answer": "Left",
+    "question": "Which dress is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/floral_dress/7a65f8ca901b6307715350452dff10b6.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/geometric_dress/750ff1f0bb17bd102b4e68e96684a2ee.jpg",
+    "answer": "Left",
+    "question": "Which dress is more floral?"
+  },
+  {},
+  {},
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/floral_dress/3dc0b2b41d54c1b702e908f8aa5b4e04.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/geometric_dress/552700b156b4012a7367ff18ec79cf65.jpg",
+    "answer": "Left",
+    "question": "Which dress is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/floral_dress/926e547ae973c4ff47a63ac941fe6be1.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/geometric_dress/552700b156b4012a7367ff18ec79cf65.jpg",
+    "answer": "Left",
+    "question": "Which dress is more floral?"
+  },
+  {},
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/floral_dress/7c1c1c9c7a065b576f648e94d5a65c51.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/geometric_dress/21c52aa89dbf9b2be2089c20cf1d987d.jpg",
+    "answer": "Right",
+    "question": "Which dress is more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/floral_dress/07a7bc9429c23e4704ab97898de75030.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/geometric_dress/a22769bf38c0acd680854bd5588e8075.jpg",
+    "answer": "Left",
+    "question": "Which dress is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/floral_dress/bedd4c227a48bc3f89431058fa77c82b.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/geometric_dress/d23d0383fa7e5e512eba48cdf9b8f5cb.jpg",
+    "answer": "Left",
+    "question": "Which dress is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/floral_dress/6c8b75eda84586938870b9715fd35181.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/geometric_dress/8cd47ea6b100369f44879e44ba5950c7.jpg",
+    "answer": "Left",
+    "question": "Which dress is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/floral_dress/05d26dad11c6bca43d37df0c16d91bc9.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/geometric_dress/d23d0383fa7e5e512eba48cdf9b8f5cb.jpg",
+    "answer": "Left",
+    "question": "Which dress is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/floral_dress/558aa27776a2fb39d148328b7c818b60.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/geometric_dress/9595f24dbd770431ef76c8d4e4007d87.jpg",
+    "answer": "Left",
+    "question": "Which dress is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/floral_dress/215ae3c02ff82ed943816a80204d7a41.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/geometric_dress/ee79928543ad42dafc984a30277d264e.jpg",
+    "answer": "Right",
+    "question": "Which dress is more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/floral_dress/88594d2c3e6bc16310571a20f9e13791.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/geometric_dress/ee79928543ad42dafc984a30277d264e.jpg",
+    "answer": "Left",
+    "question": "Which dress is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/floral_dress/0483fc73ee89d2e8c4b63aeb3af0542c.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/floral_dress-geometric_dress/geometric_dress/bdf1b7cd23faf554bec077e59312de2e.jpg",
+    "answer": "Right",
+    "question": "Which dress is more geometric?"
+  },
+  {},
+  {},
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/asymmetric (neckline)_neckline/e0ea97f3ac46d041519535fa3665080e.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/round (neck)_neckline/97798485ca538a03284d8dbaceab92c4.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more asymmetric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/asymmetric (neckline)_neckline/e0ea97f3ac46d041519535fa3665080e.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/round (neck)_neckline/97798485ca538a03284d8dbaceab92c4.jpg",
+    "answer": "Right",
+    "question": "Which neckline is rounder ?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/asymmetric (neckline)_neckline/c4e7ac9027ce6e052eb110b1281a8638.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/round (neck)_neckline/15910ed48cbfceeff0e0b808694b732c.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more asymmetric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/asymmetric (neckline)_neckline/c4e7ac9027ce6e052eb110b1281a8638.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/round (neck)_neckline/3a251a0d83018173d9eb85dd2f7c64f1.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more asymmetric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/asymmetric (neckline)_neckline/ebe5e781a398df8c599047d5bf319c2e.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/round (neck)_neckline/b24d298f9856f105bb3f3bb645b59dd9.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more asymmetric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/asymmetric (neckline)_neckline/6b4ee84a44b076120d58c0ebb74f313a.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/round (neck)_neckline/ae97534d312305c3b2ce4c956d54d3a9.jpg",
+    "answer": "Right",
+    "question": "Which neckline is rounder ?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/asymmetric (neckline)_neckline/dbf96873bc9183c44f618edc3771dfb4.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/round (neck)_neckline/491cb7a45cc0f231fac998814d9a10f2.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more asymmetric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/asymmetric (neckline)_neckline/dbf96873bc9183c44f618edc3771dfb4.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/round (neck)_neckline/12bf6fb74bf3a422429b71f23210d5fa.jpg",
+    "answer": "Right",
+    "question": "Which neckline is rounder ?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/asymmetric (neckline)_neckline/d23d0383fa7e5e512eba48cdf9b8f5cb.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/round (neck)_neckline/31140648986fc92f80f858c6b2b59304.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more asymmetric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/asymmetric (neckline)_neckline/85b908aa7e3e26a871fd720919fa2a38.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/round (neck)_neckline/bc6426e3f3df37ba4b2a84b808c20152.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more asymmetric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/asymmetric (neckline)_neckline/4c796269b7c4578353de5be59efbb9f9.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/round (neck)_neckline/2c93c741cc5e4e4fce6f7a7b0d46064e.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more asymmetric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/asymmetric (neckline)_neckline/5048b43266b5bcda8b56e559bd845636.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/round (neck)_neckline/a38445479f8dcc4074a291d8eb99e97a.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more asymmetric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/asymmetric (neckline)_neckline/9595f24dbd770431ef76c8d4e4007d87.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/round (neck)_neckline/7d9a766f0de2a8aab3004ac1bee9768f.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more asymmetric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/asymmetric (neckline)_neckline/6eba429572feb4a28320f7f8d2710fe4.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/round (neck)_neckline/f03e9cedb170c1d764705c994865af13.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more asymmetric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/asymmetric (neckline)_neckline/5048b43266b5bcda8b56e559bd845636.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/round (neck)_neckline/d2c69d175a69a01fe09597583fa740a3.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more asymmetric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/asymmetric (neckline)_neckline/2ab8deb3a77d67416d2a5eeebd6a4d72.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/round (neck)_neckline/3b0e3da1465e802b7855e4c532638e7e.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more asymmetric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/asymmetric (neckline)_neckline/3ad8d42ba64449a7617160489b43cffb.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/round (neck)_neckline/f7d42de488267872bad676577e46b027.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more asymmetric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/asymmetric (neckline)_neckline/93689df6d05b8406fcf9083057344e3e.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/round (neck)_neckline/b2514d07946f182a890908a7ba436bd5.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more asymmetric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/asymmetric (neckline)_neckline/d2f3f13a7a3532cc905fe9f3bad10b8a.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-round (neck)_neckline/round (neck)_neckline/7d9a766f0de2a8aab3004ac1bee9768f.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more asymmetric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/baggy_pants-floral_pants/baggy_pants/2310f7efadf3407b64a2a4532a1d2ee7.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/baggy_pants-floral_pants/floral_pants/6a0d484572ffd11cc5ea627df2c82b94.jpg",
+    "answer": "Left",
+    "question": "Which pants are more baggy?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/baggy_pants-floral_pants/baggy_pants/236d3495722c76ba66121bdd9dc92d37.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/baggy_pants-floral_pants/floral_pants/fc9a327bebcf15c590090192a6ff09bf.jpg",
+    "answer": "Left",
+    "question": "Which pants are more baggy?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/baggy_pants-floral_pants/baggy_pants/236d3495722c76ba66121bdd9dc92d37.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/baggy_pants-floral_pants/floral_pants/fc9a327bebcf15c590090192a6ff09bf.jpg",
+    "answer": "Right",
+    "question": "Which pants are more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/baggy_pants-floral_pants/baggy_pants/2310f7efadf3407b64a2a4532a1d2ee7.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/baggy_pants-floral_pants/floral_pants/6a0d484572ffd11cc5ea627df2c82b94.jpg",
+    "answer": "Right",
+    "question": "Which pants are more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_coat-floral_coat/plain (pattern)_coat/09675496409c85adc6deba11277050e8.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_coat-floral_coat/floral_coat/55cd7f4f81847745f62b4bc59df3df1f.jpg",
+    "answer": "Left",
+    "question": "Which coat's  pattern is more plain?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_coat-floral_coat/plain (pattern)_coat/4258a57f9ae2b08fe1783858ff936596.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_coat-floral_coat/floral_coat/ebf78f93576a0c6222dc50801fd113c6.jpg",
+    "answer": "Right",
+    "question": "Which coat is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/paisley_sweatshirt-argyle_sweatshirt/paisley_sweatshirt/30f78c0b40e3a0cdcd7274a7af53f2ce.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/paisley_sweatshirt-argyle_sweatshirt/argyle_sweatshirt/2d3c87a230e6e06e383db8feed2b7c5f.jpg",
+    "answer": "Right",
+    "question": "Which sweatshirt is more argyle?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/paisley_sweatshirt-argyle_sweatshirt/paisley_sweatshirt/ba49f22a7e2927ec0df677e4d199c93d.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/paisley_sweatshirt-argyle_sweatshirt/argyle_sweatshirt/2d3c87a230e6e06e383db8feed2b7c5f.jpg",
+    "answer": "Right",
+    "question": "Which sweatshirt is more argyle?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_blouse-floral_blouse/plain (pattern)_blouse/b360c19580caf49e561173fab54bfdb2.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_blouse-floral_blouse/floral_blouse/123318217b814f567b34b30bc843680f.jpg",
+    "answer": "Right",
+    "question": "Which blouse is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_blouse-floral_blouse/plain (pattern)_blouse/db754979155507a6528eeb152a0adaf9.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_blouse-floral_blouse/floral_blouse/265a6f3aee35666b2f62752c49f6dd63.jpg",
+    "answer": "Left",
+    "question": "Which blouse's  pattern is more plain?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_blouse-floral_blouse/plain (pattern)_blouse/42668f83c24465ba79d25eb2a8790050.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_blouse-floral_blouse/floral_blouse/56e5e99c58d6d12337e92e6a73f3c8d5.jpg",
+    "answer": "Left",
+    "question": "Which blouse's  pattern is more plain?"
+  },
+  {},
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_pants-geometric_pants/plain (pattern)_pants/3ce04e48660ed6d21aee863f674486b7.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_pants-geometric_pants/geometric_pants/537ecc29cbe6e09d8eb0038a0dc7edbe.jpg",
+    "answer": "Right",
+    "question": "Which pants are more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_pants-geometric_pants/plain (pattern)_pants/473b84b26a91ed22e0c0584cab355068.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_pants-geometric_pants/geometric_pants/ce07236c7bdb9f4d04df57c3a7967959.jpg",
+    "answer": "Right",
+    "question": "Which pants are more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_pants-geometric_pants/plain (pattern)_pants/9be97731b91f50cb1fabfa8d6d1bf441.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_pants-geometric_pants/geometric_pants/20cce77f20aada8462856157a7957d8f.jpg",
+    "answer": "Left",
+    "question": "Which pants'  pattern is more plain?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/frayed_jacket-geometric_jacket/frayed_jacket/33a60f6f6d0abe76697705b61564ad30.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/frayed_jacket-geometric_jacket/geometric_jacket/a8741d59e6609bfc5f6abfa00fd6b431.jpg",
+    "answer": "Left",
+    "question": "Which jacket is more frayed?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/frayed_jacket-geometric_jacket/frayed_jacket/33a60f6f6d0abe76697705b61564ad30.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/frayed_jacket-geometric_jacket/geometric_jacket/d96606ae95730d706916c376ede63c28.jpg",
+    "answer": "Left",
+    "question": "Which jacket is more frayed?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/frayed_jacket-geometric_jacket/frayed_jacket/33a60f6f6d0abe76697705b61564ad30.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/frayed_jacket-geometric_jacket/geometric_jacket/a8741d59e6609bfc5f6abfa00fd6b431.jpg",
+    "answer": "Right",
+    "question": "Which jacket is more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/distressed_shorts-plain (pattern)_shorts/distressed_shorts/cf7bd43e4005602bc0ba4e2b5763e3a0.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/distressed_shorts-plain (pattern)_shorts/plain (pattern)_shorts/9c2944165b3d4390a3aa62dc0a07fe7e.jpg",
+    "answer": "Left",
+    "question": "Which shorts are more distressed"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/distressed_shorts-plain (pattern)_shorts/distressed_shorts/0e5ecf98835cbd0dddd1b45c788005c3.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/distressed_shorts-plain (pattern)_shorts/plain (pattern)_shorts/de699dedf1aade91f713ea59f187f74f.jpg",
+    "answer": "Left",
+    "question": "Which shorts are more distressed"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/distressed_shorts-plain (pattern)_shorts/distressed_shorts/3e57b446b927f69e56d46f3e5db68b37.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/distressed_shorts-plain (pattern)_shorts/plain (pattern)_shorts/b9b9619a5fec071603e1b29a9772cefc.jpg",
+    "answer": "Left",
+    "question": "Which shorts are more distressed"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/distressed_shorts-plain (pattern)_shorts/distressed_shorts/3b0e3da1465e802b7855e4c532638e7e.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/distressed_shorts-plain (pattern)_shorts/plain (pattern)_shorts/041a6b43ed7ddfa1ec6040d27e5ce9a8.jpg",
+    "answer": "Left",
+    "question": "Which shorts are more distressed"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/curved (fit)_jumpsuit-regular (fit)_jumpsuit/curved (fit)_jumpsuit/5b7dfd2d006e7f0dd2bd673dd009d413.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/curved (fit)_jumpsuit-regular (fit)_jumpsuit/regular (fit)_jumpsuit/5519b067d1037167b0acd664fcbb918e.jpg",
+    "answer": "Left",
+    "question": "Which jumpsuit's  fit is more curved?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/curved (fit)_jumpsuit-regular (fit)_jumpsuit/curved (fit)_jumpsuit/9a755d94e00922406ee34010fac8eec5.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/curved (fit)_jumpsuit-regular (fit)_jumpsuit/regular (fit)_jumpsuit/8937a7dafd3f090901d5bda9aee1ccca.jpg",
+    "answer": "Left",
+    "question": "Which jumpsuit's  fit is more curved?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/baggy_jumpsuit-floral_jumpsuit/baggy_jumpsuit/563c45745e1775a74e3a5b2513079b9d.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/baggy_jumpsuit-floral_jumpsuit/floral_jumpsuit/614e7297f89c14e73b691d7f76ed77f4.jpg",
+    "answer": "Right",
+    "question": "Which jumpsuit is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/baggy_jumpsuit-floral_jumpsuit/baggy_jumpsuit/563c45745e1775a74e3a5b2513079b9d.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/baggy_jumpsuit-floral_jumpsuit/floral_jumpsuit/7307f9bf5fa04f47361d0dd86d8c73d9.jpg",
+    "answer": "Right",
+    "question": "Which jumpsuit is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/baggy_jumpsuit-floral_jumpsuit/baggy_jumpsuit/563c45745e1775a74e3a5b2513079b9d.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/baggy_jumpsuit-floral_jumpsuit/floral_jumpsuit/614e7297f89c14e73b691d7f76ed77f4.jpg",
+    "answer": "Left",
+    "question": "Which jumpsuit is more baggy?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/distressed_pants-plain (pattern)_pants/distressed_pants/320930dcc25cc8552bba966eff2d06c4.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/distressed_pants-plain (pattern)_pants/plain (pattern)_pants/54cc806a05ebd88048485d929f91fe7c.jpg",
+    "answer": "Left",
+    "question": "Which pants are more distressed"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/distressed_pants-plain (pattern)_pants/distressed_pants/e8a9349ee53c9e5bfd21102e8b6b52f9.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/distressed_pants-plain (pattern)_pants/plain (pattern)_pants/200801ffb2c44d46b94454f1b6a278a6.jpg",
+    "answer": "Left",
+    "question": "Which pants are more distressed"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/distressed_pants-plain (pattern)_pants/distressed_pants/cbe421f0f567af8dc6dee22ae239e846.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/distressed_pants-plain (pattern)_pants/plain (pattern)_pants/6b6582dc900f463d0fc31a95c3fbeb49.jpg",
+    "answer": "Right",
+    "question": "Which pants are more distressed"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/distressed_pants-plain (pattern)_pants/distressed_pants/70e000fc740fd51671f257453e5d4ef1.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/distressed_pants-plain (pattern)_pants/plain (pattern)_pants/8248793dfb50ff3c8209cd0e44ddf9bf.jpg",
+    "answer": "Left",
+    "question": "Which pants are more distressed"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/distressed_pants-plain (pattern)_pants/distressed_pants/3a251a0d83018173d9eb85dd2f7c64f1.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/distressed_pants-plain (pattern)_pants/plain (pattern)_pants/3f18271f3f7d101e2f9a27b0b12b034b.jpg",
+    "answer": "Left",
+    "question": "Which pants are more distressed"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/distressed_pants-plain (pattern)_pants/distressed_pants/b57c1abdc520418a85d2c94514304670.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/distressed_pants-plain (pattern)_pants/plain (pattern)_pants/317eb8142316b0f17e44fbbb5a8f3667.jpg",
+    "answer": "Left",
+    "question": "Which pants are more distressed"
+  },
+  {},
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/geometric_sweatshirt-paisley_sweatshirt/geometric_sweatshirt/ec83daef3597c9591605493556a4fc73.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/geometric_sweatshirt-paisley_sweatshirt/paisley_sweatshirt/30f78c0b40e3a0cdcd7274a7af53f2ce.jpg",
+    "answer": "Right",
+    "question": "Which sweatshirt is more paisley?"
+  },
+  {},
+  {},
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/distressed_pants-geometric_pants/distressed_pants/5fc499c60fc95671180347cf63b6f31a.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/distressed_pants-geometric_pants/geometric_pants/537ecc29cbe6e09d8eb0038a0dc7edbe.jpg",
+    "answer": "Right",
+    "question": "Which pants are more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/distressed_pants-geometric_pants/distressed_pants/320930dcc25cc8552bba966eff2d06c4.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/distressed_pants-geometric_pants/geometric_pants/ce07236c7bdb9f4d04df57c3a7967959.jpg",
+    "answer": "Right",
+    "question": "Which pants are more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/distressed_pants-geometric_pants/distressed_pants/8d1d4b14e598bafb3d718fa8c096e95e.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/distressed_pants-geometric_pants/geometric_pants/ce07236c7bdb9f4d04df57c3a7967959.jpg",
+    "answer": "Left",
+    "question": "Which pants are more distressed"
+  },
+  {},
+  {},
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetrical_coat-symmetrical_coat/asymmetrical_coat/d7da3cf290a8f293ed39dff8ed1ef376.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetrical_coat-symmetrical_coat/symmetrical_coat/e5b237935c0a652dc6585eea57e61dc8.jpg",
+    "answer": "Right",
+    "question": "Which coat is more symmetrical?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-square (neckline)_neckline/round (neck)_neckline/dc930ab2bd268b01b3ffd6c44e897e8f.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-square (neckline)_neckline/square (neckline)_neckline/0205895cfbb5348d94fda8ce32272fa5.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more square?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-square (neckline)_neckline/round (neck)_neckline/17e3e8454e1addcf98b2449ccb96d3a9.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-square (neckline)_neckline/square (neckline)_neckline/e778753e5302e8047fdddb88aeed0c37.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more square?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-square (neckline)_neckline/round (neck)_neckline/466e69961de78100fddae84c64fbf542.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-square (neckline)_neckline/square (neckline)_neckline/ff6884bdb45a9aca6df20885e950eb1f.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more square?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-square (neckline)_neckline/round (neck)_neckline/e772cd6c7cfa25d259f5979012dcf71d.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-square (neckline)_neckline/square (neckline)_neckline/31376f97ef5d1d083e6f1092d5d33b7b.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more square?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-square (neckline)_neckline/round (neck)_neckline/d56bf67bd74cb0f2128007818675a465.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-square (neckline)_neckline/square (neckline)_neckline/31376f97ef5d1d083e6f1092d5d33b7b.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more square?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-square (neckline)_neckline/round (neck)_neckline/ac453fbad1af6923ae38db5e33512e2b.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-square (neckline)_neckline/square (neckline)_neckline/9ad7fa911ef3602db892724c8cd679ee.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more square?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-square (neckline)_neckline/round (neck)_neckline/6469f5b56cb9ab713851fcd9116923c1.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-square (neckline)_neckline/square (neckline)_neckline/fd567ffad275955ac945eeeacc1fdac5.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more square?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-square (neckline)_neckline/round (neck)_neckline/c1cd92903be0c82b188fb8d191770887.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-square (neckline)_neckline/square (neckline)_neckline/ae8c7fa59cb054a8e15b2d6518c95ee3.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more square?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-square (neckline)_neckline/round (neck)_neckline/dae66883f57f31d10cc286784a042c35.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-square (neckline)_neckline/square (neckline)_neckline/f5473bcc572a3e98faefd27b1a4ab688.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more square?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/round (neck)_neckline-square (neckline)_neckline/round (neck)_neckline/fa3e88c6a313433dd7884ce0abb5d27e.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/round (neck)_neckline-square (neckline)_neckline/square (neckline)_neckline/d3cf66e85e45aede8542d3c0d419b6ac.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more square?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetrical_jacket-symmetrical_jacket/asymmetrical_jacket/eba510e63e2da4c37277cec25cbd9772.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetrical_jacket-symmetrical_jacket/symmetrical_jacket/cdd60a254cc0a2ad373d5b2cd32b0247.jpg",
+    "answer": "Left",
+    "question": "Which jacket is more asymmetrical?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetrical_jacket-symmetrical_jacket/asymmetrical_jacket/90e29b1a604c8046f96b0a52e2cc7399.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetrical_jacket-symmetrical_jacket/symmetrical_jacket/124dc5471306edcadc0d89bfc7353939.jpg",
+    "answer": "Left",
+    "question": "Which jacket is more asymmetrical?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetrical_jacket-symmetrical_jacket/asymmetrical_jacket/efbbe5ebcc3c3ab9c8cea01fbeefded5.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetrical_jacket-symmetrical_jacket/symmetrical_jacket/ceba33cb9d3468560844583f709d5961.jpg",
+    "answer": "Left",
+    "question": "Which jacket is more asymmetrical?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetrical_jacket-symmetrical_jacket/asymmetrical_jacket/b9d34d7ecfc267888ad6eb0f20af3792.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetrical_jacket-symmetrical_jacket/symmetrical_jacket/ff6884bdb45a9aca6df20885e950eb1f.jpg",
+    "answer": "Left",
+    "question": "Which jacket is more asymmetrical?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetrical_jacket-symmetrical_jacket/asymmetrical_jacket/f94473431eecc5ca5f6434ee413fc2d0.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetrical_jacket-symmetrical_jacket/symmetrical_jacket/daa5986d4a683b547328db6dce8d7817.jpg",
+    "answer": "Left",
+    "question": "Which jacket is more asymmetrical?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/tiered_dress-geometric_dress/tiered_dress/25e92d53394ac92b6b9edbbfe7cb0e1e.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/tiered_dress-geometric_dress/geometric_dress/a38445479f8dcc4074a291d8eb99e97a.jpg",
+    "answer": "Left",
+    "question": "Which dress is more tiered?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/tiered_dress-geometric_dress/tiered_dress/c091531b2b5cb6a6c8ad2ce197d530f4.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/tiered_dress-geometric_dress/geometric_dress/21c52aa89dbf9b2be2089c20cf1d987d.jpg",
+    "answer": "Left",
+    "question": "Which dress is more tiered?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/tiered_dress-geometric_dress/tiered_dress/dd5a9faddbee8afb6adc6c741da8c914.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/tiered_dress-geometric_dress/geometric_dress/4c528816dbb9d5ba947d10b145fcb5f1.jpg",
+    "answer": "Left",
+    "question": "Which dress is more tiered?"
+  },
+  {},
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/tiered_dress-geometric_dress/tiered_dress/1744183e925250327f807fdb15907f6a.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/tiered_dress-geometric_dress/geometric_dress/f5473bcc572a3e98faefd27b1a4ab688.jpg",
+    "answer": "Left",
+    "question": "Which dress is more tiered?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/tiered_dress-geometric_dress/tiered_dress/e73b13b557ab167a05cb10ed45decf52.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/tiered_dress-geometric_dress/geometric_dress/a9004798c12909fa5899900577bb45a2.jpg",
+    "answer": "Left",
+    "question": "Which dress is more tiered?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/tiered_dress-geometric_dress/tiered_dress/e52ca16be4561e44d5f1322468cee6ec.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/tiered_dress-geometric_dress/geometric_dress/bdf1b7cd23faf554bec077e59312de2e.jpg",
+    "answer": "Left",
+    "question": "Which dress is more tiered?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_dress-geometric_dress/plain (pattern)_dress/356a5d0bd91c5f2ea94140f4e4ab24fc.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_dress-geometric_dress/geometric_dress/bdf1b7cd23faf554bec077e59312de2e.jpg",
+    "answer": "Left",
+    "question": "Which dress's  pattern is more plain?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_dress-geometric_dress/plain (pattern)_dress/3023783645f6b5b3ddd20648231f85aa.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_dress-geometric_dress/geometric_dress/750ff1f0bb17bd102b4e68e96684a2ee.jpg",
+    "answer": "Left",
+    "question": "Which dress's  pattern is more plain?"
+  },
+  {},
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_dress-geometric_dress/plain (pattern)_dress/c7a789f6eaa33502f0d3d17a69c07732.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_dress-geometric_dress/geometric_dress/1646a045268fa9848e2dad851f740452.jpg",
+    "answer": "Left",
+    "question": "Which dress's  pattern is more plain?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_dress-geometric_dress/plain (pattern)_dress/1f4c2d7ddfaa4d7c5a88df6d04ec0512.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_dress-geometric_dress/geometric_dress/706d1795327d056a2b9aac1428027966.jpg",
+    "answer": "Left",
+    "question": "Which dress's  pattern is more plain?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_dress-geometric_dress/plain (pattern)_dress/2a191fe07d0c2f63c5192d7effcec0c1.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_dress-geometric_dress/geometric_dress/4c528816dbb9d5ba947d10b145fcb5f1.jpg",
+    "answer": "Left",
+    "question": "Which dress's  pattern is more plain?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_dress-geometric_dress/plain (pattern)_dress/dcee0c0b136a4e8a004fef599a4c96f3.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_dress-geometric_dress/geometric_dress/21c52aa89dbf9b2be2089c20cf1d987d.jpg",
+    "answer": "Left",
+    "question": "Which dress's  pattern is more plain?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_dress-geometric_dress/plain (pattern)_dress/8a3628a193ab4f72edae6d793a61e649.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_dress-geometric_dress/geometric_dress/0349e23c22d9ab9a482ac3d38ec315d5.jpg",
+    "answer": "Left",
+    "question": "Which dress's  pattern is more plain?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_dress-geometric_dress/plain (pattern)_dress/68d6747a3e74f059dddb6d75f624f21c.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_dress-geometric_dress/geometric_dress/a9004798c12909fa5899900577bb45a2.jpg",
+    "answer": "Left",
+    "question": "Which dress's  pattern is more plain?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_dress-geometric_dress/plain (pattern)_dress/387a049fc5d151a2c6c2444a44211d5c.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_dress-geometric_dress/geometric_dress/ee79928543ad42dafc984a30277d264e.jpg",
+    "answer": "Right",
+    "question": "Which dress is more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_dress-geometric_dress/plain (pattern)_dress/947b6ea8d5e30914a55992708fbf5b99.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_dress-geometric_dress/geometric_dress/3ad8d42ba64449a7617160489b43cffb.jpg",
+    "answer": "Right",
+    "question": "Which dress is more geometric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-square (neckline)_neckline/asymmetric (neckline)_neckline/e0ea97f3ac46d041519535fa3665080e.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-square (neckline)_neckline/square (neckline)_neckline/0205895cfbb5348d94fda8ce32272fa5.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more asymmetric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-square (neckline)_neckline/asymmetric (neckline)_neckline/c4e7ac9027ce6e052eb110b1281a8638.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-square (neckline)_neckline/square (neckline)_neckline/e778753e5302e8047fdddb88aeed0c37.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more asymmetric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-square (neckline)_neckline/asymmetric (neckline)_neckline/ebe5e781a398df8c599047d5bf319c2e.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-square (neckline)_neckline/square (neckline)_neckline/ff6884bdb45a9aca6df20885e950eb1f.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more asymmetric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-square (neckline)_neckline/asymmetric (neckline)_neckline/dbf96873bc9183c44f618edc3771dfb4.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-square (neckline)_neckline/square (neckline)_neckline/31376f97ef5d1d083e6f1092d5d33b7b.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more asymmetric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-square (neckline)_neckline/asymmetric (neckline)_neckline/d23d0383fa7e5e512eba48cdf9b8f5cb.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-square (neckline)_neckline/square (neckline)_neckline/9ad7fa911ef3602db892724c8cd679ee.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more asymmetric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-square (neckline)_neckline/asymmetric (neckline)_neckline/1744183e925250327f807fdb15907f6a.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-square (neckline)_neckline/square (neckline)_neckline/ae8c7fa59cb054a8e15b2d6518c95ee3.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more square?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-square (neckline)_neckline/asymmetric (neckline)_neckline/6eba429572feb4a28320f7f8d2710fe4.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-square (neckline)_neckline/square (neckline)_neckline/6c91cc6e1c07e9336e3c00d1569ac1c5.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more square?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-square (neckline)_neckline/asymmetric (neckline)_neckline/2ab8deb3a77d67416d2a5eeebd6a4d72.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-square (neckline)_neckline/square (neckline)_neckline/6df68986984a942712bff893699d9167.jpg",
+    "answer": "Right",
+    "question": "Which neckline is more square?"
+  },
+  {},
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-square (neckline)_neckline/asymmetric (neckline)_neckline/3ad8d42ba64449a7617160489b43cffb.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetric (neckline)_neckline-square (neckline)_neckline/square (neckline)_neckline/a0aedf945aef6f2eb6578dd749e92545.jpg",
+    "answer": "Left",
+    "question": "Which neckline is more asymmetric?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/curved (fit)_pants-regular (fit)_pants/curved (fit)_pants/559e02db49c2e81f6a6116b717beee9d.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/curved (fit)_pants-regular (fit)_pants/regular (fit)_pants/ac4aa8f399c1cf0440c03a13bb571660.jpg",
+    "answer": "Left",
+    "question": "Which pants'  fit is more curved?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/curved (fit)_pants-regular (fit)_pants/curved (fit)_pants/611939b9f3ac6aba96c64026edc11575.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/curved (fit)_pants-regular (fit)_pants/regular (fit)_pants/6499b518ea551522410fc199dc73a159.jpg",
+    "answer": "Left",
+    "question": "Which pants'  fit is more curved?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/curved (fit)_pants-regular (fit)_pants/curved (fit)_pants/4454d33644695b5b14cffba84ceb8066.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/curved (fit)_pants-regular (fit)_pants/regular (fit)_pants/1b8c03a610d653da2492f3c8235e36a5.jpg",
+    "answer": "Left",
+    "question": "Which pants'  fit is more curved?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/curved (fit)_pants-regular (fit)_pants/curved (fit)_pants/c7a1f147b628ca3258b1db974424454b.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/curved (fit)_pants-regular (fit)_pants/regular (fit)_pants/d67ad10df9224b51361c9dfb18f5a9ef.jpg",
+    "answer": "Left",
+    "question": "Which pants'  fit is more curved?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/curved (fit)_pants-regular (fit)_pants/curved (fit)_pants/05df29d770955d6fe8d7873982aba082.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/curved (fit)_pants-regular (fit)_pants/regular (fit)_pants/d596ec2c155fd18bb532077bf035701f.jpg",
+    "answer": "Left",
+    "question": "Which pants'  fit is more curved?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/curved (fit)_pants-regular (fit)_pants/curved (fit)_pants/84cb2045d51adaff87124e9dfb703c46.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/curved (fit)_pants-regular (fit)_pants/regular (fit)_pants/116c0fd0c6d963e7b68e7af47c4e8cc7.jpg",
+    "answer": "Left",
+    "question": "Which pants'  fit is more curved?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/curved (fit)_pants-regular (fit)_pants/curved (fit)_pants/317eb8142316b0f17e44fbbb5a8f3667.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/curved (fit)_pants-regular (fit)_pants/regular (fit)_pants/02916664cd606bb5486353f200a475a3.jpg",
+    "answer": "Left",
+    "question": "Which pants'  fit is more curved?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/curved (fit)_pants-regular (fit)_pants/curved (fit)_pants/064c8022b32931e787260d81ed5aafe8.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/curved (fit)_pants-regular (fit)_pants/regular (fit)_pants/0d32e0c44b492a04a01db6eaf11c7fc7.jpg",
+    "answer": "Left",
+    "question": "Which pants'  fit is more curved?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/curved (fit)_pants-regular (fit)_pants/curved (fit)_pants/ba49f22a7e2927ec0df677e4d199c93d.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/curved (fit)_pants-regular (fit)_pants/regular (fit)_pants/ce07236c7bdb9f4d04df57c3a7967959.jpg",
+    "answer": "Left",
+    "question": "Which pants'  fit is more curved?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/curved (fit)_pants-regular (fit)_pants/curved (fit)_pants/6216b46eeada317d0fbac617c2f09a2f.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/curved (fit)_pants-regular (fit)_pants/regular (fit)_pants/e7bd5aa16c1acc64616bf60ea3aa0c36.jpg",
+    "answer": "Left",
+    "question": "Which pants'  fit is more curved?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/distressed_pants-floral_pants/distressed_pants/e8a9349ee53c9e5bfd21102e8b6b52f9.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/distressed_pants-floral_pants/floral_pants/4872c05863d20208e9d4c59587261de2.jpg",
+    "answer": "Right",
+    "question": "Which pants are more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/distressed_pants-floral_pants/distressed_pants/0617757485dad98ded988c6e101c8bf2.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/distressed_pants-floral_pants/floral_pants/6a0d484572ffd11cc5ea627df2c82b94.jpg",
+    "answer": "Right",
+    "question": "Which pants are more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/distressed_pants-floral_pants/distressed_pants/a89e8cd2564a7e5050c8aa5c5c24c18d.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/distressed_pants-floral_pants/floral_pants/fc9a327bebcf15c590090192a6ff09bf.jpg",
+    "answer": "Right",
+    "question": "Which pants are more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/paisley_dress-argyle_dress/paisley_dress/2f103ab523c1808e842eead692ec5c40.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/paisley_dress-argyle_dress/argyle_dress/3ad8d42ba64449a7617160489b43cffb.jpg",
+    "answer": "Right",
+    "question": "Which dress is more argyle?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/paisley_dress-argyle_dress/paisley_dress/38f9af46bc5456b86585c68acbb089d3.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/paisley_dress-argyle_dress/argyle_dress/3ad8d42ba64449a7617160489b43cffb.jpg",
+    "answer": "Right",
+    "question": "Which dress is more argyle?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/paisley_dress-argyle_dress/paisley_dress/e2a1a7274d3839b1538e97d69107eb7c.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/paisley_dress-argyle_dress/argyle_dress/3ad8d42ba64449a7617160489b43cffb.jpg",
+    "answer": "Right",
+    "question": "Which dress is more argyle?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/distressed_blouse-floral_blouse/distressed_blouse/7450a0ad431b3446ab57608050095649.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/distressed_blouse-floral_blouse/floral_blouse/265a6f3aee35666b2f62752c49f6dd63.jpg",
+    "answer": "Right",
+    "question": "Which blouse is more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/distressed_blouse-floral_blouse/distressed_blouse/b360c19580caf49e561173fab54bfdb2.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/distressed_blouse-floral_blouse/floral_blouse/123318217b814f567b34b30bc843680f.jpg",
+    "answer": "Right",
+    "question": "Which blouse is more floral?"
+  },
+  {},
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/regular (fit)_coat-loose (fit)_coat/regular (fit)_coat/b2006174759a811aca6bd63e861dc741.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/regular (fit)_coat-loose (fit)_coat/loose (fit)_coat/9171c0d10e43e4b5987a705e552568d7.jpg",
+    "answer": "Right",
+    "question": "Which coat's  fit is looser ?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_pants-floral_pants/plain (pattern)_pants/1fd63362ced55967a97a324928583339.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_pants-floral_pants/floral_pants/6a0d484572ffd11cc5ea627df2c82b94.jpg",
+    "answer": "Left",
+    "question": "Which pants'  pattern is more plain?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_pants-floral_pants/plain (pattern)_pants/3745efe8958e34ca0e5dbab9362a68da.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_pants-floral_pants/floral_pants/4872c05863d20208e9d4c59587261de2.jpg",
+    "answer": "Right",
+    "question": "Which pants are more floral?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_pants-floral_pants/plain (pattern)_pants/064c8022b32931e787260d81ed5aafe8.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_pants-floral_pants/floral_pants/fc9a327bebcf15c590090192a6ff09bf.jpg",
+    "answer": "Left",
+    "question": "Which pants'  pattern is more plain?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/plain (pattern)_pants-floral_pants/plain (pattern)_pants/1b8c03a610d653da2492f3c8235e36a5.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/plain (pattern)_pants-floral_pants/floral_pants/ce07236c7bdb9f4d04df57c3a7967959.jpg",
+    "answer": "Right",
+    "question": "Which pants are more floral?"
+  },
+  {},
+  {},
+  {},
+  {},
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/distressed_jumpsuit-geometric_jumpsuit/distressed_jumpsuit/79a404d13384b4e687f5927f1d28e2e3.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/distressed_jumpsuit-geometric_jumpsuit/geometric_jumpsuit/0309e132bc5fbc75f977005b2d4a79e3.jpg",
+    "answer": "Right",
+    "question": "Which jumpsuit is more geometric?"
+  },
+  {},
+  {},
+  {},
+  {},
+  {},
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/tiered_dress-paisley_dress/tiered_dress/25e92d53394ac92b6b9edbbfe7cb0e1e.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/tiered_dress-paisley_dress/paisley_dress/2f103ab523c1808e842eead692ec5c40.jpg",
+    "answer": "Left",
+    "question": "Which dress is more tiered?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/tiered_dress-paisley_dress/tiered_dress/c091531b2b5cb6a6c8ad2ce197d530f4.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/tiered_dress-paisley_dress/paisley_dress/ffebe7df5bfb5974878870b8cb3ebed4.jpg",
+    "answer": "Left",
+    "question": "Which dress is more tiered?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/tiered_dress-paisley_dress/paisley_dress/dd5a9faddbee8afb6adc6c741da8c914.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/tiered_dress-paisley_dress/paisley_dress/97798485ca538a03284d8dbaceab92c4.jpg",
+    "answer": "Left",
+    "question": "Which dress is more tiered?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/tiered_dress-paisley_dress/tiered_dress/e73b13b557ab167a05cb10ed45decf52.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/tiered_dress-paisley_dress/paisley_dress/8dfb0daa689c59460fc5a65f27a66ff1.jpg",
+    "answer": "Left",
+    "question": "Which dress is more tiered?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/tiered_dress-paisley_dress/tiered_dress/1744183e925250327f807fdb15907f6a.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/tiered_dress-paisley_dress/paisley_dress/7e726464437432e79c18a5dba42562f8.jpg",
+    "answer": "Left",
+    "question": "Which dress is more tiered?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/tiered_dress-paisley_dress/tiered_dress/e52ca16be4561e44d5f1322468cee6ec.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/tiered_dress-paisley_dress/paisley_dress/e2a1a7274d3839b1538e97d69107eb7c.jpg",
+    "answer": "Left",
+    "question": "Which dress is more tiered?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/regular (fit)_jumpsuit-loose (fit)_jumpsuit/regular (fit)_jumpsuit/8937a7dafd3f090901d5bda9aee1ccca.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/regular (fit)_jumpsuit-loose (fit)_jumpsuit/loose (fit)_jumpsuit/563c45745e1775a74e3a5b2513079b9d.jpg",
+    "answer": "Right",
+    "question": "Which jumpsuit's  fit is looser ?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetrical_skirt-symmetrical_skirt/asymmetrical_skirt/95bca399ad3d4296c61863dadc45c82e.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetrical_skirt-symmetrical_skirt/symmetrical_skirt/240bd00f12d515296843b780abb6ffc7.jpg",
+    "answer": "Left",
+    "question": "Which skirt is more asymmetrical?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetrical_skirt-symmetrical_skirt/asymmetrical_skirt/84fae07c92d39a7347fadf145330f4bc.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetrical_skirt-symmetrical_skirt/symmetrical_skirt/5d5d3fb33612b0794f06003d8abe2a3e.jpg",
+    "answer": "Left",
+    "question": "Which skirt is more asymmetrical?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetrical_skirt-symmetrical_skirt/asymmetrical_skirt/f7f6ae15cf7b430b2bfb95eff751232b.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetrical_skirt-symmetrical_skirt/symmetrical_skirt/0ff1ad48b959df32af38f42cef26d361.jpg",
+    "answer": "Left",
+    "question": "Which skirt is more asymmetrical?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/asymmetrical_skirt-symmetrical_skirt/asymmetrical_skirt/cb49b883e995b9102d831e4640c0d195.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/asymmetrical_skirt-symmetrical_skirt/symmetrical_skirt/d820769755b90d8b834942d3f87a0439.jpg",
+    "answer": "Left",
+    "question": "Which skirt is more asymmetrical?"
+  },
+  {},
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/tiered_dress-plain (pattern)_dress/tiered_dress/25e92d53394ac92b6b9edbbfe7cb0e1e.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/tiered_dress-plain (pattern)_dress/plain (pattern)_dress/f8862ca9c428cccb7ad26b9f0ab16603.jpg",
+    "answer": "Left",
+    "question": "Which dress is more tiered?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/tiered_dress-plain (pattern)_dress/tiered_dress/c091531b2b5cb6a6c8ad2ce197d530f4.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/tiered_dress-plain (pattern)_dress/plain (pattern)_dress/ab52c9490015a4b79249fe7076319b54.jpg",
+    "answer": "Left",
+    "question": "Which dress is more tiered?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/tiered_dress-plain (pattern)_dress/tiered_dress/dd5a9faddbee8afb6adc6c741da8c914.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/tiered_dress-plain (pattern)_dress/plain (pattern)_dress/88383c53ef2404f1596e41e45ebe5ddd.jpg",
+    "answer": "Left",
+    "question": "Which dress is more tiered?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/tiered_dress-plain (pattern)_dress/tiered_dress/1744183e925250327f807fdb15907f6a.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/tiered_dress-plain (pattern)_dress/plain (pattern)_dress/3641da2171647a07f88dae8d53c9a6a3.jpg",
+    "answer": "Left",
+    "question": "Which dress is more tiered?"
+  },
+  {
+    "image_1": "adj_obj_folder_pairs_images/val/tiered_dress-plain (pattern)_dress/tiered_dress/e52ca16be4561e44d5f1322468cee6ec.jpg",
+    "image_2": "adj_obj_folder_pairs_images/val/tiered_dress-plain (pattern)_dress/plain (pattern)_dress/f94d9c70da577d48906186b22cf7133d.jpg",
+    "answer": "Left",
+    "question": "Which dress is more tiered?"
+  }
+]

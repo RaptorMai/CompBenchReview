@@ -1,0 +1,1039 @@
+[
+  {
+    "image_1": "spot-the-diff/pair_images/test/153/153.png",
+    "image_2": "spot-the-diff/pair_images/test/153/153_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/153/153_diff.jpg",
+    "difference": ["i do not see any differences between the two images"],
+    "image_1_object_list": "White cars, black cars, walking people, wet pavement, white lines.",
+    "image_2_object_list": "wet pavement, white cars, black car, gray car, white truck, green trees, walking people.",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " black cars, white cars, wet pavement, walking people, green trees, white lines, gray car, white truck,wet pavement",
+    "Answer": "None"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/9687/9687.png",
+    "image_2": "spot-the-diff/pair_images/test/9687/9687_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/9687/9687_diff.jpg",
+    "difference": ["the people are no longer there"],
+    "image_1_object_list": "Yellow lines, leafless trees, walking people, empty parking spaces.",
+    "image_2_object_list": "yellow poles, red bricks, bare trees, walking people, parked bicycles",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": "Yellow lines, walking people, empty parking spaces, leafless trees, red bricks, bare trees,yellow poles, parked bicycles",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/12949/12949.png",
+    "image_2": "spot-the-diff/pair_images/test/12949/12949_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/12949/12949_diff.jpg",
+    "difference": [
+      "there is a person talking to another person behind the yellow stop poles"
+    ],
+    "image_1_object_list": "Red-bricked building, yellow stop poles, leafless trees, walking person, another walking person, gray sidewalk, empty parking spaces.",
+    "image_2_object_list": "yellow stop poles, walking person, seated person, leafless trees, gray building, shadowed pavement",
+    "gpt_extract_objects_gt": "person, another person, yellow stop poles",
+    "Modified_option": " gray sidewalk,Red-bricked building, standing person, yellow stop poles, empty parking spaces, gray building, shadowed pavement, walking person, leafless trees",
+    "Answer": "standing person"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/8290/8290.png",
+    "image_2": "spot-the-diff/pair_images/test/8290/8290_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/8290/8290_diff.jpg",
+    "difference": [
+      "grey moving car is no longer in the back",
+      "people are standing next to the white car on the right side",
+      "white car on left side is no longer there",
+      "another white car is no longer parked on left side",
+      "red car appears in upper center"
+    ],
+    "image_1_object_list": "Grey moving car, white car, red car, people, green trees, white trailer, white truck, yellow poles.",
+    "image_2_object_list": "grey moving car, red car, white truck, white car, green trees, grey dumpster, beige building",
+    "gpt_extract_objects_gt": "grey moving car, people, white car, red car",
+    "Modified_option": " white car, green trees, red car, grey dumpster, white truck, grey moving car, beige building, yellow poles., walking people, white trailer",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/12478/12478.png",
+    "image_2": "spot-the-diff/pair_images/test/12478/12478_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/12478/12478_diff.jpg",
+    "difference": ["the two people are no longer there near the dividers"],
+    "image_1_object_list": "yellow poles, grey pavements, red bricks, leafless trees, walking people, white lines.",
+    "image_2_object_list": "Yellow poles, gray dividers, walking people, leafless trees, red bricks.",
+    "gpt_extract_objects_gt": "people, dividers",
+    "Modified_option": " red bricks, walking people, grey pavements, white lines, gray dividers,yellow poles, leafless trees",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/34/34.png",
+    "image_2": "spot-the-diff/pair_images/test/34/34_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/34/34_diff.jpg",
+    "difference": ["i do not see any noticeable differences in the two images"],
+    "image_1_object_list": "wet pavement, white car, grey car, black car, walking people, green trees.",
+    "image_2_object_list": "white car, black truck, walking people, wet asphalt, gray building",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " white car, walking people, wet asphalt, black truck, black car, gray building, grey car, green trees,wet pavement",
+    "Answer": "None"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/2595/2595.png",
+    "image_2": "spot-the-diff/pair_images/test/2595/2595_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/2595/2595_diff.jpg",
+    "difference": ["a person is missing near the silver car"],
+    "image_1_object_list": "Wet pavement, black cars, walking person, green trees.",
+    "image_2_object_list": "white car, black car, gray car, wet ground, yellow pole, walking person.",
+    "gpt_extract_objects_gt": "person, car",
+    "Modified_option": " black cars,white car, walking person, yellow pole, wet ground, gray car, green trees.,Wet pavement",
+    "Answer": "walking person"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/9928/9928.png",
+    "image_2": "spot-the-diff/pair_images/test/9928/9928_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/9928/9928_diff.jpg",
+    "difference": [
+      "a silver car is seen in the before image with a person presumably male standing near the trunk area",
+      "he is no longer seen in the after image"
+    ],
+    "image_1_object_list": "Silver car, white trucks, yellow poles, walking person, scattered trees.",
+    "image_2_object_list": "silver car, walking person, gray dumpster, white truck, black car, green tree, red car, beige building, white pole",
+    "gpt_extract_objects_gt": "silver car, person",
+    "Modified_option": " yellow poles, white trucks, red car, scattered trees., black car, white pole, green tree, beige building,silver car, walking person, gray dumpster",
+    "Answer": "silver car"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/12402/12402.png",
+    "image_2": "spot-the-diff/pair_images/test/12402/12402_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/12402/12402_diff.jpg",
+    "difference": [
+      "four people are missing near the yellow poles",
+      "two people have switched positions stature"
+    ],
+    "image_1_object_list": "walking people, bare trees, paved pathway, brick building, yellow curb.",
+    "image_2_object_list": "Yellow poles, brown trees, walking people, gray pavement.",
+    "gpt_extract_objects_gt": "people, people",
+    "Modified_option": "Yellow poles, yellow curb., walking people, brick building, bare trees, gray pavement., brown trees, paved pathway",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/9139/9139.png",
+    "image_2": "spot-the-diff/pair_images/test/9139/9139_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/9139/9139_diff.jpg",
+    "difference": [
+      "a car is leaving the parking lot near the top of the picture to the left of the white box truck"
+    ],
+    "image_1_object_list": "blue car, white box truck, green trees, gray pavement",
+    "image_2_object_list": "blue car, white box truck, gray dumpster, green trees, red car, black car.",
+    "gpt_extract_objects_gt": "car, white box truck",
+    "Modified_option": "blue car, gray pavement, green trees, red car, white box truck, black car, gray dumpster, moving car",
+    "Answer": "moving car"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/12262/12262.png",
+    "image_2": "spot-the-diff/pair_images/test/12262/12262_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/12262/12262_diff.jpg",
+    "difference": ["the black car near the bushy green tree is gone"],
+    "image_1_object_list": "white cars, blue cars, red cars, black cars, gray cars, white trucks, silver trucks, silver containers, green trees, brown fences.",
+    "image_2_object_list": "Black cars, white trucks, green trees, gray dumpsters, gray sidewalks.",
+    "gpt_extract_objects_gt": "car",
+    "Modified_option": " black cars, gray dumpsters, red cars, green trees, white trucks, silver containers, blue cars, brown fences., silver trucks,white cars, gray cars, gray sidewalks.",
+    "Answer": "black car"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/8988/8988.png",
+    "image_2": "spot-the-diff/pair_images/test/8988/8988_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/8988/8988_diff.jpg",
+    "difference": ["there is no car driving on the road"],
+    "image_1_object_list": "black car, white truck, green trees, blue car, gray car, beige building, gray container.",
+    "image_2_object_list": "White trucks, black cars, gray dumpsters, green trees, beige buildings.",
+    "gpt_extract_objects_gt": "car",
+    "Modified_option": " black cars,White trucks, gray dumpsters, green trees, blue car, gray car, white truck, gray container, beige building",
+    "Answer": "black cars"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/9951/9951.png",
+    "image_2": "spot-the-diff/pair_images/test/9951/9951_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/9951/9951_diff.jpg",
+    "difference": ["there are four more people in the picture"],
+    "image_1_object_list": "red bricks, yellow poles, walking people, gray pavement, leafless trees, clear sky.",
+    "image_2_object_list": "People, bare trees, yellow curb, gray pavement, brick building.",
+    "gpt_extract_objects_gt": "people",
+    "Modified_option": " gray pavement, walking people, yellow poles, yellow curb, brick building.,red bricks, bare trees, clear sky, leafless trees",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/10789/10789.png",
+    "image_2": "spot-the-diff/pair_images/test/10789/10789_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/10789/10789_diff.jpg",
+    "difference": [
+      "a car at the left corner of the parking lot is gone",
+      "another vehicle parked near the building is gone",
+      "one of the vehicles can be seen leaving the parking lot"
+    ],
+    "image_1_object_list": "black cars, white trucks, green trees, gray dumpster, blue car",
+    "image_2_object_list": "blue car, white truck, white container, asphalt lot, green trees.",
+    "gpt_extract_objects_gt": "car, another vehicle, one of the vehicles",
+    "Modified_option": "blue car, green trees, asphalt lot, black cars, white container, green trees, white trucks, gray dumpster, red car",
+    "Answer": "red car"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/8763/8763.png",
+    "image_2": "spot-the-diff/pair_images/test/8763/8763_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/8763/8763_diff.jpg",
+    "difference": ["white colur car is runnig"],
+    "image_1_object_list": "crowded parking lot, white car, red car, silver car, black truck, tan dumpster",
+    "image_2_object_list": "black cars, white trucks, yellow poles, grouped people",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " white car, yellow poles, red car,black cars, black truck, grouped people,crowded parking lot, tan dumpster, white trucks, silver car,green trees",
+    "Answer": "white car"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/8777/8777.png",
+    "image_2": "spot-the-diff/pair_images/test/8777/8777_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/8777/8777_diff.jpg",
+    "difference": [
+      "before people in front of the car after behind it",
+      "guy leaning forward in before and upright after"
+    ],
+    "image_1_object_list": "people, gray car, brown building, yellow poles, leafless trees",
+    "image_2_object_list": "Gray car, walking people, yellow poles, bare trees.",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " walking people, yellow poles, bare trees, gray car, brown building,Gray car, leafless trees, open car door",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/1937/1937.png",
+    "image_2": "spot-the-diff/pair_images/test/1937/1937_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/1937/1937_diff.jpg",
+    "difference": [
+      "the before picture shows a a car driving on the left part of the picture where the after picture does not",
+      "the after picture shows a person walking in the driving lane and the before picture does not"
+    ],
+    "image_1_object_list": "Black car, white car, silver car, red car, wet pavement.",
+    "image_2_object_list": "white cars, red car, lone person, wet ground",
+    "gpt_extract_objects_gt": "car, person",
+    "Modified_option": " white car, red car, wet pavement., wet ground, lone person,white cars,Black car, silver car, person in red",
+    "Answer": "person in red"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/9899/9899.png",
+    "image_2": "spot-the-diff/pair_images/test/9899/9899_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/9899/9899_diff.jpg",
+    "difference": [
+      "the two people talking by the yellow posts have disappeared",
+      "there is a group of 3 with their backs to camera now in frame"
+    ],
+    "image_1_object_list": "red bricks, yellow poles, bare trees, empty parking spaces, multiple people, clear sky.",
+    "image_2_object_list": "talking people, leafless trees, parked bicycles, empty parking spaces, red bricks (building), yellow poles, gray sidewalk, shadowed area.",
+    "gpt_extract_objects_gt": "people, group",
+    "Modified_option": " gray sidewalk, yellow poles, shadowed area., red bricks (building), leafless trees, walking people,talking people,red bricks, empty parking spaces, bare trees, clear sky., parked bicycles",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/11735/11735.png",
+    "image_2": "spot-the-diff/pair_images/test/11735/11735_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/11735/11735_diff.jpg",
+    "difference": [
+      "the people are no longer there",
+      "there are now two people on the front"
+    ],
+    "image_1_object_list": "grouped people, leafless trees, yellow curb, red brick building, gray pavement, shadowed areas.",
+    "image_2_object_list": "sunny day, brown trees, small people, red brick building, yellow poles, grey pavement",
+    "gpt_extract_objects_gt": "people",
+    "Modified_option": " gray pavement, yellow poles, standing people, leafless trees, red brick building, yellow curb, grey pavement, shadowed areas,sunny day, brown trees,grouped people",
+    "Answer": "standing people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/9163/9163.png",
+    "image_2": "spot-the-diff/pair_images/test/9163/9163_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/9163/9163_diff.jpg",
+    "difference": [
+      "the red car in the middle lane is gone on the left image",
+      "the black car at the start of the farthest lane is gone in the left image"
+    ],
+    "image_1_object_list": "red car, black car, white truck, green trees, gray dumpster, beige building",
+    "image_2_object_list": "Red car, black car, white trucks, beige buildings, green trees.",
+    "gpt_extract_objects_gt": "red car, black car",
+    "Modified_option": " green trees, beige buildings, black car, red car, beige building, white trucks, gray dumpster",
+    "Answer": "black car"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/10257/10257.png",
+    "image_2": "spot-the-diff/pair_images/test/10257/10257_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/10257/10257_diff.jpg",
+    "difference": ["there is a black car exiting the lot"],
+    "image_1_object_list": "Black car, white trucks, yellow poles, beige container, grey pavement, green trees.",
+    "image_2_object_list": "black car, white truck, green trees, gray dumpster, blue car, red car",
+    "gpt_extract_objects_gt": "black car",
+    "Modified_option": " green trees, yellow poles, red car, blue car, white truck, grey pavement, beige container, black car, white trucks, gray dumpster, silver car",
+    "Answer": "silver car"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/8066/8066.png",
+    "image_2": "spot-the-diff/pair_images/test/8066/8066_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/8066/8066_diff.jpg",
+    "difference": ["there are four more people in the image on the right"],
+    "image_1_object_list": "Red bricks, leafless trees, distant people, yellow poles, gray pavement, blue sky.",
+    "image_2_object_list": "walking people, leafless trees, paved road, shadowed building, yellow curb.",
+    "gpt_extract_objects_gt": "people",
+    "Modified_option": " gray pavement, yellow poles, blue sky, standing people, shadowed building,Red bricks,walking people, paved road, yellow curb., leafless trees",
+    "Answer": "standing people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/12338/12338.png",
+    "image_2": "spot-the-diff/pair_images/test/12338/12338_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/12338/12338_diff.jpg",
+    "difference": [
+      "in the image on the right there is a man entering the driver s side of the car",
+      "in the image on the left two man stand towards the right of the car"
+    ],
+    "image_1_object_list": "Silver car, standing man, yellow poles, brick building, leafless trees.",
+    "image_2_object_list": "silver car, yellow poles, leafless trees, brick building, man",
+    "gpt_extract_objects_gt": "man, car",
+    "Modified_option": "yellow poles, brick building, standing man, leafless trees.,silver car, leafless trees, open car door, closed car door",
+    "Answer": "standing man"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/9039/9039.png",
+    "image_2": "spot-the-diff/pair_images/test/9039/9039_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/9039/9039_diff.jpg",
+    "difference": ["left picture has more cars than the right does"],
+    "image_1_object_list": "Black cars, white trucks, green trees, beige dumpster, gray container.",
+    "image_2_object_list": "black cars, white trucks, green trees, gray dumpsters, blue cars.",
+    "gpt_extract_objects_gt": "cars",
+    "Modified_option": " gray dumpsters, beige dumpster, green trees,black cars, blue cars., gray container, white trucks, red car",
+    "Answer": "red car"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/9591/9591.png",
+    "image_2": "spot-the-diff/pair_images/test/9591/9591_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/9591/9591_diff.jpg",
+    "difference": ["silver car not driving in parking lot"],
+    "image_1_object_list": "Black cars, white trucks, standing people, green trees.",
+    "image_2_object_list": "white truck, black cars, multiple people, green trees",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " black cars,white truck, green trees, multiple people, green trees, white trucks, standing people, silver car",
+    "Answer": "silver car"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/8876/8876.png",
+    "image_2": "spot-the-diff/pair_images/test/8876/8876_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/8876/8876_diff.jpg",
+    "difference": ["car on the street"],
+    "image_1_object_list": "blue car, white truck, gray dumpster, green trees, walking people.",
+    "image_2_object_list": "blue car, white trucks, walking people, green trees, gray dumpster",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": "blue car, walking people, green trees, green trees, white trucks, gray dumpster, black car",
+    "Answer": "black car"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/10851/10851.png",
+    "image_2": "spot-the-diff/pair_images/test/10851/10851_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/10851/10851_diff.jpg",
+    "difference": ["the red car is not there anymore"],
+    "image_1_object_list": "blue car, white truck, gray dumpster, green trees",
+    "image_2_object_list": "white trucks, blue cars, green trees, grey container, yellow lines.",
+    "gpt_extract_objects_gt": "car",
+    "Modified_option": "blue car, green trees, grey container, blue cars, white truck, yellow lines, gray dumpster, red car",
+    "Answer": "red car"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/9906/9906.png",
+    "image_2": "spot-the-diff/pair_images/test/9906/9906_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/9906/9906_diff.jpg",
+    "difference": [
+      "pedestrians near car and on road in left image but not the right image",
+      "someone is in the driver seat in the car on right image but not left image"
+    ],
+    "image_1_object_list": "silver car, yellow poles, red building, grey pavement, green trees, walking pedestrians",
+    "image_2_object_list": "Silver car, leafless trees, yellow poles, distant pedestrians, empty driver seat.",
+    "gpt_extract_objects_gt": "pedestrians, car, someone, driver seat",
+    "Modified_option": " yellow poles,Silver car, green trees, empty driver seat, walking pedestrians, distant pedestrians, red building, grey pavement,silver car, leafless trees, open car door, closed car door, bikes",
+    "Answer": "walking pedestrians"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/8902/8902.png",
+    "image_2": "spot-the-diff/pair_images/test/8902/8902_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/8902/8902_diff.jpg",
+    "difference": ["on the far left there is an car behind the row of 4 cars"],
+    "image_1_object_list": "black car, white truck, gray dumpster, green tree.",
+    "image_2_object_list": "white cars, grey dumpsters, green trees, brown light poles, red car, beige truck.",
+    "gpt_extract_objects_gt": "car",
+    "Modified_option": " brown light poles, green trees, red car, beige truck, white truck,white cars, grey dumpsters,black car, gray dumpster, walking person",
+    "Answer": "walking person"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/12071/12071.png",
+    "image_2": "spot-the-diff/pair_images/test/12071/12071_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/12071/12071_diff.jpg",
+    "difference": [
+      "three people are walking on the far right of the photo",
+      "the person in white near the yellow poles has been added",
+      "the person walking around the car has moved",
+      "the person in white that was near the car is gone"
+    ],
+    "image_1_object_list": "beige car, yellow poles, person in white, people.",
+    "image_2_object_list": "black car, walking people, yellow poles, person in white.",
+    "gpt_extract_objects_gt": "people, poles, car, person in white",
+    "Modified_option": " person in white, walking people, yellow poles, people.,beige car,black car, green grass",
+    "Answer": "person in white"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/1828/1828.png",
+    "image_2": "spot-the-diff/pair_images/test/1828/1828_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/1828/1828_diff.jpg",
+    "difference": ["the man walking down the parking lot is no longer there"],
+    "image_1_object_list": "wet parking lot, white cars, black cars, green trees, walking man",
+    "image_2_object_list": "wet parking lot, walking man, white cars, black cars, grey building, green trees, white lines",
+    "gpt_extract_objects_gt": "man, parking lot",
+    "Modified_option": " black cars, white cars,wet parking lot, green trees, grey building, white lines, walking man, blue cars",
+    "Answer": "walking man"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/8667/8667.png",
+    "image_2": "spot-the-diff/pair_images/test/8667/8667_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/8667/8667_diff.jpg",
+    "difference": ["people not in parking lot"],
+    "image_1_object_list": "black cars, white trucks, walking people, green trees, grey dumpster, yellow poles.",
+    "image_2_object_list": "black cars, white trucks, green trees, grey dumpster.",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " walking people, green trees, grey dumpster,black cars, grey dumpster, yellow poles., white trucks, red cars",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/9496/9496.png",
+    "image_2": "spot-the-diff/pair_images/test/9496/9496_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/9496/9496_diff.jpg",
+    "difference": [
+      "there are no people in the first picture and 6 in the second picture"
+    ],
+    "image_1_object_list": "Yellow poles, red bricks, leafless trees, distant people.",
+    "image_2_object_list": "Grey building, sparse trees, walking people, shadowed pavement, green grass.",
+    "gpt_extract_objects_gt": "people",
+    "Modified_option": "Yellow poles, walking people,Grey building, distant people., red bricks, green grass., sparse trees, shadowed pavement, leafless trees, bikes",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/2795/2795.png",
+    "image_2": "spot-the-diff/pair_images/test/2795/2795_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/2795/2795_diff.jpg",
+    "difference": ["the black man is who was missing"],
+    "image_1_object_list": "black cars, white trucks, walking people, wet pavement.",
+    "image_2_object_list": "wet parking lot, gray sky, white car, black car, green trees, white truck",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " white car, walking people, green trees,wet parking lot, wet pavement.,black cars, gray sky, white trucks",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/1338/1338.png",
+    "image_2": "spot-the-diff/pair_images/test/1338/1338_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/1338/1338_diff.jpg",
+    "difference": [
+      "there is now a person walking on the left hand side of the lot"
+    ],
+    "image_1_object_list": "white cars, black car, white trucks, yellow lines, walking person",
+    "image_2_object_list": "wet pavement, white cars, black cars, walking person.",
+    "gpt_extract_objects_gt": "person",
+    "Modified_option": " black cars, white cars, walking person, yellow lines, black car, wet pavement, white trucks",
+    "Answer": "walking person"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/12763/12763.png",
+    "image_2": "spot-the-diff/pair_images/test/12763/12763_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/12763/12763_diff.jpg",
+    "difference": [
+      "there are six people in the before picture while there are three people in the after picture"
+    ],
+    "image_1_object_list": "Walking people, red building, shadowed trees, yellow curb.",
+    "image_2_object_list": "Red brick buildings, yellow poles, gray pavement, leafless trees, walking people.",
+    "gpt_extract_objects_gt": "people",
+    "Modified_option": " gray pavement, yellow poles, walking people, red building,Red brick buildings, shadowed trees, yellow curb., leafless trees, bikes",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/2098/2098.png",
+    "image_2": "spot-the-diff/pair_images/test/2098/2098_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/2098/2098_diff.jpg",
+    "difference": [
+      "there are no people in the before picture",
+      "there are two people walking in the after picture"
+    ],
+    "image_1_object_list": "wet pavement, red car, white cars, black cars, brick building.",
+    "image_2_object_list": "wet pavement, white cars, black cars, red cars, walking people",
+    "gpt_extract_objects_gt": "people",
+    "Modified_option": " black cars, white cars, red cars, walking people, brick building.,wet pavement,green trees",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/2266/2266.png",
+    "image_2": "spot-the-diff/pair_images/test/2266/2266_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/2266/2266_diff.jpg",
+    "difference": ["there is no difference"],
+    "image_1_object_list": "black cars, white building, wet pavement",
+    "image_2_object_list": "wet pavement, white cars, black cars, grey cars, people",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " black cars, white cars, wet pavement, grey cars,wet pavement, white building, blue cars",
+    "Answer": "None"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/8837/8837.png",
+    "image_2": "spot-the-diff/pair_images/test/8837/8837_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/8837/8837_diff.jpg",
+    "difference": ["this have one less car"],
+    "image_1_object_list": "black cars, white trucks, yellow bus, green trees, moving people",
+    "image_2_object_list": "spacious parking lot, black cars, white trucks, yellow pole, blue dumpsters, multicolored buildings.",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " black car,spacious parking lot, green trees, moving people,black cars, yellow pole, multicolored buildings., yellow bus, white trucks, blue dumpsters",
+    "Answer": "black car"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/11354/11354.png",
+    "image_2": "spot-the-diff/pair_images/test/11354/11354_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/11354/11354_diff.jpg",
+    "difference": ["there are no longer two people in the parking lot"],
+    "image_1_object_list": "Yellow poles, brick building, gray pavement, leafless trees, moving people.",
+    "image_2_object_list": "yellow poles, leafless trees, shadowed building, empty parking spaces, walking people, parked bicycles.",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": "Yellow poles, walking people, gray pavement, shadowed building, brick building, empty parking spaces,yellow poles, parked bicycles, leafless trees",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/8264/8264.png",
+    "image_2": "spot-the-diff/pair_images/test/8264/8264_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/8264/8264_diff.jpg",
+    "difference": ["red car not parked in lot"],
+    "image_1_object_list": "red car, white truck, silver container, green trees.",
+    "image_2_object_list": "black cars, white trucks, green trees, gray dumpsters, blue cars, red car",
+    "gpt_extract_objects_gt": "car",
+    "Modified_option": " silver container, gray dumpsters, green trees, red car,black cars, blue cars, white truck, white trucks, buildings",
+    "Answer": "red car"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/12728/12728.png",
+    "image_2": "spot-the-diff/pair_images/test/12728/12728_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/12728/12728_diff.jpg",
+    "difference": [
+      "the picture on the right contains more people near the yellow poles"
+    ],
+    "image_1_object_list": "empty parking lot, red building, walking people, leafless trees, yellow curb.",
+    "image_2_object_list": "People, gray car, brick building, leafless tree.",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " walking people,empty parking lot, leafless tree, brick building, gray car, red building, yellow curb, green grass",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/12519/12519.png",
+    "image_2": "spot-the-diff/pair_images/test/12519/12519_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/12519/12519_diff.jpg",
+    "difference": ["there is a new person to the right of the silver car"],
+    "image_1_object_list": "silver car, yellow poles, leafless trees, distant person",
+    "image_2_object_list": "solitary person, silver car, yellow poles, brick building, asphalt road",
+    "gpt_extract_objects_gt": "person, silver car",
+    "Modified_option": " asphalt road, yellow poles,solitary person, brick building, walking person, silver car, leafless trees",
+    "Answer": "walking person"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/10045/10045.png",
+    "image_2": "spot-the-diff/pair_images/test/10045/10045_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/10045/10045_diff.jpg",
+    "difference": [
+      "the people are no longer there",
+      "the person near the car moved"
+    ],
+    "image_1_object_list": "gray car, yellow poles, walking people, leafless trees",
+    "image_2_object_list": "silver car, yellow poles, people.",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": "gray car, walking people, yellow poles, green grass,silver car, leafless trees",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/9093/9093.png",
+    "image_2": "spot-the-diff/pair_images/test/9093/9093_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/9093/9093_diff.jpg",
+    "difference": ["there is a new van in the second photo"],
+    "image_1_object_list": "White van, blue cars, green trees, white truck, gray dumpster.",
+    "image_2_object_list": "White van, white trucks, black cars, gray dumpster, green trees.",
+    "gpt_extract_objects_gt": "van",
+    "Modified_option": " black cars, green trees, white van, blue cars, white truck, gray dumpster, gray dumpster, buildings",
+    "Answer": "white van"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/10608/10608.png",
+    "image_2": "spot-the-diff/pair_images/test/10608/10608_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/10608/10608_diff.jpg",
+    "difference": ["there are no visible people in the frame"],
+    "image_1_object_list": "yellow poles, red brick buildings, walking people, leafless trees, empty parking spaces",
+    "image_2_object_list": "yellow poles, red brick buildings, leafless trees, walking people, empty parking spaces, white lines",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " walking people, red brick buildings, white lines, empty parking spaces,yellow poles, leafless trees, green grass",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/1223/1223.png",
+    "image_2": "spot-the-diff/pair_images/test/1223/1223_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/1223/1223_diff.jpg",
+    "difference": ["no differences spotted"],
+    "image_1_object_list": "white cars, black cars, grey cars, parked cars, visible people, wet ground, striped parking spaces.",
+    "image_2_object_list": "wet pavement, white cars, black cars, grey cars, walking people, white building, green trees.",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " black cars, white cars, walking people, grey cars, wet ground, striped parking spaces., green trees., visible people,wet pavement, white building, parked cars",
+    "Answer": "None"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/9028/9028.png",
+    "image_2": "spot-the-diff/pair_images/test/9028/9028_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/9028/9028_diff.jpg",
+    "difference": ["there six guys near the parking lot"],
+    "image_1_object_list": "yellow poles, red car, leafless trees, walking people.",
+    "image_2_object_list": "Walking people, leafless trees, gray building, paved pathway, yellow curb.",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " red car, walking people., gray building,yellow poles, yellow curb., paved pathway, leafless trees, green grass",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/9973/9973.png",
+    "image_2": "spot-the-diff/pair_images/test/9973/9973_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/9973/9973_diff.jpg",
+    "difference": ["there are two people present"],
+    "image_1_object_list": "brick building, yellow lines, leafless trees, walking people",
+    "image_2_object_list": "yellow poles, leafless trees, talking people, white lines",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " walking people, yellow lines, white lines,brick building, yellow poles, leafless trees, green grass",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/1040/1040.png",
+    "image_2": "spot-the-diff/pair_images/test/1040/1040_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/1040/1040_diff.jpg",
+    "difference": [
+      "in the after image the pedestrian walking in the lot is now gone and an additional vehicle is parked by the dumpster picking up or dropping off someone in a blue shirt"
+    ],
+    "image_1_object_list": "wet vehicles, black dumpster, absent pedestrian, absent someone in a blue shirt.",
+    "image_2_object_list": "wet parking lot, white cars, black cars, gray cars, green trees, gray dumpster, walking pedestrian, white truck, blue-shirted person.",
+    "gpt_extract_objects_gt": "pedestrian, vehicle, dumpster, someone in a blue shirt",
+    "Modified_option": " black cars, white cars, blue-shirted person, green trees,wet parking lot, walking pedestrian, absent pedestrian, white truck, black dumpster, gray cars, absent someone in a blue shirt.,wet vehicles, gray dumpster, open car door",
+    "Answer": "absent someone in a blue shirt"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/10637/10637.png",
+    "image_2": "spot-the-diff/pair_images/test/10637/10637_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/10637/10637_diff.jpg",
+    "difference": [
+      "the people are no longer there",
+      "there is now a man walking"
+    ],
+    "image_1_object_list": "Yellow poles, leafless trees, walking people, red backpack, gray pavement.",
+    "image_2_object_list": "yellow poles, red bricks, bare trees, walking man",
+    "gpt_extract_objects_gt": "people, man",
+    "Modified_option": "Yellow poles, walking people, leafless trees, red bricks, bare trees, gray pavement.,yellow poles, red backpack, green grass",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/8329/8329.png",
+    "image_2": "spot-the-diff/pair_images/test/8329/8329_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/8329/8329_diff.jpg",
+    "difference": [
+      "the black car driving through the parking lot is bot in the second photo"
+    ],
+    "image_1_object_list": "White cars, red cars, black cars, gray cars, red trucks, white trucks, green trees, gray roads, gray buildings, blue dumpsters.",
+    "image_2_object_list": "black cars, white trucks, green trees, yellow poles, blue car, gray container.",
+    "gpt_extract_objects_gt": "car",
+    "Modified_option": " black car, red trucks,White cars, red cars, yellow poles, green trees, blue car, blue dumpsters., gray roads, gray buildings, gray container., gray cars, white trucks",
+    "Answer": "black car"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/12096/12096.png",
+    "image_2": "spot-the-diff/pair_images/test/12096/12096_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/12096/12096_diff.jpg",
+    "difference": [
+      "two men speaking on the sidewalk are gone",
+      "three men arrived in the parking lot"
+    ],
+    "image_1_object_list": "yellow poles, leafless trees, walking men, brick buildings, asphalt ground.",
+    "image_2_object_list": "Yellow poles, green trees, walking men, paved road, brown building",
+    "gpt_extract_objects_gt": "men, men",
+    "Modified_option": " asphalt ground.,Yellow poles, brick buildings, green trees, walking men, brown building, paved road,yellow poles, leafless trees, green grass",
+    "Answer": "walking men"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/9912/9912.png",
+    "image_2": "spot-the-diff/pair_images/test/9912/9912_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/9912/9912_diff.jpg",
+    "difference": ["the white van moved from one aisle to the next"],
+    "image_1_object_list": "White van, black cars, gray dumpster, light parking lot, green trees.",
+    "image_2_object_list": "white van, gray dumpster, empty parking lot, scattered cars.",
+    "gpt_extract_objects_gt": "white van",
+    "Modified_option": " black cars, empty parking lot,White van, light parking lot, green trees, scattered cars, gray dumpster, buildings",
+    "Answer": "white van"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/2091/2091.png",
+    "image_2": "spot-the-diff/pair_images/test/2091/2091_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/2091/2091_diff.jpg",
+    "difference": [
+      "the person with the orange umbrella is down the path more",
+      "there is a person with a blue umbrella"
+    ],
+    "image_1_object_list": "wet cars, asphalt road, red pole, beige building, white trucks, green trees, orange umbrella, blue umbrella.",
+    "image_2_object_list": "white cars, blue cars, black cars, green trees, grey pavement, blue umbrella",
+    "gpt_extract_objects_gt": "orange umbrella, blue umbrella",
+    "Modified_option": " black cars, asphalt road, green trees, blue umbrella., blue cars,wet cars, orange umbrella, red pole,white cars, grey pavement,  beige building, white trucks",
+    "Answer": "blue umbrella"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/10950/10950.png",
+    "image_2": "spot-the-diff/pair_images/test/10950/10950_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/10950/10950_diff.jpg",
+    "difference": [
+      "there are different people",
+      "the people are standing further away"
+    ],
+    "image_1_object_list": "waving people, leafless trees, yellow poles, black car, red bicycle.",
+    "image_2_object_list": "brick building, walking people, leafless trees, asphalt road, yellow lines.",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " walking people, asphalt road, yellow poles,brick building, black car, red bicycle., yellow lines.,waving people, leafless trees, green grass",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/10796/10796.png",
+    "image_2": "spot-the-diff/pair_images/test/10796/10796_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/10796/10796_diff.jpg",
+    "difference": ["the person on the side is no longer there"],
+    "image_1_object_list": "busy person, white trucks, black cars, yellow poles, green trees.",
+    "image_2_object_list": "black cars, white trucks, yellow poles, walking person, green trees",
+    "gpt_extract_objects_gt": "person",
+    "Modified_option": " black cars, green trees, yellow poles,busy person,black cars, white trucks, walking person, buildings",
+    "Answer": "walking person"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/12547/12547.png",
+    "image_2": "spot-the-diff/pair_images/test/12547/12547_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/12547/12547_diff.jpg",
+    "difference": ["there are two people talking that were not there"],
+    "image_1_object_list": "people, yellow poles, bare trees, red bricks, gray pavement",
+    "image_2_object_list": "bare trees, walking people, red brick buildings, yellow curb, white lines.",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": "bare trees, white lines., walking people, gray pavement, yellow poles, red brick buildings, red bricks, yellow curb",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/8651/8651.png",
+    "image_2": "spot-the-diff/pair_images/test/8651/8651_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/8651/8651_diff.jpg",
+    "difference": ["there is more people"],
+    "image_1_object_list": "silver cars, white trucks, green trees, walking people.",
+    "image_2_object_list": "silver cars, white trucks, beige dumpster, green trees.",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " beige dumpster,silver car, green trees, white trucks",
+    "Answer": "silver car"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/9694/9694.png",
+    "image_2": "spot-the-diff/pair_images/test/9694/9694_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/9694/9694_diff.jpg",
+    "difference": ["six people are present"],
+    "image_1_object_list": "people, tree, yellow poles, building",
+    "image_2_object_list": "red car, walking people, leafless trees, grey building, black poles",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " black poles, walking people, yellow poles, building, grey building,red car, bikes, leafless trees, green grass",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/8350/8350.png",
+    "image_2": "spot-the-diff/pair_images/test/8350/8350_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/8350/8350_diff.jpg",
+    "difference": [
+      "there is one person in the first picture and in the second there is two more who are walking and then another towards the bottom of the screen and the man in the first picture has moved towards the car"
+    ],
+    "image_1_object_list": "silver car, walking people, brick building, yellow poles, leafless trees.",
+    "image_2_object_list": "silver car, walking people, yellow poles, leafless tree.",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " walking people, yellow poles, leafless tree, brick building,silver car, green grass",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/72/72.png",
+    "image_2": "spot-the-diff/pair_images/test/72/72_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/72/72_diff.jpg",
+    "difference": ["the people in the left photo have moved"],
+    "image_1_object_list": "white cars, people, white trucks, yellow poles, gray pavement, red bricks.",
+    "image_2_object_list": "wet pavement, white trucks, black cars, moving people, lined parking spaces",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " black cars, red bricks., gray pavement, yellow poles, moving people, lined parking spaces,white cars,wet pavement, white trucks, people, green trees",
+    "Answer": "moving people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/571/571.png",
+    "image_2": "spot-the-diff/pair_images/test/571/571_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/571/571_diff.jpg",
+    "difference": ["the cars are in different positions"],
+    "image_1_object_list": "black cars, white trucks, green trees, no people, grey pavement, blue car.",
+    "image_2_object_list": "silver cars, black cars, white trucks, walking people, green trees",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " black cars,silver cars, walking people, green trees, blue car., grey pavement, white trucks, green grass",
+    "Answer": "silver cars"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/12627/12627.png",
+    "image_2": "spot-the-diff/pair_images/test/12627/12627_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/12627/12627_diff.jpg",
+    "difference": [
+      "in the first picture there two people",
+      "in the second image there five people"
+    ],
+    "image_1_object_list": "tall trees, yellow poles, walking people",
+    "image_2_object_list": "Red bricks, green trees, walking people, gray pavement, yellow curbs",
+    "gpt_extract_objects_gt": "people",
+    "Modified_option": " gray pavement, walking people, green trees, yellow poles,Red bricks, yellow curbs, green grass",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/2020/2020.png",
+    "image_2": "spot-the-diff/pair_images/test/2020/2020_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/2020/2020_diff.jpg",
+    "difference": [
+      "a person is walking towards the camera view is no longer there"
+    ],
+    "image_1_object_list": "wet pavement, black car, white car, gray car, walking person.",
+    "image_2_object_list": "Wet parking lot, white cars, black cars, grey pavement, green trees, red brick building.",
+    "gpt_extract_objects_gt": "person",
+    "Modified_option": " black cars, white cars, green trees,Wet parking lot, red brick building., walking person., blue car, gray car, grey pavement,wet pavement",
+    "Answer": "walking person"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/10902/10902.png",
+    "image_2": "spot-the-diff/pair_images/test/10902/10902_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/10902/10902_diff.jpg",
+    "difference": ["there are more cars by the truck now"],
+    "image_1_object_list": "Black cars, white truck, grey dumpster, green trees",
+    "image_2_object_list": "White truck, black cars, blue cars, red cars, gray cars, green cars, silver cars, beige building, green trees.",
+    "gpt_extract_objects_gt": "cars, truck",
+    "Modified_option": " black cars, red cars, green trees, grey dumpster, blue cars, silver cars, white truck, gray cars, beige building, green cars",
+    "Answer": "red cars"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/8494/8494.png",
+    "image_2": "spot-the-diff/pair_images/test/8494/8494_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/8494/8494_diff.jpg",
+    "difference": [
+      "white shirt man gestures are different",
+      "black shirt man gesture are different",
+      "both red shirt men gestures are different",
+      "both blue shirt men gestures are different"
+    ],
+    "image_1_object_list": "red brick building, gray sidewalk, black lamppost, green tree, white shirt man, black shirt man, red shirt man, blue shirt men, yellow curb.",
+    "image_2_object_list": "white-shirt man, black-shirt man, red-shirt men, blue-shirt men, gray building, bare trees, yellow line, gray sidewalk, blue sky.",
+    "gpt_extract_objects_gt": "white shirt man, black shirt man, red shirt men, blue shirt men",
+    "Modified_option": " green tree, gray sidewalk, blue sky., red shirt man, yellow line, black lamppost, black shirt man, white shirt man, gray building, bare trees, yellow curb.,red brick building, blue shirt men, green grass",
+    "Answer": "white shirt man"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/12415/12415.png",
+    "image_2": "spot-the-diff/pair_images/test/12415/12415_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/12415/12415_diff.jpg",
+    "difference": ["people are moved"],
+    "image_1_object_list": "walking people, leafless trees, yellow poles, red car.",
+    "image_2_object_list": "gray building, leafless trees, walking people, black bicycles, yellow poles, white lines.",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " walking people, yellow poles, white lines,gray building, leafless trees, black bicycles, green grass",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/9483/9483.png",
+    "image_2": "spot-the-diff/pair_images/test/9483/9483_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/9483/9483_diff.jpg",
+    "difference": ["there are less people in the after image"],
+    "image_1_object_list": "Yellow lines, red bricks, leafless trees, walking people, asphalt road.",
+    "image_2_object_list": "Yellow poles, brick building, leafless trees, walking people.",
+    "gpt_extract_objects_gt": "people",
+    "Modified_option": "Yellow lines, Yellow poles, walking people, asphalt road, brick building, red bricks, leafless trees",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/8960/8960.png",
+    "image_2": "spot-the-diff/pair_images/test/8960/8960_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/8960/8960_diff.jpg",
+    "difference": [
+      "the group of three people are gone",
+      "a head can be seen in the bottom"
+    ],
+    "image_1_object_list": "Yellow poles, bare trees, walking people, brick building, asphalt road.",
+    "image_2_object_list": "yellow poles, brick building, leafless trees, walking people, empty parking spaces, parked bicycles, gray sidewalk.",
+    "gpt_extract_objects_gt": "people, head",
+    "Modified_option": "Yellow poles, walking people, gray sidewalk., asphalt road., brick building, parked bicycles, empty parking spaces, bare trees, leafless trees",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/11883/11883.png",
+    "image_2": "spot-the-diff/pair_images/test/11883/11883_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/11883/11883_diff.jpg",
+    "difference": [
+      "there is a man in the front now",
+      "the people in the back are no longer there"
+    ],
+    "image_1_object_list": "red building, green trees, yellow lines, walking people, standing man, blue jeans, gray pavement.",
+    "image_2_object_list": "Yellow poles, leafless trees, walking man, multiple people.",
+    "gpt_extract_objects_gt": "man, people",
+    "Modified_option": "Yellow poles,red building, walking people, green trees, yellow lines, multiple people., leafless trees, standing man, gray pavement., blue jeans, walking man",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/10648/10648.png",
+    "image_2": "spot-the-diff/pair_images/test/10648/10648_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/10648/10648_diff.jpg",
+    "difference": ["there is a black car moving now"],
+    "image_1_object_list": "black cars, white truck, asphalt road, walking people, metal container.",
+    "image_2_object_list": "Black cars, white trucks, green trees, visible people, gray dumpster.",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " asphalt road, green trees, walking people, metal container.,black car, white truck, visible people, gray dumpster, white trucks",
+    "Answer": "black car"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/12672/12672.png",
+    "image_2": "spot-the-diff/pair_images/test/12672/12672_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/12672/12672_diff.jpg",
+    "difference": [
+      "the three boys standing next to each other are no longer there",
+      "a new person s head as appeared"
+    ],
+    "image_1_object_list": "Yellow poles, red backpack, gray pavement, brown tree, blue jeans, green grass, white lines.",
+    "image_2_object_list": "Visible boys, yellow poles, leafless trees, shadowed building, asphalted parking lot, riding bicycles, empty spaces",
+    "gpt_extract_objects_gt": "boys, person's head",
+    "Modified_option": "Yellow poles, gray pavement,Visible boys, white lines, shadowed building, asphalted parking lot, empty spaces, riding bicycles, brown tree, green grass, blue jeans, red backpack, leafless trees",
+    "Answer": "Visible boys"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/8277/8277.png",
+    "image_2": "spot-the-diff/pair_images/test/8277/8277_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/8277/8277_diff.jpg",
+    "difference": ["there is an additional red car in the second image"],
+    "image_1_object_list": "Red car, blue car, white truck, gray dumpster, green trees.",
+    "image_2_object_list": "Red car, white trucks, green trees, blue cars, gray container, beige building.",
+    "gpt_extract_objects_gt": "red car",
+    "Modified_option": " beige building., green trees,red car, blue car, blue cars, gray container, white truck, green trees., white trucks, gray dumpster",
+    "Answer": "red car"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/12785/12785.png",
+    "image_2": "spot-the-diff/pair_images/test/12785/12785_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/12785/12785_diff.jpg",
+    "difference": [
+      "there are only two people",
+      "the person in the black jacket is gone",
+      "the two people are standing in a different place"
+    ],
+    "image_1_object_list": "yellow poles, bare trees, red bricks, black jacket person, gray pavement, two people.",
+    "image_2_object_list": "Bare trees, yellow poles, paved area, gray building, walking people, person in black jacket, two people, shadowed roof.",
+    "gpt_extract_objects_gt": "people, person in the black jacket, two people",
+    "Modified_option": " shadowed roof., two people, walking people, yellow poles, gray pavement, paved area, red bricks,Bare trees, person in black jacket, gray building, bare trees, green grass",
+    "Answer": " person in black jacket"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/8575/8575.png",
+    "image_2": "spot-the-diff/pair_images/test/8575/8575_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/8575/8575_diff.jpg",
+    "difference": [
+      "there is a car missing",
+      "there is no car in the center lane",
+      "a black car is leaving the lot"
+    ],
+    "image_1_object_list": "black car, red car, blue car, white truck, grey dumpster, green trees.",
+    "image_2_object_list": "blue car, black car, silver car, gray truck, green trees, beige building.",
+    "gpt_extract_objects_gt": "car, car, car",
+    "Modified_option": " beige building.,blue car, green trees, red car, grey dumpster, blue car, black car, gray truck, white truck, silver car",
+    "Answer": "red car"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/12063/12063.png",
+    "image_2": "spot-the-diff/pair_images/test/12063/12063_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/12063/12063_diff.jpg",
+    "difference": [
+      "there are two people in the before picture while there are six people in the after picture"
+    ],
+    "image_1_object_list": "Yellow poles, walking people, brick buildings, leafless trees, shadowed pavement.",
+    "image_2_object_list": "People, red bricks, bare trees, gray pavement, yellow curb.",
+    "gpt_extract_objects_gt": "people",
+    "Modified_option": "Yellow poles, brick buildings, gray pavement, walking people, shadowed pavement., red bricks, yellow curb., leafless trees, green grass",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/8513/8513.png",
+    "image_2": "spot-the-diff/pair_images/test/8513/8513_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/8513/8513_diff.jpg",
+    "difference": [
+      "2 extra people",
+      "same people slightly different position",
+      "shadows of people lower right"
+    ],
+    "image_1_object_list": "black car, standing people, long shadows, red bricks, green trees, paved walkways.",
+    "image_2_object_list": "black car, walking people, long shadows, yellow lines, gray building, leafless trees.",
+    "gpt_extract_objects_gt": "people, people, shadows ",
+    "Modified_option": " long shadows, walking people, green trees, yellow lines, paved walkways., red bricks, gray building, standing people, leafless trees.,black car",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/12792/12792.png",
+    "image_2": "spot-the-diff/pair_images/test/12792/12792_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/12792/12792_diff.jpg",
+    "difference": [
+      "the man carrying a box has put it somewhere",
+      "he is now talking to a man in a white shirt"
+    ],
+    "image_1_object_list": "black car, walking man, blue shirt, brown box, yellow poles, bare trees",
+    "image_2_object_list": "silver car, standing man, white shirt, green trees, gray building, yellow poles.",
+    "gpt_extract_objects_gt": "box, man, shirt",
+    "Modified_option": " blue shirt, green grass, yellow poles, brown box, gray building, yellow poles., standing man, bare trees, white shirt,silver car,black car, walking man",
+    "Answer": "brown box"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/8963/8963.png",
+    "image_2": "spot-the-diff/pair_images/test/8963/8963_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/8963/8963_diff.jpg",
+    "difference": [
+      "there are now two people in the frame",
+      "a red sedan is now parked",
+      "the black car that s furthest away from the camera has moved slightly"
+    ],
+    "image_1_object_list": "white trucks, red sedan, black car, green trees, yellow poles, walking people",
+    "image_2_object_list": "walking people, red sedan, black car, white trucks, green trees, gray container",
+    "gpt_extract_objects_gt": "people, red sedan, black car",
+    "Modified_option": "white trucks, walking people, green trees, yellow poles, black car, gray container, red sedan",
+    "Answer": "walking people"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/627/627.png",
+    "image_2": "spot-the-diff/pair_images/test/627/627_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/627/627_diff.jpg",
+    "difference": [
+      "the blue pick up truck parks in the spot",
+      "there is a person standing behind the blue pick up truck"
+    ],
+    "image_1_object_list": "blue pickup truck, gray car, black car, white van, gray SUV, green trees, walking person.",
+    "image_2_object_list": "empty parking spaces, blue pickup truck, gray cars, white van, green trees, walking person",
+    "gpt_extract_objects_gt": "blue pick up truck, person",
+    "Modified_option": " green trees,blue pickup truck, walking person., gray SUV, black car,blue pickup truck, gray cars, white van,empty parking spaces, walking person",
+    "Answer": "blue pickup truck"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/1156/1156.png",
+    "image_2": "spot-the-diff/pair_images/test/1156/1156_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/1156/1156_diff.jpg",
+    "difference": ["no noticeable differences"],
+    "image_1_object_list": "wet parking lot, white cars, black car, walking people",
+    "image_2_object_list": "wet pavement, white car, black car, grey car, white truck, walking people, green trees",
+    "gpt_extract_objects_gt": "people, car",
+    "Modified_option": " white car, white cars, walking people, green trees,wet parking lot, black car, grey car, white truck,wet pavement",
+    "Answer": "None"
+  },
+  {
+    "image_1": "spot-the-diff/pair_images/test/9207/9207.png",
+    "image_2": "spot-the-diff/pair_images/test/9207/9207_2.png",
+    "image_diff": "spot-the-diff/pair_images/test/9207/9207_diff.jpg",
+    "difference": [
+      "white and red cars have moved",
+      "a person is walking on the sidewalk now"
+    ],
+    "image_1_object_list": "black cars, white trucks, lone person, beige buildings, gray roads.",
+    "image_2_object_list": "Red cars, blue cars, white trucks, green trees, distant person",
+    "gpt_extract_objects_gt": "cars, person",
+    "Modified_option": " green trees, beige buildings,black cars, blue cars,Red cars, lone person, distant person, gray roads., white trucks, white car",
+    "Answer": "white car"
+  }
+]

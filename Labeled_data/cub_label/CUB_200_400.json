@@ -1,0 +1,1288 @@
+[
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_150\\Sage_Thrasher_0033_155511.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_150\\Sage_Thrasher_0097_155564.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_150\\Sage_Thrasher_0060_155728.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_150\\Sage_Thrasher_0097_155564.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_150\\Sage_Thrasher_0095_796446.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_150\\Sage_Thrasher_0097_155564.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_17\\Cardinal_0029_17297.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_17\\Cardinal_0083_18042.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_17\\Cardinal_0023_19026.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_17\\Cardinal_0083_18042.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_17\\Cardinal_0103_17425.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_17\\Cardinal_0083_18042.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {},
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_185\\Bohemian_Waxwing_0068_796682.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_185\\Bohemian_Waxwing_0099_177747.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_185\\Bohemian_Waxwing_0068_796682.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_185\\Bohemian_Waxwing_0082_796655.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_185\\Bohemian_Waxwing_0048_177821.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_185\\Bohemian_Waxwing_0099_177747.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_185\\Bohemian_Waxwing_0034_796646.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_185\\Bohemian_Waxwing_0099_177747.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_185\\Bohemian_Waxwing_0122_796654.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_185\\Bohemian_Waxwing_0121_796658.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_185\\Bohemian_Waxwing_0122_796654.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_185\\Bohemian_Waxwing_0099_177747.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0122_186365.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0095_186561.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0029_186212.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0038_186436.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0021_186683.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0038_186436.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0122_186365.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0038_186436.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0107_186972.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0031_186713.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0006_186742.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0033_186848.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0130_186369.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0142_186443.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0024_186377.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0095_186561.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0047_186928.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0060_186296.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0032_186566.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0060_186296.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0035_186356.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0060_186296.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0141_186347.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0060_186296.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0086_186431.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0073_186587.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0099_186237.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0073_186587.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0051_186510.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0073_186587.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0002_186506.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_195\\Carolina_Wren_0073_186587.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_2\\Laysan_Albatross_0056_500.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_2\\Laysan_Albatross_0059_488.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_2\\Laysan_Albatross_0094_1013.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_2\\Laysan_Albatross_0059_488.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_2\\Laysan_Albatross_0029_482.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_2\\Laysan_Albatross_0059_488.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_2\\Laysan_Albatross_0018_492.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_2\\Laysan_Albatross_0059_488.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_200\\Common_Yellowthroat_0003_190521.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_200\\Common_Yellowthroat_0112_190571.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_200\\Common_Yellowthroat_0003_190521.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_200\\Common_Yellowthroat_0021_190655.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {},
+  {},
+  {},
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_34\\Gray_Crowned_Rosy_Finch_0074_27156.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_34\\Gray_Crowned_Rosy_Finch_0031_797299.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_34\\Gray_Crowned_Rosy_Finch_0036_797287.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_34\\Gray_Crowned_Rosy_Finch_0073_27104.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_34\\Gray_Crowned_Rosy_Finch_0036_797287.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_34\\Gray_Crowned_Rosy_Finch_0083_797281.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_34\\Gray_Crowned_Rosy_Finch_0036_797287.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_34\\Gray_Crowned_Rosy_Finch_0083_797281.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_34\\Gray_Crowned_Rosy_Finch_0036_797287.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_34\\Gray_Crowned_Rosy_Finch_0073_27104.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_34\\Gray_Crowned_Rosy_Finch_0043_26990.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_34\\Gray_Crowned_Rosy_Finch_0018_26978.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_36\\Northern_Flicker_0085_28378.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_36\\Northern_Flicker_0091_28799.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_36\\Northern_Flicker_0024_29041.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_36\\Northern_Flicker_0107_28667.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {},
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_38\\Great_Crested_Flycatcher_0082_29445.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_38\\Great_Crested_Flycatcher_0009_29831.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {},
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_39\\Least_Flycatcher_0059_30152.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_39\\Least_Flycatcher_0070_30147.jpg",
+    "answer": "Right",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_39\\Least_Flycatcher_0058_30143.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_39\\Least_Flycatcher_0018_30462.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_39\\Least_Flycatcher_0033_30449.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_39\\Least_Flycatcher_0018_30462.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_39\\Least_Flycatcher_0097_30122.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_39\\Least_Flycatcher_0045_30174.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_39\\Least_Flycatcher_0029_30362.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_39\\Least_Flycatcher_0045_30174.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_40\\Olive_Sided_Flycatcher_0082_796893.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_40\\Olive_Sided_Flycatcher_0014_30651.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_44\\Frigatebird_0084_43006.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_44\\Frigatebird_0063_42812.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_44\\Frigatebird_0031_42979.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_44\\Frigatebird_0063_42812.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_45\\Northern_Fulmar_0099_44015.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_45\\Northern_Fulmar_0039_43689.jpg",
+    "answer": "Right",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_45\\Northern_Fulmar_0103_44062.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_45\\Northern_Fulmar_0039_43689.jpg",
+    "answer": "Right",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_45\\Northern_Fulmar_0023_43809.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_45\\Northern_Fulmar_0039_43689.jpg",
+    "answer": "Right",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_46\\Gadwall_0095_30911.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_46\\Gadwall_0028_31623.jpg",
+    "answer": "Right",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_46\\Gadwall_0010_31158.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_46\\Gadwall_0028_31623.jpg",
+    "answer": "Right",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_46\\Gadwall_0075_30892.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_46\\Gadwall_0028_31623.jpg",
+    "answer": "Right",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {},
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_46\\Gadwall_0058_31660.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_46\\Gadwall_0079_31052.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_46\\Gadwall_0069_31291.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_46\\Gadwall_0004_31669.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_46\\Gadwall_0069_31291.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_46\\Gadwall_0086_31346.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_48\\European_Goldfinch_0052_33082.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_48\\European_Goldfinch_0003_33066.jpg",
+    "answer": "Right",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {},
+  {},
+  {},
+  {},
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_5\\Crested_Auklet_0030_794937.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_5\\Crested_Auklet_0059_794929.jpg",
+    "answer": "Right",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_5\\Crested_Auklet_0045_794940.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_5\\Crested_Auklet_0059_794929.jpg",
+    "answer": "Right",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_53\\Western_Grebe_0007_36074.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_53\\Western_Grebe_0088_36428.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {},
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_57\\Rose_Breasted_Grosbeak_0028_39271.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_57\\Rose_Breasted_Grosbeak_0089_39211.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_85\\Horned_Lark_0059_74144.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_85\\Horned_Lark_0095_74640.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_85\\Horned_Lark_0059_74144.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_85\\Horned_Lark_0104_74142.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_85\\Horned_Lark_0133_73882.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_85\\Horned_Lark_0104_74142.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_85\\Horned_Lark_0082_73833.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_85\\Horned_Lark_0104_74142.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_86\\Pacific_Loon_0024_75555.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_86\\Pacific_Loon_0064_75532.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_86\\Pacific_Loon_0027_75542.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0123_76653.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0093_77419.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0067_77623.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0093_77419.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0020_76239.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0093_77419.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0048_76995.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0112_77046.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0048_76995.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0112_77046.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0123_76653.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0112_77046.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0067_77623.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0083_77052.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0048_76995.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0083_77052.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0038_76902.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0083_77052.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0014_76166.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0083_77052.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0123_76653.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0083_77052.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0020_76239.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0083_77052.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0067_77623.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0081_76266.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0095_76080.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0081_76266.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0128_77396.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0081_76266.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_87\\Mallard_0107_76498.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_88\\Western_Meadowlark_0097_78239.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_88\\Western_Meadowlark_0040_77823.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_88\\Western_Meadowlark_0097_78239.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_88\\Western_Meadowlark_0048_78354.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_88\\Western_Meadowlark_0097_78239.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_88\\Western_Meadowlark_0044_77758.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_88\\Western_Meadowlark_0017_78940.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_88\\Western_Meadowlark_0116_77862.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_88\\Western_Meadowlark_0017_78940.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_88\\Western_Meadowlark_0032_78633.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_88\\Western_Meadowlark_0060_78368.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_88\\Western_Meadowlark_0032_78633.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_88\\Western_Meadowlark_0050_77864.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_88\\Western_Meadowlark_0038_77785.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_88\\Western_Meadowlark_0003_78864.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_88\\Western_Meadowlark_0038_77785.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_91\\Mockingbird_0009_81130.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_91\\Mockingbird_0108_81908.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_91\\Mockingbird_0042_81728.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_91\\Mockingbird_0069_79760.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_91\\Mockingbird_0004_81991.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_91\\Mockingbird_0006_79819.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {},
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_91\\Mockingbird_0059_82126.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_91\\Mockingbird_0108_81908.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_92\\Nighthawk_0068_82368.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_92\\Nighthawk_0063_795339.jpg",
+    "answer": "Right",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_92\\Nighthawk_0050_84094.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_92\\Nighthawk_0090_82579.jpg",
+    "answer": "Right",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_92\\Nighthawk_0045_82807.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_92\\Nighthawk_0069_82613.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\11_97\\Orchard_Oriole_0039_91267.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\11_97\\Orchard_Oriole_0033_91532.jpg",
+    "answer": "Left",
+    "question": "Which bird has more brown on its wings?"
+  },
+  {},
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\127_101\\White_Pelican_0075_96422.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\127_101\\White_Pelican_0012_97261.jpg",
+    "answer": "Left",
+    "question": "Which bird has more yellow on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\127_102\\Western_Wood_Pewee_0001_98045.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\127_102\\Western_Wood_Pewee_0042_98126.jpg",
+    "answer": "Left",
+    "question": "Which bird has more yellow on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\127_104\\American_Pipit_0008_100390.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\127_104\\American_Pipit_0031_99607.jpg",
+    "answer": "Left",
+    "question": "Which bird has more yellow on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\127_104\\American_Pipit_0008_100390.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\127_104\\American_Pipit_0089_100260.jpg",
+    "answer": "Left",
+    "question": "Which bird has more yellow on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\127_18\\Spotted_Catbird_0023_796793.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\127_18\\Spotted_Catbird_0029_796825.jpg",
+    "answer": "Right",
+    "question": "Which bird has more yellow on its throat?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\127_38\\Great_Crested_Flycatcher_0124_29294.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\127_38\\Great_Crested_Flycatcher_0033_29959.jpg",
+    "answer": "Left",
+    "question": "Which bird has more yellow on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\127_38\\Great_Crested_Flycatcher_0124_29294.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\127_38\\Great_Crested_Flycatcher_0136_29490.jpg",
+    "answer": "Left",
+    "question": "Which bird has more yellow on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\127_39\\Least_Flycatcher_0096_30233.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\127_39\\Least_Flycatcher_0081_30380.jpg",
+    "answer": "Left",
+    "question": "Which bird has more yellow on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\127_40\\Olive_Sided_Flycatcher_0086_30553.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\127_40\\Olive_Sided_Flycatcher_0077_30492.jpg",
+    "answer": "Left",
+    "question": "Which bird has more yellow on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\127_40\\Olive_Sided_Flycatcher_0086_30553.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\127_40\\Olive_Sided_Flycatcher_0049_796889.jpg",
+    "answer": "Left",
+    "question": "Which bird has more yellow on its throat?"
+  },
+  {},
+  {},
+  {},
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\127_88\\Western_Meadowlark_0048_78354.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\127_88\\Western_Meadowlark_0040_77823.jpg",
+    "answer": "Left",
+    "question": "Which bird has more yellow on its throat?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\127_88\\Western_Meadowlark_0019_77876.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\127_88\\Western_Meadowlark_0086_78636.jpg",
+    "answer": "Left",
+    "question": "Which bird has more yellow on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\127_88\\Western_Meadowlark_0081_77798.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\127_88\\Western_Meadowlark_0086_78636.jpg",
+    "answer": "Left",
+    "question": "Which bird has more yellow on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\127_88\\Western_Meadowlark_0098_78382.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\127_88\\Western_Meadowlark_0086_78636.jpg",
+    "answer": "Left",
+    "question": "Which bird has more yellow on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\127_97\\Orchard_Oriole_0017_91801.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\127_97\\Orchard_Oriole_0076_91527.jpg",
+    "answer": "Left",
+    "question": "Which bird has more yellow on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\127_97\\Orchard_Oriole_0015_91565.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\127_97\\Orchard_Oriole_0076_91527.jpg",
+    "answer": "Left",
+    "question": "Which bird has more yellow on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\127_97\\Orchard_Oriole_0045_91205.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\127_97\\Orchard_Oriole_0076_91527.jpg",
+    "answer": "Left",
+    "question": "Which bird has more yellow on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\127_97\\Orchard_Oriole_0114_91412.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\127_97\\Orchard_Oriole_0076_91527.jpg",
+    "answer": "Left",
+    "question": "Which bird has more yellow on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\127_97\\Orchard_Oriole_0084_91658.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\127_97\\Orchard_Oriole_0076_91527.jpg",
+    "answer": "Left",
+    "question": "Which bird has more yellow on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\127_99\\Ovenbird_0128_93366.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\127_99\\Ovenbird_0092_93416.jpg",
+    "answer": "Left",
+    "question": "Which bird has more yellow on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\131_101\\White_Pelican_0075_96422.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\131_101\\White_Pelican_0012_97261.jpg",
+    "answer": "Left",
+    "question": "Which bird has more orange on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\131_185\\Bohemian_Waxwing_0026_177845.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\131_185\\Bohemian_Waxwing_0054_796623.jpg",
+    "answer": "Left",
+    "question": "Which bird has more orange on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\131_185\\Bohemian_Waxwing_0026_177845.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\131_185\\Bohemian_Waxwing_0030_177635.jpg",
+    "answer": "Left",
+    "question": "Which bird has more orange on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\131_185\\Bohemian_Waxwing_0034_796646.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\131_185\\Bohemian_Waxwing_0114_177621.jpg",
+    "answer": "Left",
+    "question": "Which bird has more orange on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\131_185\\Bohemian_Waxwing_0034_796646.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\131_185\\Bohemian_Waxwing_0030_177635.jpg",
+    "answer": "Left",
+    "question": "Which bird has more orange on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\131_185\\Bohemian_Waxwing_0034_796646.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\131_185\\Bohemian_Waxwing_0054_796623.jpg",
+    "answer": "Left",
+    "question": "Which bird has more orange on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\131_189\\Red_Bellied_Woodpecker_0049_180755.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\131_189\\Red_Bellied_Woodpecker_0114_181092.jpg",
+    "answer": "Left",
+    "question": "Which bird has more orange on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\131_48\\European_Goldfinch_0075_794660.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\131_48\\European_Goldfinch_0087_794693.jpg",
+    "answer": "Left",
+    "question": "Which bird has more orange on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\131_48\\European_Goldfinch_0075_794660.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\131_48\\European_Goldfinch_0013_794687.jpg",
+    "answer": "Right",
+    "question": "Which bird has more orange on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\131_88\\Western_Meadowlark_0034_78869.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\131_88\\Western_Meadowlark_0100_78037.jpg",
+    "answer": "Right",
+    "question": "Which bird has more orange on its throat?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\151_40\\Olive_Sided_Flycatcher_0030_796896.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\151_40\\Olive_Sided_Flycatcher_0071_30647.jpg",
+    "answer": "Left",
+    "question": "Which bird has a greater bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\151_44\\Frigatebird_0122_43549.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\151_44\\Frigatebird_0052_43411.jpg",
+    "answer": "Left",
+    "question": "Which bird has a greater bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\151_44\\Frigatebird_0082_42989.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\151_44\\Frigatebird_0052_43411.jpg",
+    "answer": "Left",
+    "question": "Which bird has a greater bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\151_44\\Frigatebird_0069_43541.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\151_44\\Frigatebird_0120_43300.jpg",
+    "answer": "Left",
+    "question": "Which bird has a greater bill length to head length ratio?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\151_44\\Frigatebird_0074_43035.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\151_44\\Frigatebird_0089_43013.jpg",
+    "answer": "Left",
+    "question": "Which bird has a greater bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\151_49\\Boat_Tailed_Grackle_0117_33576.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\151_49\\Boat_Tailed_Grackle_0047_33500.jpg",
+    "answer": "Left",
+    "question": "Which bird has a greater bill length to head length ratio?"
+  },
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\151_58\\Pigeon_Guillemot_0081_40339.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\151_58\\Pigeon_Guillemot_0075_40159.jpg",
+    "answer": "Left",
+    "question": "Which bird has a greater bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\151_88\\Western_Meadowlark_0097_78239.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\151_88\\Western_Meadowlark_0083_78197.jpg",
+    "answer": "Left",
+    "question": "Which bird has a greater bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\151_90\\Red_Breasted_Merganser_0044_79321.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\151_90\\Red_Breasted_Merganser_0022_79274.jpg",
+    "answer": "Left",
+    "question": "Which bird has a greater bill length to head length ratio?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\151_90\\Red_Breasted_Merganser_0002_79447.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\151_90\\Red_Breasted_Merganser_0021_79168.jpg",
+    "answer": "Right",
+    "question": "Which bird has a greater bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_10\\Red_Winged_Blackbird_0101_6244.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_10\\Red_Winged_Blackbird_0012_6015.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_108\\White_Necked_Raven_0062_797382.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_108\\White_Necked_Raven_0050_797374.jpg",
+    "answer": "Left",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {},
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_108\\White_Necked_Raven_0062_797382.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_108\\White_Necked_Raven_0065_797354.jpg",
+    "answer": "Left",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_108\\White_Necked_Raven_0021_797341.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_108\\White_Necked_Raven_0046_797343.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_108\\White_Necked_Raven_0010_797350.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_108\\White_Necked_Raven_0009_102518.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {},
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_11\\Rusty_Blackbird_0054_6676.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_11\\Rusty_Blackbird_0019_6704.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_11\\Rusty_Blackbird_0054_6676.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_11\\Rusty_Blackbird_0043_2597.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_11\\Rusty_Blackbird_0026_6768.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_11\\Rusty_Blackbird_0043_2597.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {},
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_11\\Rusty_Blackbird_0087_6727.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_11\\Rusty_Blackbird_0108_6867.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {},
+  {},
+  {},
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_11\\Rusty_Blackbird_0017_6755.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_11\\Rusty_Blackbird_0096_6846.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {},
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_13\\Bobolink_0079_10736.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_13\\Bobolink_0081_9439.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_13\\Bobolink_0101_9811.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_13\\Bobolink_0117_10215.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_13\\Bobolink_0112_11073.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_13\\Bobolink_0043_10607.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_13\\Bobolink_0001_9261.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_13\\Bobolink_0110_9496.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_13\\Bobolink_0001_9261.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_13\\Bobolink_0002_11085.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_13\\Bobolink_0069_9085.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_13\\Bobolink_0007_9246.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_14\\Indigo_Bunting_0041_13987.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_14\\Indigo_Bunting_0028_12335.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_14\\Indigo_Bunting_0041_13987.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_14\\Indigo_Bunting_0049_13641.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_148\\Green_Tailed_Towhee_0085_154822.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_148\\Green_Tailed_Towhee_0062_797424.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {},
+  {},
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_148\\Green_Tailed_Towhee_0074_154915.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_148\\Green_Tailed_Towhee_0070_154844.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_150\\Sage_Thrasher_0062_796462.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_150\\Sage_Thrasher_0005_155569.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_150\\Sage_Thrasher_0070_155732.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_150\\Sage_Thrasher_0068_155452.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_150\\Sage_Thrasher_0070_155732.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_150\\Sage_Thrasher_0057_155488.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_150\\Sage_Thrasher_0016_155566.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_150\\Sage_Thrasher_0104_155529.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {},
+  {},
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_150\\Sage_Thrasher_0031_796455.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_150\\Sage_Thrasher_0092_155482.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_153\\Philadelphia_Vireo_0031_156632.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_153\\Philadelphia_Vireo_0043_794792.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_153\\Philadelphia_Vireo_0031_156632.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_153\\Philadelphia_Vireo_0062_794777.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {},
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_153\\Philadelphia_Vireo_0049_794756.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_153\\Philadelphia_Vireo_0056_156502.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_153\\Philadelphia_Vireo_0029_794760.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_153\\Philadelphia_Vireo_0003_156565.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_153\\Philadelphia_Vireo_0037_794770.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_153\\Philadelphia_Vireo_0083_794761.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_18\\Spotted_Catbird_0028_796813.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_18\\Spotted_Catbird_0001_796797.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_18\\Spotted_Catbird_0028_796813.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_18\\Spotted_Catbird_0016_796803.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_18\\Spotted_Catbird_0020_796794.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_18\\Spotted_Catbird_0044_796809.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_18\\Spotted_Catbird_0020_796794.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_18\\Spotted_Catbird_0009_796795.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_18\\Spotted_Catbird_0020_796794.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_18\\Spotted_Catbird_0037_796810.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_185\\Bohemian_Waxwing_0079_796687.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_185\\Bohemian_Waxwing_0048_177821.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_185\\Bohemian_Waxwing_0079_796687.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_185\\Bohemian_Waxwing_0054_796623.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_195\\Carolina_Wren_0038_186436.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_195\\Carolina_Wren_0029_186212.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_2\\Laysan_Albatross_0033_658.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_2\\Laysan_Albatross_0035_876.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_2\\Laysan_Albatross_0005_565.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_2\\Laysan_Albatross_0035_876.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_2\\Laysan_Albatross_0098_621.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_2\\Laysan_Albatross_0035_876.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_48\\European_Goldfinch_0025_794647.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_48\\European_Goldfinch_0107_794655.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_48\\European_Goldfinch_0100_794685.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_48\\European_Goldfinch_0077_33346.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_48\\European_Goldfinch_0088_794651.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_48\\European_Goldfinch_0103_794664.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_48\\European_Goldfinch_0088_794651.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_48\\European_Goldfinch_0041_794645.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_51\\Horned_Grebe_0053_34512.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_51\\Horned_Grebe_0106_35112.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {},
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_58\\Pigeon_Guillemot_0092_39864.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_58\\Pigeon_Guillemot_0095_39867.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_86\\Pacific_Loon_0040_75414.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_86\\Pacific_Loon_0046_75439.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_86\\Pacific_Loon_0033_75571.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_86\\Pacific_Loon_0046_75439.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {},
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_92\\Nighthawk_0058_83270.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_92\\Nighthawk_0004_84011.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_92\\Nighthawk_0058_83270.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_92\\Nighthawk_0007_83419.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_92\\Nighthawk_0058_83270.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_92\\Nighthawk_0054_795337.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_92\\Nighthawk_0058_83270.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_92\\Nighthawk_0016_84490.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_92\\Nighthawk_0058_83270.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_92\\Nighthawk_0025_82808.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_92\\Nighthawk_0058_83270.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_92\\Nighthawk_0027_84697.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_92\\Nighthawk_0058_83270.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_92\\Nighthawk_0029_83733.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_92\\Nighthawk_0058_83270.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_92\\Nighthawk_0069_82613.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {},
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_92\\Nighthawk_0058_83270.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_92\\Nighthawk_0065_82895.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  },
+  {
+    "image_1": "cub_200_2011/att_cls_images/test\\152_92\\Nighthawk_0058_83270.jpg",
+    "image_2": "cub_200_2011/att_cls_images/test\\152_92\\Nighthawk_0020_83869.jpg",
+    "answer": "Right",
+    "question": "Which bird has a smaller bill length to head length ratio?"
+  }
+]

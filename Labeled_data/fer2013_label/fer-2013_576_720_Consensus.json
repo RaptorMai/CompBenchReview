@@ -1,0 +1,4358 @@
+[
+    {
+        "image_1": "fer-2013/test/sad/im443.png",
+        "image_2": "fer-2013/test/sad/im445.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im443.png",
+        "image_2": "fer-2013/test/sad/im448.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im443.png",
+        "image_2": "fer-2013/test/sad/im449.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im444.png",
+        "image_2": "fer-2013/test/sad/im445.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im444.png",
+        "image_2": "fer-2013/test/sad/im448.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im444.png",
+        "image_2": "fer-2013/test/sad/im449.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im446.png",
+        "image_2": "fer-2013/test/sad/im445.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im446.png",
+        "image_2": "fer-2013/test/sad/im448.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im446.png",
+        "image_2": "fer-2013/test/sad/im449.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im447.png",
+        "image_2": "fer-2013/test/sad/im445.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im447.png",
+        "image_2": "fer-2013/test/sad/im448.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im447.png",
+        "image_2": "fer-2013/test/sad/im449.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im45.png",
+        "image_2": "fer-2013/test/sad/im445.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im45.png",
+        "image_2": "fer-2013/test/sad/im448.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im45.png",
+        "image_2": "fer-2013/test/sad/im449.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im459.png",
+        "image_2": "fer-2013/test/sad/im456.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im459.png",
+        "image_2": "fer-2013/test/sad/im457.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im46.png",
+        "image_2": "fer-2013/test/sad/im456.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im46.png",
+        "image_2": "fer-2013/test/sad/im457.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im452.png",
+        "image_2": "fer-2013/test/sad/im456.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im452.png",
+        "image_2": "fer-2013/test/sad/im457.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im454.png",
+        "image_2": "fer-2013/test/sad/im456.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im454.png",
+        "image_2": "fer-2013/test/sad/im457.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im467.png",
+        "image_2": "fer-2013/test/sad/im462.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im467.png",
+        "image_2": "fer-2013/test/sad/im463.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im468.png",
+        "image_2": "fer-2013/test/sad/im462.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im468.png",
+        "image_2": "fer-2013/test/sad/im463.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im464.png",
+        "image_2": "fer-2013/test/sad/im462.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im464.png",
+        "image_2": "fer-2013/test/sad/im463.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im466.png",
+        "image_2": "fer-2013/test/sad/im462.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im466.png",
+        "image_2": "fer-2013/test/sad/im463.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im461.png",
+        "image_2": "fer-2013/test/sad/im462.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im461.png",
+        "image_2": "fer-2013/test/sad/im463.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im476.png",
+        "image_2": "fer-2013/test/sad/im474.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im476.png",
+        "image_2": "fer-2013/test/sad/im470.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im476.png",
+        "image_2": "fer-2013/test/sad/im475.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im476.png",
+        "image_2": "fer-2013/test/sad/im473.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im476.png",
+        "image_2": "fer-2013/test/sad/im477.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im471.png",
+        "image_2": "fer-2013/test/sad/im474.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im471.png",
+        "image_2": "fer-2013/test/sad/im470.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im471.png",
+        "image_2": "fer-2013/test/sad/im475.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im471.png",
+        "image_2": "fer-2013/test/sad/im473.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im471.png",
+        "image_2": "fer-2013/test/sad/im477.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im485.png",
+        "image_2": "fer-2013/test/sad/im488.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im487.png",
+        "image_2": "fer-2013/test/sad/im488.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im484.png",
+        "image_2": "fer-2013/test/sad/im488.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im494.png",
+        "image_2": "fer-2013/test/sad/im492.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im491.png",
+        "image_2": "fer-2013/test/sad/im492.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im493.png",
+        "image_2": "fer-2013/test/sad/im492.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im498.png",
+        "image_2": "fer-2013/test/sad/im502.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im498.png",
+        "image_2": "fer-2013/test/sad/im501.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im498.png",
+        "image_2": "fer-2013/test/sad/im5.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im503.png",
+        "image_2": "fer-2013/test/sad/im502.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im503.png",
+        "image_2": "fer-2013/test/sad/im501.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im503.png",
+        "image_2": "fer-2013/test/sad/im5.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im510.png",
+        "image_2": "fer-2013/test/sad/im509.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im510.png",
+        "image_2": "fer-2013/test/sad/im511.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im510.png",
+        "image_2": "fer-2013/test/sad/im506.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im514.png",
+        "image_2": "fer-2013/test/sad/im509.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im514.png",
+        "image_2": "fer-2013/test/sad/im511.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im514.png",
+        "image_2": "fer-2013/test/sad/im506.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im523.png",
+        "image_2": "fer-2013/test/sad/im522.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im523.png",
+        "image_2": "fer-2013/test/sad/im518.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im523.png",
+        "image_2": "fer-2013/test/sad/im519.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im528.png",
+        "image_2": "fer-2013/test/sad/im529.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im528.png",
+        "image_2": "fer-2013/test/sad/im527.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im528.png",
+        "image_2": "fer-2013/test/sad/im524.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im526.png",
+        "image_2": "fer-2013/test/sad/im529.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im526.png",
+        "image_2": "fer-2013/test/sad/im527.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im526.png",
+        "image_2": "fer-2013/test/sad/im524.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im525.png",
+        "image_2": "fer-2013/test/sad/im529.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im525.png",
+        "image_2": "fer-2013/test/sad/im527.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im525.png",
+        "image_2": "fer-2013/test/sad/im524.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im541.png",
+        "image_2": "fer-2013/test/sad/im538.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im541.png",
+        "image_2": "fer-2013/test/sad/im535.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im541.png",
+        "image_2": "fer-2013/test/sad/im533.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im540.png",
+        "image_2": "fer-2013/test/sad/im538.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im540.png",
+        "image_2": "fer-2013/test/sad/im535.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im540.png",
+        "image_2": "fer-2013/test/sad/im533.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im544.png",
+        "image_2": "fer-2013/test/sad/im543.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im544.png",
+        "image_2": "fer-2013/test/sad/im550.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im544.png",
+        "image_2": "fer-2013/test/sad/im547.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im542.png",
+        "image_2": "fer-2013/test/sad/im543.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im542.png",
+        "image_2": "fer-2013/test/sad/im550.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im542.png",
+        "image_2": "fer-2013/test/sad/im547.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im55.png",
+        "image_2": "fer-2013/test/sad/im543.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im55.png",
+        "image_2": "fer-2013/test/sad/im550.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im55.png",
+        "image_2": "fer-2013/test/sad/im547.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im545.png",
+        "image_2": "fer-2013/test/sad/im543.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im545.png",
+        "image_2": "fer-2013/test/sad/im550.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im545.png",
+        "image_2": "fer-2013/test/sad/im547.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im554.png",
+        "image_2": "fer-2013/test/sad/im558.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im554.png",
+        "image_2": "fer-2013/test/sad/im557.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im554.png",
+        "image_2": "fer-2013/test/sad/im559.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im551.png",
+        "image_2": "fer-2013/test/sad/im558.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im551.png",
+        "image_2": "fer-2013/test/sad/im557.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im551.png",
+        "image_2": "fer-2013/test/sad/im559.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im556.png",
+        "image_2": "fer-2013/test/sad/im558.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im556.png",
+        "image_2": "fer-2013/test/sad/im557.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im556.png",
+        "image_2": "fer-2013/test/sad/im559.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im569.png",
+        "image_2": "fer-2013/test/sad/im567.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im569.png",
+        "image_2": "fer-2013/test/sad/im565.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im560.png",
+        "image_2": "fer-2013/test/sad/im567.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im560.png",
+        "image_2": "fer-2013/test/sad/im565.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im562.png",
+        "image_2": "fer-2013/test/sad/im567.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im562.png",
+        "image_2": "fer-2013/test/sad/im565.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im566.png",
+        "image_2": "fer-2013/test/sad/im567.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im566.png",
+        "image_2": "fer-2013/test/sad/im565.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im570.png",
+        "image_2": "fer-2013/test/sad/im571.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im570.png",
+        "image_2": "fer-2013/test/sad/im572.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im570.png",
+        "image_2": "fer-2013/test/sad/im573.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im570.png",
+        "image_2": "fer-2013/test/sad/im574.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im570.png",
+        "image_2": "fer-2013/test/sad/im578.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im570.png",
+        "image_2": "fer-2013/test/sad/im577.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im570.png",
+        "image_2": "fer-2013/test/sad/im575.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im587.png",
+        "image_2": "fer-2013/test/sad/im586.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im584.png",
+        "image_2": "fer-2013/test/sad/im586.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im59.png",
+        "image_2": "fer-2013/test/sad/im595.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im59.png",
+        "image_2": "fer-2013/test/sad/im589.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im591.png",
+        "image_2": "fer-2013/test/sad/im595.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im591.png",
+        "image_2": "fer-2013/test/sad/im589.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im594.png",
+        "image_2": "fer-2013/test/sad/im595.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im594.png",
+        "image_2": "fer-2013/test/sad/im589.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im596.png",
+        "image_2": "fer-2013/test/sad/im595.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im596.png",
+        "image_2": "fer-2013/test/sad/im589.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im600.png",
+        "image_2": "fer-2013/test/sad/im598.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im600.png",
+        "image_2": "fer-2013/test/sad/im60.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im600.png",
+        "image_2": "fer-2013/test/sad/im603.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im600.png",
+        "image_2": "fer-2013/test/sad/im602.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im600.png",
+        "image_2": "fer-2013/test/sad/im604.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im6.png",
+        "image_2": "fer-2013/test/sad/im598.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im6.png",
+        "image_2": "fer-2013/test/sad/im60.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im6.png",
+        "image_2": "fer-2013/test/sad/im603.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im6.png",
+        "image_2": "fer-2013/test/sad/im602.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im6.png",
+        "image_2": "fer-2013/test/sad/im604.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im611.png",
+        "image_2": "fer-2013/test/sad/im605.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im611.png",
+        "image_2": "fer-2013/test/sad/im61.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im611.png",
+        "image_2": "fer-2013/test/sad/im612.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im611.png",
+        "image_2": "fer-2013/test/sad/im613.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im611.png",
+        "image_2": "fer-2013/test/sad/im606.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im611.png",
+        "image_2": "fer-2013/test/sad/im607.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im614.png",
+        "image_2": "fer-2013/test/sad/im619.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im614.png",
+        "image_2": "fer-2013/test/sad/im618.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im614.png",
+        "image_2": "fer-2013/test/sad/im620.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im622.png",
+        "image_2": "fer-2013/test/sad/im619.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im622.png",
+        "image_2": "fer-2013/test/sad/im618.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im622.png",
+        "image_2": "fer-2013/test/sad/im620.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im631.png",
+        "image_2": "fer-2013/test/sad/im629.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im626.png",
+        "image_2": "fer-2013/test/sad/im629.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im627.png",
+        "image_2": "fer-2013/test/sad/im629.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im628.png",
+        "image_2": "fer-2013/test/sad/im629.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im624.png",
+        "image_2": "fer-2013/test/sad/im629.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im625.png",
+        "image_2": "fer-2013/test/sad/im629.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im635.png",
+        "image_2": "fer-2013/test/sad/im632.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im635.png",
+        "image_2": "fer-2013/test/sad/im637.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im635.png",
+        "image_2": "fer-2013/test/sad/im639.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im633.png",
+        "image_2": "fer-2013/test/sad/im632.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im633.png",
+        "image_2": "fer-2013/test/sad/im637.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im633.png",
+        "image_2": "fer-2013/test/sad/im639.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im643.png",
+        "image_2": "fer-2013/test/sad/im644.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im643.png",
+        "image_2": "fer-2013/test/sad/im646.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im643.png",
+        "image_2": "fer-2013/test/sad/im645.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im643.png",
+        "image_2": "fer-2013/test/sad/im65.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im649.png",
+        "image_2": "fer-2013/test/sad/im644.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im649.png",
+        "image_2": "fer-2013/test/sad/im646.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im649.png",
+        "image_2": "fer-2013/test/sad/im645.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im649.png",
+        "image_2": "fer-2013/test/sad/im65.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im659.png",
+        "image_2": "fer-2013/test/sad/im655.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im659.png",
+        "image_2": "fer-2013/test/sad/im654.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im659.png",
+        "image_2": "fer-2013/test/sad/im652.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im665.png",
+        "image_2": "fer-2013/test/sad/im663.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im660.png",
+        "image_2": "fer-2013/test/sad/im663.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im662.png",
+        "image_2": "fer-2013/test/sad/im663.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im668.png",
+        "image_2": "fer-2013/test/sad/im663.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im675.png",
+        "image_2": "fer-2013/test/sad/im676.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im675.png",
+        "image_2": "fer-2013/test/sad/im672.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im675.png",
+        "image_2": "fer-2013/test/sad/im671.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im674.png",
+        "image_2": "fer-2013/test/sad/im676.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im674.png",
+        "image_2": "fer-2013/test/sad/im672.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im674.png",
+        "image_2": "fer-2013/test/sad/im671.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im670.png",
+        "image_2": "fer-2013/test/sad/im676.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im670.png",
+        "image_2": "fer-2013/test/sad/im672.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im670.png",
+        "image_2": "fer-2013/test/sad/im671.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im684.png",
+        "image_2": "fer-2013/test/sad/im68.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im684.png",
+        "image_2": "fer-2013/test/sad/im679.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im684.png",
+        "image_2": "fer-2013/test/sad/im680.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im683.png",
+        "image_2": "fer-2013/test/sad/im68.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im683.png",
+        "image_2": "fer-2013/test/sad/im679.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im683.png",
+        "image_2": "fer-2013/test/sad/im680.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im682.png",
+        "image_2": "fer-2013/test/sad/im68.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im682.png",
+        "image_2": "fer-2013/test/sad/im679.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im682.png",
+        "image_2": "fer-2013/test/sad/im680.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im694.png",
+        "image_2": "fer-2013/test/sad/im691.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im694.png",
+        "image_2": "fer-2013/test/sad/im692.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im694.png",
+        "image_2": "fer-2013/test/sad/im693.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im694.png",
+        "image_2": "fer-2013/test/sad/im695.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im690.png",
+        "image_2": "fer-2013/test/sad/im691.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im690.png",
+        "image_2": "fer-2013/test/sad/im692.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im690.png",
+        "image_2": "fer-2013/test/sad/im693.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im690.png",
+        "image_2": "fer-2013/test/sad/im695.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im688.png",
+        "image_2": "fer-2013/test/sad/im691.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im688.png",
+        "image_2": "fer-2013/test/sad/im692.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im688.png",
+        "image_2": "fer-2013/test/sad/im693.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im688.png",
+        "image_2": "fer-2013/test/sad/im695.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im703.png",
+        "image_2": "fer-2013/test/sad/im698.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im703.png",
+        "image_2": "fer-2013/test/sad/im70.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im703.png",
+        "image_2": "fer-2013/test/sad/im701.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im703.png",
+        "image_2": "fer-2013/test/sad/im700.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im703.png",
+        "image_2": "fer-2013/test/sad/im7.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im705.png",
+        "image_2": "fer-2013/test/sad/im707.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im705.png",
+        "image_2": "fer-2013/test/sad/im71.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im705.png",
+        "image_2": "fer-2013/test/sad/im709.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im704.png",
+        "image_2": "fer-2013/test/sad/im707.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im704.png",
+        "image_2": "fer-2013/test/sad/im71.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im704.png",
+        "image_2": "fer-2013/test/sad/im709.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im716.png",
+        "image_2": "fer-2013/test/sad/im715.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im716.png",
+        "image_2": "fer-2013/test/sad/im720.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im718.png",
+        "image_2": "fer-2013/test/sad/im715.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im718.png",
+        "image_2": "fer-2013/test/sad/im720.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im725.png",
+        "image_2": "fer-2013/test/sad/im728.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im725.png",
+        "image_2": "fer-2013/test/sad/im73.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im725.png",
+        "image_2": "fer-2013/test/sad/im724.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im74.png",
+        "image_2": "fer-2013/test/sad/im733.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im74.png",
+        "image_2": "fer-2013/test/sad/im736.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im735.png",
+        "image_2": "fer-2013/test/sad/im733.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im735.png",
+        "image_2": "fer-2013/test/sad/im736.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im732.png",
+        "image_2": "fer-2013/test/sad/im733.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im732.png",
+        "image_2": "fer-2013/test/sad/im736.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im738.png",
+        "image_2": "fer-2013/test/sad/im733.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im738.png",
+        "image_2": "fer-2013/test/sad/im736.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im745.png",
+        "image_2": "fer-2013/test/sad/im746.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im745.png",
+        "image_2": "fer-2013/test/sad/im747.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im745.png",
+        "image_2": "fer-2013/test/sad/im744.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im745.png",
+        "image_2": "fer-2013/test/sad/im742.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im740.png",
+        "image_2": "fer-2013/test/sad/im746.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im740.png",
+        "image_2": "fer-2013/test/sad/im747.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im740.png",
+        "image_2": "fer-2013/test/sad/im744.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im740.png",
+        "image_2": "fer-2013/test/sad/im742.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im749.png",
+        "image_2": "fer-2013/test/sad/im746.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im749.png",
+        "image_2": "fer-2013/test/sad/im747.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im749.png",
+        "image_2": "fer-2013/test/sad/im744.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im749.png",
+        "image_2": "fer-2013/test/sad/im742.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im756.png",
+        "image_2": "fer-2013/test/sad/im757.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im756.png",
+        "image_2": "fer-2013/test/sad/im754.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im751.png",
+        "image_2": "fer-2013/test/sad/im757.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im751.png",
+        "image_2": "fer-2013/test/sad/im754.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im758.png",
+        "image_2": "fer-2013/test/sad/im757.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im758.png",
+        "image_2": "fer-2013/test/sad/im754.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im765.png",
+        "image_2": "fer-2013/test/sad/im761.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im780.png",
+        "image_2": "fer-2013/test/sad/im777.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im780.png",
+        "image_2": "fer-2013/test/sad/im781.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im780.png",
+        "image_2": "fer-2013/test/sad/im785.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im784.png",
+        "image_2": "fer-2013/test/sad/im777.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im784.png",
+        "image_2": "fer-2013/test/sad/im781.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im784.png",
+        "image_2": "fer-2013/test/sad/im785.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im778.png",
+        "image_2": "fer-2013/test/sad/im777.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im778.png",
+        "image_2": "fer-2013/test/sad/im781.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im778.png",
+        "image_2": "fer-2013/test/sad/im785.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im79.png",
+        "image_2": "fer-2013/test/sad/im789.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im79.png",
+        "image_2": "fer-2013/test/sad/im792.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im79.png",
+        "image_2": "fer-2013/test/sad/im791.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im79.png",
+        "image_2": "fer-2013/test/sad/im793.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im787.png",
+        "image_2": "fer-2013/test/sad/im789.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im787.png",
+        "image_2": "fer-2013/test/sad/im792.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im787.png",
+        "image_2": "fer-2013/test/sad/im791.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im787.png",
+        "image_2": "fer-2013/test/sad/im793.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im786.png",
+        "image_2": "fer-2013/test/sad/im789.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im786.png",
+        "image_2": "fer-2013/test/sad/im792.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im786.png",
+        "image_2": "fer-2013/test/sad/im791.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im786.png",
+        "image_2": "fer-2013/test/sad/im793.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im796.png",
+        "image_2": "fer-2013/test/sad/im800.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im796.png",
+        "image_2": "fer-2013/test/sad/im80.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im796.png",
+        "image_2": "fer-2013/test/sad/im798.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im795.png",
+        "image_2": "fer-2013/test/sad/im800.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im795.png",
+        "image_2": "fer-2013/test/sad/im80.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im795.png",
+        "image_2": "fer-2013/test/sad/im798.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im81.png",
+        "image_2": "fer-2013/test/sad/im803.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im81.png",
+        "image_2": "fer-2013/test/sad/im807.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im81.png",
+        "image_2": "fer-2013/test/sad/im806.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im81.png",
+        "image_2": "fer-2013/test/sad/im809.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im804.png",
+        "image_2": "fer-2013/test/sad/im803.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im804.png",
+        "image_2": "fer-2013/test/sad/im807.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im804.png",
+        "image_2": "fer-2013/test/sad/im806.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im804.png",
+        "image_2": "fer-2013/test/sad/im809.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im805.png",
+        "image_2": "fer-2013/test/sad/im803.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im805.png",
+        "image_2": "fer-2013/test/sad/im807.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im805.png",
+        "image_2": "fer-2013/test/sad/im806.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im805.png",
+        "image_2": "fer-2013/test/sad/im809.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im816.png",
+        "image_2": "fer-2013/test/sad/im818.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im816.png",
+        "image_2": "fer-2013/test/sad/im817.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im816.png",
+        "image_2": "fer-2013/test/sad/im812.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im816.png",
+        "image_2": "fer-2013/test/sad/im814.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im82.png",
+        "image_2": "fer-2013/test/sad/im818.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im82.png",
+        "image_2": "fer-2013/test/sad/im817.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im82.png",
+        "image_2": "fer-2013/test/sad/im812.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im82.png",
+        "image_2": "fer-2013/test/sad/im814.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im828.png",
+        "image_2": "fer-2013/test/sad/im83.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im828.png",
+        "image_2": "fer-2013/test/sad/im826.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im828.png",
+        "image_2": "fer-2013/test/sad/im821.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im831.png",
+        "image_2": "fer-2013/test/sad/im832.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im831.png",
+        "image_2": "fer-2013/test/sad/im835.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im831.png",
+        "image_2": "fer-2013/test/sad/im838.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im831.png",
+        "image_2": "fer-2013/test/sad/im839.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im848.png",
+        "image_2": "fer-2013/test/sad/im844.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im848.png",
+        "image_2": "fer-2013/test/sad/im841.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im848.png",
+        "image_2": "fer-2013/test/sad/im840.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im843.png",
+        "image_2": "fer-2013/test/sad/im844.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im843.png",
+        "image_2": "fer-2013/test/sad/im841.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im843.png",
+        "image_2": "fer-2013/test/sad/im840.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im855.png",
+        "image_2": "fer-2013/test/sad/im856.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im855.png",
+        "image_2": "fer-2013/test/sad/im854.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im852.png",
+        "image_2": "fer-2013/test/sad/im856.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im852.png",
+        "image_2": "fer-2013/test/sad/im854.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im851.png",
+        "image_2": "fer-2013/test/sad/im856.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im851.png",
+        "image_2": "fer-2013/test/sad/im854.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im864.png",
+        "image_2": "fer-2013/test/sad/im865.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im864.png",
+        "image_2": "fer-2013/test/sad/im859.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im864.png",
+        "image_2": "fer-2013/test/sad/im858.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im87.png",
+        "image_2": "fer-2013/test/sad/im875.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im87.png",
+        "image_2": "fer-2013/test/sad/im872.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im87.png",
+        "image_2": "fer-2013/test/sad/im869.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im870.png",
+        "image_2": "fer-2013/test/sad/im875.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im870.png",
+        "image_2": "fer-2013/test/sad/im872.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im870.png",
+        "image_2": "fer-2013/test/sad/im869.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im877.png",
+        "image_2": "fer-2013/test/sad/im880.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im877.png",
+        "image_2": "fer-2013/test/sad/im878.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im879.png",
+        "image_2": "fer-2013/test/sad/im880.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im879.png",
+        "image_2": "fer-2013/test/sad/im878.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im884.png",
+        "image_2": "fer-2013/test/sad/im880.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im884.png",
+        "image_2": "fer-2013/test/sad/im878.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im890.png",
+        "image_2": "fer-2013/test/sad/im887.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im890.png",
+        "image_2": "fer-2013/test/sad/im886.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im890.png",
+        "image_2": "fer-2013/test/sad/im893.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im892.png",
+        "image_2": "fer-2013/test/sad/im887.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im892.png",
+        "image_2": "fer-2013/test/sad/im886.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im892.png",
+        "image_2": "fer-2013/test/sad/im893.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im889.png",
+        "image_2": "fer-2013/test/sad/im887.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im889.png",
+        "image_2": "fer-2013/test/sad/im886.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im889.png",
+        "image_2": "fer-2013/test/sad/im893.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im896.png",
+        "image_2": "fer-2013/test/sad/im900.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im896.png",
+        "image_2": "fer-2013/test/sad/im9.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im896.png",
+        "image_2": "fer-2013/test/sad/im898.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im90.png",
+        "image_2": "fer-2013/test/sad/im900.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im90.png",
+        "image_2": "fer-2013/test/sad/im9.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im90.png",
+        "image_2": "fer-2013/test/sad/im898.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im910.png",
+        "image_2": "fer-2013/test/sad/im902.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im910.png",
+        "image_2": "fer-2013/test/sad/im906.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im917.png",
+        "image_2": "fer-2013/test/sad/im915.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im917.png",
+        "image_2": "fer-2013/test/sad/im916.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im917.png",
+        "image_2": "fer-2013/test/sad/im918.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im917.png",
+        "image_2": "fer-2013/test/sad/im92.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im914.png",
+        "image_2": "fer-2013/test/sad/im915.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im914.png",
+        "image_2": "fer-2013/test/sad/im916.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im914.png",
+        "image_2": "fer-2013/test/sad/im918.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im914.png",
+        "image_2": "fer-2013/test/sad/im92.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im913.png",
+        "image_2": "fer-2013/test/sad/im915.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im913.png",
+        "image_2": "fer-2013/test/sad/im916.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im913.png",
+        "image_2": "fer-2013/test/sad/im918.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im913.png",
+        "image_2": "fer-2013/test/sad/im92.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im921.png",
+        "image_2": "fer-2013/test/sad/im925.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im921.png",
+        "image_2": "fer-2013/test/sad/im920.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im927.png",
+        "image_2": "fer-2013/test/sad/im925.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im927.png",
+        "image_2": "fer-2013/test/sad/im920.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im931.png",
+        "image_2": "fer-2013/test/sad/im936.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im931.png",
+        "image_2": "fer-2013/test/sad/im935.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im938.png",
+        "image_2": "fer-2013/test/sad/im936.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im938.png",
+        "image_2": "fer-2013/test/sad/im935.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im942.png",
+        "image_2": "fer-2013/test/sad/im939.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im940.png",
+        "image_2": "fer-2013/test/sad/im939.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im94.png",
+        "image_2": "fer-2013/test/sad/im939.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im943.png",
+        "image_2": "fer-2013/test/sad/im939.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im953.png",
+        "image_2": "fer-2013/test/sad/im948.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im953.png",
+        "image_2": "fer-2013/test/sad/im95.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im951.png",
+        "image_2": "fer-2013/test/sad/im948.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im951.png",
+        "image_2": "fer-2013/test/sad/im95.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im960.png",
+        "image_2": "fer-2013/test/sad/im958.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im960.png",
+        "image_2": "fer-2013/test/sad/im962.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im965.png",
+        "image_2": "fer-2013/test/sad/im958.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im965.png",
+        "image_2": "fer-2013/test/sad/im962.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im964.png",
+        "image_2": "fer-2013/test/sad/im958.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im964.png",
+        "image_2": "fer-2013/test/sad/im962.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im969.png",
+        "image_2": "fer-2013/test/sad/im972.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im969.png",
+        "image_2": "fer-2013/test/sad/im968.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im969.png",
+        "image_2": "fer-2013/test/sad/im967.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im966.png",
+        "image_2": "fer-2013/test/sad/im972.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im966.png",
+        "image_2": "fer-2013/test/sad/im968.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im966.png",
+        "image_2": "fer-2013/test/sad/im967.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im977.png",
+        "image_2": "fer-2013/test/sad/im982.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im977.png",
+        "image_2": "fer-2013/test/sad/im976.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im987.png",
+        "image_2": "fer-2013/test/sad/im99.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im987.png",
+        "image_2": "fer-2013/test/sad/im991.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im987.png",
+        "image_2": "fer-2013/test/sad/im992.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im984.png",
+        "image_2": "fer-2013/test/sad/im99.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im984.png",
+        "image_2": "fer-2013/test/sad/im991.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im984.png",
+        "image_2": "fer-2013/test/sad/im992.png",
+        "question": "Which person feels more sad?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im995.png",
+        "image_2": "fer-2013/test/sad/im997.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im995.png",
+        "image_2": "fer-2013/test/sad/im999.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im995.png",
+        "image_2": "fer-2013/test/sad/im998.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im993.png",
+        "image_2": "fer-2013/test/sad/im997.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im993.png",
+        "image_2": "fer-2013/test/sad/im999.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/sad/im993.png",
+        "image_2": "fer-2013/test/sad/im998.png",
+        "question": "Which person feels more sad?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im105.png",
+        "image_2": "fer-2013/test/surprised/im104.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im103.png",
+        "image_2": "fer-2013/test/surprised/im104.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im102.png",
+        "image_2": "fer-2013/test/surprised/im104.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im1.png",
+        "image_2": "fer-2013/test/surprised/im104.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im0.png",
+        "image_2": "fer-2013/test/surprised/im104.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im11.png",
+        "image_2": "fer-2013/test/surprised/im111.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im11.png",
+        "image_2": "fer-2013/test/surprised/im107.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im109.png",
+        "image_2": "fer-2013/test/surprised/im111.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im109.png",
+        "image_2": "fer-2013/test/surprised/im107.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im113.png",
+        "image_2": "fer-2013/test/surprised/im111.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im113.png",
+        "image_2": "fer-2013/test/surprised/im107.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im122.png",
+        "image_2": "fer-2013/test/surprised/im117.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im122.png",
+        "image_2": "fer-2013/test/surprised/im116.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im122.png",
+        "image_2": "fer-2013/test/surprised/im123.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im120.png",
+        "image_2": "fer-2013/test/surprised/im117.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im120.png",
+        "image_2": "fer-2013/test/surprised/im116.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im120.png",
+        "image_2": "fer-2013/test/surprised/im123.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im126.png",
+        "image_2": "fer-2013/test/surprised/im128.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im127.png",
+        "image_2": "fer-2013/test/surprised/im128.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im13.png",
+        "image_2": "fer-2013/test/surprised/im128.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im129.png",
+        "image_2": "fer-2013/test/surprised/im128.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im135.png",
+        "image_2": "fer-2013/test/surprised/im134.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im135.png",
+        "image_2": "fer-2013/test/surprised/im136.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im135.png",
+        "image_2": "fer-2013/test/surprised/im137.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im135.png",
+        "image_2": "fer-2013/test/surprised/im14.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im135.png",
+        "image_2": "fer-2013/test/surprised/im141.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im145.png",
+        "image_2": "fer-2013/test/surprised/im147.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im143.png",
+        "image_2": "fer-2013/test/surprised/im147.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im152.png",
+        "image_2": "fer-2013/test/surprised/im16.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im152.png",
+        "image_2": "fer-2013/test/surprised/im156.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im152.png",
+        "image_2": "fer-2013/test/surprised/im158.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im168.png",
+        "image_2": "fer-2013/test/surprised/im169.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im170.png",
+        "image_2": "fer-2013/test/surprised/im177.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im173.png",
+        "image_2": "fer-2013/test/surprised/im177.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im180.png",
+        "image_2": "fer-2013/test/surprised/im183.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im18.png",
+        "image_2": "fer-2013/test/surprised/im183.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im187.png",
+        "image_2": "fer-2013/test/surprised/im183.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im194.png",
+        "image_2": "fer-2013/test/surprised/im192.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im196.png",
+        "image_2": "fer-2013/test/surprised/im192.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im197.png",
+        "image_2": "fer-2013/test/surprised/im192.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im199.png",
+        "image_2": "fer-2013/test/surprised/im200.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im199.png",
+        "image_2": "fer-2013/test/surprised/im205.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im198.png",
+        "image_2": "fer-2013/test/surprised/im200.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im198.png",
+        "image_2": "fer-2013/test/surprised/im205.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im2.png",
+        "image_2": "fer-2013/test/surprised/im200.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im2.png",
+        "image_2": "fer-2013/test/surprised/im205.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im210.png",
+        "image_2": "fer-2013/test/surprised/im211.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im214.png",
+        "image_2": "fer-2013/test/surprised/im211.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im215.png",
+        "image_2": "fer-2013/test/surprised/im217.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im215.png",
+        "image_2": "fer-2013/test/surprised/im219.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im215.png",
+        "image_2": "fer-2013/test/surprised/im223.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im229.png",
+        "image_2": "fer-2013/test/surprised/im232.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im231.png",
+        "image_2": "fer-2013/test/surprised/im232.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im230.png",
+        "image_2": "fer-2013/test/surprised/im232.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im227.png",
+        "image_2": "fer-2013/test/surprised/im232.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im224.png",
+        "image_2": "fer-2013/test/surprised/im232.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im234.png",
+        "image_2": "fer-2013/test/surprised/im236.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im237.png",
+        "image_2": "fer-2013/test/surprised/im236.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im241.png",
+        "image_2": "fer-2013/test/surprised/im236.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im242.png",
+        "image_2": "fer-2013/test/surprised/im249.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im247.png",
+        "image_2": "fer-2013/test/surprised/im249.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im244.png",
+        "image_2": "fer-2013/test/surprised/im249.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im248.png",
+        "image_2": "fer-2013/test/surprised/im249.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im250.png",
+        "image_2": "fer-2013/test/surprised/im249.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im26.png",
+        "image_2": "fer-2013/test/surprised/im251.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im257.png",
+        "image_2": "fer-2013/test/surprised/im251.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im258.png",
+        "image_2": "fer-2013/test/surprised/im251.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im259.png",
+        "image_2": "fer-2013/test/surprised/im251.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im252.png",
+        "image_2": "fer-2013/test/surprised/im251.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im254.png",
+        "image_2": "fer-2013/test/surprised/im251.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im262.png",
+        "image_2": "fer-2013/test/surprised/im269.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im265.png",
+        "image_2": "fer-2013/test/surprised/im269.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im263.png",
+        "image_2": "fer-2013/test/surprised/im269.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im271.png",
+        "image_2": "fer-2013/test/surprised/im274.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im271.png",
+        "image_2": "fer-2013/test/surprised/im276.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im270.png",
+        "image_2": "fer-2013/test/surprised/im274.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im270.png",
+        "image_2": "fer-2013/test/surprised/im276.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im27.png",
+        "image_2": "fer-2013/test/surprised/im274.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im27.png",
+        "image_2": "fer-2013/test/surprised/im276.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im272.png",
+        "image_2": "fer-2013/test/surprised/im274.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im272.png",
+        "image_2": "fer-2013/test/surprised/im276.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im277.png",
+        "image_2": "fer-2013/test/surprised/im274.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im277.png",
+        "image_2": "fer-2013/test/surprised/im276.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im278.png",
+        "image_2": "fer-2013/test/surprised/im274.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im278.png",
+        "image_2": "fer-2013/test/surprised/im276.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im286.png",
+        "image_2": "fer-2013/test/surprised/im285.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im286.png",
+        "image_2": "fer-2013/test/surprised/im279.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im286.png",
+        "image_2": "fer-2013/test/surprised/im281.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im28.png",
+        "image_2": "fer-2013/test/surprised/im285.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im28.png",
+        "image_2": "fer-2013/test/surprised/im279.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im28.png",
+        "image_2": "fer-2013/test/surprised/im281.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im280.png",
+        "image_2": "fer-2013/test/surprised/im285.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im280.png",
+        "image_2": "fer-2013/test/surprised/im279.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im280.png",
+        "image_2": "fer-2013/test/surprised/im281.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im292.png",
+        "image_2": "fer-2013/test/surprised/im289.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im292.png",
+        "image_2": "fer-2013/test/surprised/im293.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im292.png",
+        "image_2": "fer-2013/test/surprised/im296.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im292.png",
+        "image_2": "fer-2013/test/surprised/im29.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im298.png",
+        "image_2": "fer-2013/test/surprised/im30.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im298.png",
+        "image_2": "fer-2013/test/surprised/im301.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im298.png",
+        "image_2": "fer-2013/test/surprised/im302.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im298.png",
+        "image_2": "fer-2013/test/surprised/im304.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im298.png",
+        "image_2": "fer-2013/test/surprised/im303.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im297.png",
+        "image_2": "fer-2013/test/surprised/im30.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im297.png",
+        "image_2": "fer-2013/test/surprised/im301.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im297.png",
+        "image_2": "fer-2013/test/surprised/im302.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im297.png",
+        "image_2": "fer-2013/test/surprised/im304.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im297.png",
+        "image_2": "fer-2013/test/surprised/im303.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im313.png",
+        "image_2": "fer-2013/test/surprised/im307.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im311.png",
+        "image_2": "fer-2013/test/surprised/im307.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im315.png",
+        "image_2": "fer-2013/test/surprised/im318.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im316.png",
+        "image_2": "fer-2013/test/surprised/im318.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im320.png",
+        "image_2": "fer-2013/test/surprised/im318.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im325.png",
+        "image_2": "fer-2013/test/surprised/im330.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im328.png",
+        "image_2": "fer-2013/test/surprised/im330.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im332.png",
+        "image_2": "fer-2013/test/surprised/im340.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im336.png",
+        "image_2": "fer-2013/test/surprised/im340.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im337.png",
+        "image_2": "fer-2013/test/surprised/im340.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im339.png",
+        "image_2": "fer-2013/test/surprised/im340.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im338.png",
+        "image_2": "fer-2013/test/surprised/im340.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im346.png",
+        "image_2": "fer-2013/test/surprised/im341.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im346.png",
+        "image_2": "fer-2013/test/surprised/im342.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im346.png",
+        "image_2": "fer-2013/test/surprised/im343.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im346.png",
+        "image_2": "fer-2013/test/surprised/im347.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im35.png",
+        "image_2": "fer-2013/test/surprised/im341.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im35.png",
+        "image_2": "fer-2013/test/surprised/im342.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im35.png",
+        "image_2": "fer-2013/test/surprised/im343.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im35.png",
+        "image_2": "fer-2013/test/surprised/im347.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im356.png",
+        "image_2": "fer-2013/test/surprised/im359.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im353.png",
+        "image_2": "fer-2013/test/surprised/im359.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im362.png",
+        "image_2": "fer-2013/test/surprised/im366.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im362.png",
+        "image_2": "fer-2013/test/surprised/im368.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im364.png",
+        "image_2": "fer-2013/test/surprised/im366.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im364.png",
+        "image_2": "fer-2013/test/surprised/im368.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im360.png",
+        "image_2": "fer-2013/test/surprised/im366.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im360.png",
+        "image_2": "fer-2013/test/surprised/im368.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im373.png",
+        "image_2": "fer-2013/test/surprised/im372.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im373.png",
+        "image_2": "fer-2013/test/surprised/im370.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im373.png",
+        "image_2": "fer-2013/test/surprised/im369.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im373.png",
+        "image_2": "fer-2013/test/surprised/im376.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im373.png",
+        "image_2": "fer-2013/test/surprised/im377.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im378.png",
+        "image_2": "fer-2013/test/surprised/im382.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im378.png",
+        "image_2": "fer-2013/test/surprised/im385.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im381.png",
+        "image_2": "fer-2013/test/surprised/im382.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im381.png",
+        "image_2": "fer-2013/test/surprised/im385.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im380.png",
+        "image_2": "fer-2013/test/surprised/im382.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im380.png",
+        "image_2": "fer-2013/test/surprised/im385.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im387.png",
+        "image_2": "fer-2013/test/surprised/im39.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im387.png",
+        "image_2": "fer-2013/test/surprised/im389.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im395.png",
+        "image_2": "fer-2013/test/surprised/im39.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im395.png",
+        "image_2": "fer-2013/test/surprised/im389.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im394.png",
+        "image_2": "fer-2013/test/surprised/im39.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im394.png",
+        "image_2": "fer-2013/test/surprised/im389.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im396.png",
+        "image_2": "fer-2013/test/surprised/im400.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im397.png",
+        "image_2": "fer-2013/test/surprised/im400.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im4.png",
+        "image_2": "fer-2013/test/surprised/im400.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im404.png",
+        "image_2": "fer-2013/test/surprised/im409.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im408.png",
+        "image_2": "fer-2013/test/surprised/im409.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im407.png",
+        "image_2": "fer-2013/test/surprised/im409.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im42.png",
+        "image_2": "fer-2013/test/surprised/im420.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im42.png",
+        "image_2": "fer-2013/test/surprised/im417.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im42.png",
+        "image_2": "fer-2013/test/surprised/im418.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im42.png",
+        "image_2": "fer-2013/test/surprised/im413.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im421.png",
+        "image_2": "fer-2013/test/surprised/im420.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im421.png",
+        "image_2": "fer-2013/test/surprised/im417.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im421.png",
+        "image_2": "fer-2013/test/surprised/im418.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im421.png",
+        "image_2": "fer-2013/test/surprised/im413.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im428.png",
+        "image_2": "fer-2013/test/surprised/im424.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im427.png",
+        "image_2": "fer-2013/test/surprised/im424.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im426.png",
+        "image_2": "fer-2013/test/surprised/im424.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im425.png",
+        "image_2": "fer-2013/test/surprised/im424.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im435.png",
+        "image_2": "fer-2013/test/surprised/im439.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im434.png",
+        "image_2": "fer-2013/test/surprised/im439.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im437.png",
+        "image_2": "fer-2013/test/surprised/im439.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im446.png",
+        "image_2": "fer-2013/test/surprised/im449.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im446.png",
+        "image_2": "fer-2013/test/surprised/im441.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im455.png",
+        "image_2": "fer-2013/test/surprised/im45.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im455.png",
+        "image_2": "fer-2013/test/surprised/im451.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im455.png",
+        "image_2": "fer-2013/test/surprised/im450.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im459.png",
+        "image_2": "fer-2013/test/surprised/im461.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im460.png",
+        "image_2": "fer-2013/test/surprised/im461.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im463.png",
+        "image_2": "fer-2013/test/surprised/im461.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im466.png",
+        "image_2": "fer-2013/test/surprised/im461.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im469.png",
+        "image_2": "fer-2013/test/surprised/im471.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im47.png",
+        "image_2": "fer-2013/test/surprised/im471.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im474.png",
+        "image_2": "fer-2013/test/surprised/im471.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im485.png",
+        "image_2": "fer-2013/test/surprised/im478.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im485.png",
+        "image_2": "fer-2013/test/surprised/im477.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im485.png",
+        "image_2": "fer-2013/test/surprised/im483.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im488.png",
+        "image_2": "fer-2013/test/surprised/im494.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im488.png",
+        "image_2": "fer-2013/test/surprised/im489.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im488.png",
+        "image_2": "fer-2013/test/surprised/im492.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im488.png",
+        "image_2": "fer-2013/test/surprised/im491.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im502.png",
+        "image_2": "fer-2013/test/surprised/im500.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im50.png",
+        "image_2": "fer-2013/test/surprised/im500.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im5.png",
+        "image_2": "fer-2013/test/surprised/im500.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im497.png",
+        "image_2": "fer-2013/test/surprised/im500.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im516.png",
+        "image_2": "fer-2013/test/surprised/im513.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im517.png",
+        "image_2": "fer-2013/test/surprised/im513.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im519.png",
+        "image_2": "fer-2013/test/surprised/im513.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im520.png",
+        "image_2": "fer-2013/test/surprised/im513.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im523.png",
+        "image_2": "fer-2013/test/surprised/im525.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im523.png",
+        "image_2": "fer-2013/test/surprised/im53.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im523.png",
+        "image_2": "fer-2013/test/surprised/im521.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im536.png",
+        "image_2": "fer-2013/test/surprised/im537.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im536.png",
+        "image_2": "fer-2013/test/surprised/im531.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im536.png",
+        "image_2": "fer-2013/test/surprised/im530.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im536.png",
+        "image_2": "fer-2013/test/surprised/im532.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im548.png",
+        "image_2": "fer-2013/test/surprised/im543.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im545.png",
+        "image_2": "fer-2013/test/surprised/im543.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im546.png",
+        "image_2": "fer-2013/test/surprised/im543.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im554.png",
+        "image_2": "fer-2013/test/surprised/im551.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im554.png",
+        "image_2": "fer-2013/test/surprised/im557.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im555.png",
+        "image_2": "fer-2013/test/surprised/im551.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im555.png",
+        "image_2": "fer-2013/test/surprised/im557.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im552.png",
+        "image_2": "fer-2013/test/surprised/im551.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im552.png",
+        "image_2": "fer-2013/test/surprised/im557.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im549.png",
+        "image_2": "fer-2013/test/surprised/im551.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im549.png",
+        "image_2": "fer-2013/test/surprised/im557.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im559.png",
+        "image_2": "fer-2013/test/surprised/im562.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im56.png",
+        "image_2": "fer-2013/test/surprised/im562.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im561.png",
+        "image_2": "fer-2013/test/surprised/im562.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im564.png",
+        "image_2": "fer-2013/test/surprised/im562.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im563.png",
+        "image_2": "fer-2013/test/surprised/im562.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im566.png",
+        "image_2": "fer-2013/test/surprised/im562.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im575.png",
+        "image_2": "fer-2013/test/surprised/im568.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im572.png",
+        "image_2": "fer-2013/test/surprised/im568.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im573.png",
+        "image_2": "fer-2013/test/surprised/im568.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im580.png",
+        "image_2": "fer-2013/test/surprised/im576.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im580.png",
+        "image_2": "fer-2013/test/surprised/im582.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im580.png",
+        "image_2": "fer-2013/test/surprised/im583.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im589.png",
+        "image_2": "fer-2013/test/surprised/im59.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im587.png",
+        "image_2": "fer-2013/test/surprised/im59.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im598.png",
+        "image_2": "fer-2013/test/surprised/im60.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im598.png",
+        "image_2": "fer-2013/test/surprised/im596.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im598.png",
+        "image_2": "fer-2013/test/surprised/im599.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im597.png",
+        "image_2": "fer-2013/test/surprised/im60.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im597.png",
+        "image_2": "fer-2013/test/surprised/im596.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im597.png",
+        "image_2": "fer-2013/test/surprised/im599.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im605.png",
+        "image_2": "fer-2013/test/surprised/im609.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im605.png",
+        "image_2": "fer-2013/test/surprised/im610.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im611.png",
+        "image_2": "fer-2013/test/surprised/im614.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im612.png",
+        "image_2": "fer-2013/test/surprised/im614.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im617.png",
+        "image_2": "fer-2013/test/surprised/im614.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im62.png",
+        "image_2": "fer-2013/test/surprised/im614.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im620.png",
+        "image_2": "fer-2013/test/surprised/im625.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im620.png",
+        "image_2": "fer-2013/test/surprised/im628.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im639.png",
+        "image_2": "fer-2013/test/surprised/im646.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im639.png",
+        "image_2": "fer-2013/test/surprised/im647.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im655.png",
+        "image_2": "fer-2013/test/surprised/im649.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im654.png",
+        "image_2": "fer-2013/test/surprised/im649.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im650.png",
+        "image_2": "fer-2013/test/surprised/im649.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im659.png",
+        "image_2": "fer-2013/test/surprised/im660.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im659.png",
+        "image_2": "fer-2013/test/surprised/im662.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im683.png",
+        "image_2": "fer-2013/test/surprised/im679.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im683.png",
+        "image_2": "fer-2013/test/surprised/im68.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im683.png",
+        "image_2": "fer-2013/test/surprised/im675.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im700.png",
+        "image_2": "fer-2013/test/surprised/im694.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im700.png",
+        "image_2": "fer-2013/test/surprised/im695.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im699.png",
+        "image_2": "fer-2013/test/surprised/im694.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im699.png",
+        "image_2": "fer-2013/test/surprised/im695.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im7.png",
+        "image_2": "fer-2013/test/surprised/im694.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im7.png",
+        "image_2": "fer-2013/test/surprised/im695.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im70.png",
+        "image_2": "fer-2013/test/surprised/im694.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im70.png",
+        "image_2": "fer-2013/test/surprised/im695.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im697.png",
+        "image_2": "fer-2013/test/surprised/im694.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im697.png",
+        "image_2": "fer-2013/test/surprised/im695.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im704.png",
+        "image_2": "fer-2013/test/surprised/im705.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im704.png",
+        "image_2": "fer-2013/test/surprised/im706.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im704.png",
+        "image_2": "fer-2013/test/surprised/im707.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im728.png",
+        "image_2": "fer-2013/test/surprised/im726.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im728.png",
+        "image_2": "fer-2013/test/surprised/im725.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im728.png",
+        "image_2": "fer-2013/test/surprised/im727.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im728.png",
+        "image_2": "fer-2013/test/surprised/im724.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im736.png",
+        "image_2": "fer-2013/test/surprised/im737.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im736.png",
+        "image_2": "fer-2013/test/surprised/im731.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im752.png",
+        "image_2": "fer-2013/test/surprised/im754.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im755.png",
+        "image_2": "fer-2013/test/surprised/im754.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im750.png",
+        "image_2": "fer-2013/test/surprised/im754.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im747.png",
+        "image_2": "fer-2013/test/surprised/im754.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im769.png",
+        "image_2": "fer-2013/test/surprised/im770.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im769.png",
+        "image_2": "fer-2013/test/surprised/im773.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im772.png",
+        "image_2": "fer-2013/test/surprised/im770.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im772.png",
+        "image_2": "fer-2013/test/surprised/im773.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im766.png",
+        "image_2": "fer-2013/test/surprised/im770.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im766.png",
+        "image_2": "fer-2013/test/surprised/im773.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im765.png",
+        "image_2": "fer-2013/test/surprised/im770.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im765.png",
+        "image_2": "fer-2013/test/surprised/im773.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im78.png",
+        "image_2": "fer-2013/test/surprised/im782.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im78.png",
+        "image_2": "fer-2013/test/surprised/im781.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im78.png",
+        "image_2": "fer-2013/test/surprised/im779.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im777.png",
+        "image_2": "fer-2013/test/surprised/im782.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im777.png",
+        "image_2": "fer-2013/test/surprised/im781.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im777.png",
+        "image_2": "fer-2013/test/surprised/im779.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im774.png",
+        "image_2": "fer-2013/test/surprised/im782.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im774.png",
+        "image_2": "fer-2013/test/surprised/im781.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im774.png",
+        "image_2": "fer-2013/test/surprised/im779.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im776.png",
+        "image_2": "fer-2013/test/surprised/im782.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im776.png",
+        "image_2": "fer-2013/test/surprised/im781.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im776.png",
+        "image_2": "fer-2013/test/surprised/im779.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im775.png",
+        "image_2": "fer-2013/test/surprised/im782.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im775.png",
+        "image_2": "fer-2013/test/surprised/im781.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im775.png",
+        "image_2": "fer-2013/test/surprised/im779.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im795.png",
+        "image_2": "fer-2013/test/surprised/im793.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im795.png",
+        "image_2": "fer-2013/test/surprised/im798.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im795.png",
+        "image_2": "fer-2013/test/surprised/im80.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im800.png",
+        "image_2": "fer-2013/test/surprised/im801.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im800.png",
+        "image_2": "fer-2013/test/surprised/im807.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im815.png",
+        "image_2": "fer-2013/test/surprised/im817.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im812.png",
+        "image_2": "fer-2013/test/surprised/im817.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im827.png",
+        "image_2": "fer-2013/test/surprised/im825.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im827.png",
+        "image_2": "fer-2013/test/surprised/im819.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im826.png",
+        "image_2": "fer-2013/test/surprised/im825.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im826.png",
+        "image_2": "fer-2013/test/surprised/im819.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im821.png",
+        "image_2": "fer-2013/test/surprised/im825.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im821.png",
+        "image_2": "fer-2013/test/surprised/im819.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im89.png",
+        "image_2": "fer-2013/test/surprised/im86.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im89.png",
+        "image_2": "fer-2013/test/surprised/im87.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im89.png",
+        "image_2": "fer-2013/test/surprised/im84.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im85.png",
+        "image_2": "fer-2013/test/surprised/im86.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im85.png",
+        "image_2": "fer-2013/test/surprised/im87.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im85.png",
+        "image_2": "fer-2013/test/surprised/im84.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im828.png",
+        "image_2": "fer-2013/test/surprised/im86.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im828.png",
+        "image_2": "fer-2013/test/surprised/im87.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/surprised/im828.png",
+        "image_2": "fer-2013/test/surprised/im84.png",
+        "question": "Which person feels more surprised?",
+        "answer": "Right"
+    }
+]

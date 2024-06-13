@@ -1,0 +1,2827 @@
+[
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0045.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0011.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0022.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0038.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0010.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0015.jpg",
+    "answer": "Left",
+    "question": "Which fish has a longer mouth with a greater distance between the tip of the mouth and the eyeball?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0009.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0088.jpg",
+    "answer": "Right",
+    "question": "Which fish has a more right-angled tip of the anal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0016.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0053.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0045.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0012.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0061.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0014.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0000.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0019.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0038.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0039.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0023.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0049.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0044.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0036.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0003.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0066.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more rounded chest?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0032.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0054.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0003.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0004.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0009.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0044.jpg",
+    "answer": "Left",
+    "question": " Which fish has more striae present behind the pectoral fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0028.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0053.jpg",
+    "answer": "Left",
+    "question": "Which fish has the last body bar more bordered in yellow?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0022.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0036.jpg",
+    "answer": "Left",
+    "question": "Which fish has a sharper angle than 90 degrees at the tip of the anal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0024.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0032.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0038.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0003.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0023.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0003.jpg",
+    "answer": "Left",
+    "question": "Which fish is more black with variable orange on the head, ventral parts, and fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0012.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0057.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0004.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0040.jpg",
+    "answer": "Left",
+    "question": "Which fish has more yellow pelvic fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0007.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0036.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0010.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0039.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0022.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0049.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0032.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0049.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0014.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0027.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0004.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0057.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0060.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0001.jpg",
+    "answer": "Left",
+    "question": "Which fish has a longer mouth with a greater distance between the tip of the mouth and the eyeball?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0000.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0010.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0037.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0037.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0019.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0017.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0028.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0099.jpg",
+    "answer": "Left",
+    "question": "Which fish has more yellow pelvic fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0056.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0012.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0039.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0037.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0064.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0024.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0002.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0024.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0063.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0012.jpg",
+    "answer": "Left",
+    "question": "Which fish has the last body bar more bordered in yellow?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0024.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0037.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_akindynos-Amphiprion_chrysopterus/Amphiprion_akindynos/Amphiprion_akindynos_0052.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_akindynos-Amphiprion_chrysopterus/Amphiprion_akindynos/Amphiprion_akindynos_0037.jpg",
+    "answer": "Right",
+    "question": "Which fish has anal fins that are more black?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0063.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0053.jpg",
+    "answer": "Left",
+    "question": "Which fish has the last body bar more bordered in yellow?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0032.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0020.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0034.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0029.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0056.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0044.jpg",
+    "answer": "Left",
+    "question": "Which fish has more red tips on the tail in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0038.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0033.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0080.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0067.jpg",
+    "answer": "Left",
+    "question": "Which fish has more pronounced concentric rings of green and orange"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0012.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0041.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0005.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0004.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0038.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0019.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0028.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0039.jpg",
+    "answer": "Left",
+    "question": "Which fish has more yellow pelvic fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0048.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0043.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced floral yellow pattern around the eye?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0045.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0044.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0012.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0004.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0018.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0033.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0018.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0011.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0037.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0024.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0024.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0000.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more spotted breast and fully blackened eye?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0003.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0038.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0005.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0041.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0018.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0017.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0010.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0029.jpg",
+    "answer": "Left",
+    "question": "Which fish has a longer mouth with a greater distance between the tip of the mouth and the eyeball?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0038.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0012.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0012.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0049.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0074.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0032.jpg",
+    "answer": "Left",
+    "question": "Which fish has more pronounced concentric rings of green and orange"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0000.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0074.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more rounded chest?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0032.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0024.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0041.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0092.jpg",
+    "answer": "Left",
+    "question": "Which fish has a longer mouth with a greater distance between the tip of the mouth and the eyeball?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0023.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0109.jpg",
+    "answer": "Left",
+    "question": "Which fish is more black with variable orange on the head, ventral parts, and fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0027.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0002.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0032.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0052.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0016.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0036.jpg",
+    "answer": "Left",
+    "question": "Which fish has a sharper angle than 90 degrees at the tip of the anal fin?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0056.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0040.jpg",
+    "answer": "Left",
+    "question": "Which fish has more red tips on the tail in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0060.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0073.jpg",
+    "answer": "Left",
+    "question": "Which fish has a longer mouth with a greater distance between the tip of the mouth and the eyeball?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0044.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0031.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0021.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0004.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0032.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0033.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0049.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0015.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0017.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0004.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0019.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0046.jpg",
+    "answer": "Left",
+    "question": "Which fish has more purple tails?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0054.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0067.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced floral yellow pattern around the eye?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0046.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0099.jpg",
+    "answer": "Left",
+    "question": "Which fish has more yellow pelvic fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0004.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0039.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0003.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0044.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0000.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0010.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more rounded chest?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0061.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0026.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0050.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0008.jpg",
+    "answer": "Right",
+    "question": "Which fish has a sharper angle than 90 degrees at the tip of the anal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0037.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0049.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0004.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0000.jpg",
+    "answer": "Left",
+    "question": "Which fish has a longer mouth with a greater distance between the tip of the mouth and the eyeball?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0031.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0000.jpg",
+    "answer": "Left",
+    "question": "Which fish has a longer mouth with a greater distance between the tip of the mouth and the eyeball?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0025.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0109.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0037.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0010.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0046.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0058.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0010.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0024.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0033.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0092.jpg",
+    "answer": "Left",
+    "question": "Which fish has more small black dots on the chest area?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0012.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0033.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0023.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0051.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0034.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0054.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0015.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0010.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0007.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0033.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0055.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0099.jpg",
+    "answer": "Left",
+    "question": "Which fish has the last body bar more bordered in yellow?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0028.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0040.jpg",
+    "answer": "Left",
+    "question": "Which fish has more yellow pelvic fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0037.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0010.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0037.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0020.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0081.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0039.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0012.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0010.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0045.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0029.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0014.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0062.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0005.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0024.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0038.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0056.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0045.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0010.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more rounded chest?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0025.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0052.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0005.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0033.jpg",
+    "answer": "Left",
+    "question": "Which fish has the last body bar more bordered in yellow?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0044.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0027.jpg",
+    "answer": "Left",
+    "question": "Which fish has more purple tails?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0013.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0043.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced floral yellow pattern around the eye?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0046.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0053.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0003.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0023.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0023.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0027.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0050.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0023.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0022.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0006.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0022.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0004.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0041.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0050.jpg",
+    "answer": "Left",
+    "question": "Which fish has a longer mouth with a greater distance between the tip of the mouth and the eyeball?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0010.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0025.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0002.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0004.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {},
+  {},
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0023.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0027.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0027.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0036.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0042.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0033.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0028.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0049.jpg",
+    "answer": "Left",
+    "question": "Which fish has the last body bar more bordered in yellow?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0044.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0009.jpg",
+    "answer": "Left",
+    "question": "Which fish has more purple tails?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0063.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0049.jpg",
+    "answer": "Left",
+    "question": "Which fish has the last body bar more bordered in yellow?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0050.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0049.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0044.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0047.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0042.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0022.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0049.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0010.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0015.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0014.jpg",
+    "answer": "Left",
+    "question": "Which fish has more purple tails?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0064.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0045.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0010.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0053.jpg",
+    "answer": "Left",
+    "question": "Which fish has more yellow pelvic fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0013.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0020.jpg",
+    "answer": "Left",
+    "question": " Which fish has more striae present behind the pectoral fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0044.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0054.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0012.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0067.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced floral yellow pattern around the eye?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0064.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0029.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0060.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0050.jpg",
+    "answer": "Left",
+    "question": "Which fish has a longer mouth with a greater distance between the tip of the mouth and the eyeball?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0044.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0027.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0023.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0052.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0058.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0073.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0044.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0045.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0025.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0084.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0027.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0014.jpg",
+    "answer": "Left",
+    "question": "Which fish has more purple tails?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0023.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0012.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0080.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0008.jpg",
+    "answer": "Left",
+    "question": "Which fish has more pronounced concentric rings of green and orange"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0055.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0041.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0038.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0044.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0023.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0053.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0041.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0039.jpg",
+    "answer": "Left",
+    "question": "Which fish has more small black dots on the chest area?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0048.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0067.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced floral yellow pattern around the eye?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0050.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0032.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0042.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0010.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0044.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0046.jpg",
+    "answer": "Left",
+    "question": "Which fish has more purple tails?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0000.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0068.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more right-angled tip of the anal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0055.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0049.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0041.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0073.jpg",
+    "answer": "Left",
+    "question": "Which fish has a longer mouth with a greater distance between the tip of the mouth and the eyeball?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0004.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0044.jpg",
+    "answer": "Left",
+    "question": "Which fish has more yellow pelvic fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0023.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0008.jpg",
+    "answer": "Left",
+    "question": "Which fish has more pronounced concentric rings of green and orange"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0044.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0037.jpg",
+    "answer": "Left",
+    "question": "Which fish has more purple tails?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0033.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0039.jpg",
+    "answer": "Left",
+    "question": "Which fish has more small black dots on the chest area?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0032.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0104.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0005.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0038.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0010.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0035.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0046.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0039.jpg",
+    "answer": "Left",
+    "question": "Which fish has more yellow pelvic fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0027.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0044.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0038.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0034.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0043.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0020.jpg",
+    "answer": "Left",
+    "question": "Which fish has more small black dots on the chest area?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0003.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0037.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0004.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0053.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0010.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0036.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0055.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0024.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0045.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0036.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0025.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0057.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0036.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0002.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0024.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0076.jpg",
+    "answer": "Left",
+    "question": "Which fish has a longer mouth with a greater distance between the tip of the mouth and the eyeball?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0054.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0028.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced floral yellow pattern around the eye?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0038.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0010.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0038.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0034.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0066.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0062.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0048.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0043.jpg",
+    "answer": "Left",
+    "question": "Which fish has more pronounced concentric rings of green and orange"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0025.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0054.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0078.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0044.jpg",
+    "answer": "Left",
+    "question": "Which fish has more yellow pelvic fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0025.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0022.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0020.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0041.jpg",
+    "answer": "Left",
+    "question": "Which fish is more black with variable orange on the head, ventral parts, and fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0003.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0041.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0081.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0017.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0039.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0004.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0012.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0017.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0023.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0039.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0019.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0013.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0037.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0015.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0018.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0024.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0013.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0027.jpg",
+    "answer": "Left",
+    "question": " Which fish has more striae present behind the pectoral fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0023.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0034.jpg",
+    "answer": "Left",
+    "question": "Which fish has more pronounced concentric rings of green and orange"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0095.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0017.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0002.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0035.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0012.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0038.jpg",
+    "answer": "Left",
+    "question": "Which fish has more purple tails?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0023.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0084.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0002.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0053.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0034.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0017.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0057.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0031.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0023.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0037.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0044.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0014.jpg",
+    "answer": "Left",
+    "question": "Which fish has more purple tails?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0014.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0031.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0078.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0053.jpg",
+    "answer": "Left",
+    "question": "Which fish has the last body bar more bordered in yellow?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0031.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0047.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0010.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0038.jpg",
+    "answer": "Left",
+    "question": "Which fish has more purple tails?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0028.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0039.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0038.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0025.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more rounded chest?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0010.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0066.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0025.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0013.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0044.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0017.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0032.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0049.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0066.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0024.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0044.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0036.jpg",
+    "answer": "Left",
+    "question": "Which fish has more purple tails?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0058.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0025.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_akindynos-Amphiprion_chrysopterus/Amphiprion_akindynos/Amphiprion_akindynos_0025.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_akindynos-Amphiprion_chrysopterus/Amphiprion_akindynos/Amphiprion_akindynos_0037.jpg",
+    "answer": "Left",
+    "question": " Which fish has lighter brown pelvic fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0033.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0044.jpg",
+    "answer": "Left",
+    "question": "Which fish has more red tips on the tail in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0037.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0042.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0012.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0062.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0050.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0034.jpg",
+    "answer": "Left",
+    "question": "Which fish has more pronounced concentric rings of green and orange"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0042.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0054.jpg",
+    "answer": "Left",
+    "question": "Which fish has more pronounced concentric rings of green and orange"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0018.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0013.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0046.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0023.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0061.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0017.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0026.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0017.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0016.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0074.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more rounded chest?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0045.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0019.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0072.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0033.jpg",
+    "answer": "Left",
+    "question": "Which fish has the last body bar more bordered in yellow?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0000.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0064.jpg",
+    "answer": "Right",
+    "question": "Which fish has a sharper angle than 90 degrees at the tip of the anal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0023.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0003.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0010.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0012.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0018.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0025.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0017.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0002.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0010.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0033.jpg",
+    "answer": "Left",
+    "question": "Which fish has more yellow pelvic fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0025.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0020.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0003.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0024.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0050.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0012.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0031.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0017.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0010.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0009.jpg",
+    "answer": "Left",
+    "question": "Which fish has more purple tails?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0024.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0010.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0025.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0047.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0012.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0032.jpg",
+    "answer": "Left",
+    "question": "Which fish more closely has three white bars on the head, body, and base of the caudal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0056.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0013.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more spotted breast and fully blackened eye?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0032.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0004.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0045.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0045.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0000.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0008.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more right-angled tip of the anal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0025.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0038.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0022.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0058.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0049.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0017.jpg",
+    "answer": "Left",
+    "question": "Which fish has a longer mouth with a greater distance between the tip of the mouth and the eyeball?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0018.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0067.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0038.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0033.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0017.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0044.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0024.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0000.jpg",
+    "answer": "Left",
+    "question": "Which fish has a longer mouth with a greater distance between the tip of the mouth and the eyeball?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0010.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0005.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {},
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0010.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0002.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0045.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0022.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0046.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0032.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0037.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0062.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0050.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0004.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0003.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0057.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0092.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0012.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0044.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0022.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0072.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0032.jpg",
+    "answer": "Left",
+    "question": "Which fish has more pronounced concentric rings of green and orange"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0002.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0039.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0012.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0038.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0034.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0013.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0037.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0032.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0026.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0017.jpg",
+    "answer": "Left",
+    "question": "Which fish has a longer mouth with a greater distance between the tip of the mouth and the eyeball?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0003.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0075.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more rounded chest?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0002.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0067.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced floral yellow pattern around the eye?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0010.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0013.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0049.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0019.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0021.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0038.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0063.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0017.jpg",
+    "answer": "Left",
+    "question": "Which fish has more yellow pelvic fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0045.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0011.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0012.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0027.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0033.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0000.jpg",
+    "answer": "Left",
+    "question": "Which fish has a longer mouth with a greater distance between the tip of the mouth and the eyeball?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0016.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0010.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more rounded chest?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0025.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0051.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0014.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0022.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0049.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0000.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more spotted breast and fully blackened eye?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0021.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0062.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0025.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0032.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0043.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0019.jpg",
+    "answer": "Left",
+    "question": "Which fish has more small black dots on the chest area?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0041.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0027.jpg",
+    "answer": "Left",
+    "question": " Which fish has more striae present behind the pectoral fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0014.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0057.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0034.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0036.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0037.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0047.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0061.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0037.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0048.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0067.jpg",
+    "answer": "Left",
+    "question": "Which fish has more pronounced concentric rings of green and orange"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0055.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0006.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0000.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0034.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0003.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0107.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0021.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0027.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0023.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0019.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0046.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0017.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0016.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0054.jpg",
+    "answer": "Left",
+    "question": "Which fish has more pronounced concentric rings of green and orange"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0007.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0024.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0055.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0053.jpg",
+    "answer": "Left",
+    "question": "Which fish has the last body bar more bordered in yellow?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0023.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0039.jpg",
+    "answer": "Left",
+    "question": "Which fish is more black with variable orange on the head, ventral parts, and fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0023.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0033.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0044.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0024.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0081.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0032.jpg",
+    "answer": "Left",
+    "question": "Which fish has more pronounced concentric rings of green and orange"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0003.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0049.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0025.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0044.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0034.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0050.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0057.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0067.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0050.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0045.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0058.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0000.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more spotted breast and fully blackened eye?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0015.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0058.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0016.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0012.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0033.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0050.jpg",
+    "answer": "Left",
+    "question": "Which fish has a longer mouth with a greater distance between the tip of the mouth and the eyeball?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0018.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0039.jpg",
+    "answer": "Left",
+    "question": "Which fish has the last body bar more bordered in yellow?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0018.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0031.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0093.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0033.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0018.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0088.jpg",
+    "answer": "Left",
+    "question": " Which fish has a more pronounced ridge or lip on the upper side of the mouth?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0093.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0039.jpg",
+    "answer": "Left",
+    "question": "Which fish has more yellow pelvic fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0050.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0029.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0050.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0027.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0037.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0034.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0046.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0041.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0003.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0031.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0000.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0040.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0003.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0058.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0025.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0004.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0003.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0043.jpg",
+    "answer": "Left",
+    "question": "Which fish has more pronounced concentric rings of green and orange"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0024.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0015.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0058.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0067.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0015.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0038.jpg",
+    "answer": "Left",
+    "question": "Which fish has more purple tails?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0012.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0023.jpg",
+    "answer": "Left",
+    "question": "Which fish has more purple tails?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0066.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0052.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0027.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0009.jpg",
+    "answer": "Left",
+    "question": "Which fish has more purple tails?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0012.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0050.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0066.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0049.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0013.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0072.jpg",
+    "answer": "Left",
+    "question": " Which fish has more striae present behind the pectoral fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0021.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0050.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0000.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0015.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0045.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0073.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more rounded chest?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0018.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0026.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0037.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0057.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0044.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0010.jpg",
+    "answer": "Left",
+    "question": "Which fish has more purple tails?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0057.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0035.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0041.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0073.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more rounded chest?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0004.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0078.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0004.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0017.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0078.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0039.jpg",
+    "answer": "Left",
+    "question": "Which fish has more yellow pelvic fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0064.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0038.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0014.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0023.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0003.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0032.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0039.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0037.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0028.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0012.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0014.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0109.jpg",
+    "answer": "Left",
+    "question": "Which fish is more black with variable orange on the head, ventral parts, and fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0016.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0025.jpg",
+    "answer": "Left",
+    "question": "Which fish has a sharper angle than 90 degrees at the tip of the anal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0036.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0037.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0010.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0008.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more right-angled tip of the anal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0010.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0044.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0022.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0054.jpg",
+    "answer": "Right",
+    "question": "Which fish has a more right-angled tip of the anal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0021.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0023.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0012.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0010.jpg",
+    "answer": "Left",
+    "question": "Which fish has more purple tails?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0064.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0027.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0046.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0053.jpg",
+    "answer": "Left",
+    "question": "Which fish has more yellow pelvic fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0057.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0005.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0056.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0033.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0058.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0024.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0027.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0044.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0034.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0062.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0048.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0028.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced floral yellow pattern around the eye?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0037.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0012.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0032.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0058.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0018.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0099.jpg",
+    "answer": "Left",
+    "question": "Which fish has the last body bar more bordered in yellow?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0031.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0050.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0000.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0073.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more rounded chest?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0014.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0054.jpg",
+    "answer": "Left",
+    "question": " Which fish has a more pronounced ridge or lip on the upper side of the mouth?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0057.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0053.jpg",
+    "answer": "Left",
+    "question": "Which fish has the last body bar more bordered in yellow?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0010.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0031.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0045.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0066.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more rounded chest?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0010.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0029.jpg",
+    "answer": "Left",
+    "question": "Which fish has more purple tails?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0022.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0008.jpg",
+    "answer": "Left",
+    "question": "Which fish has a longer mouth with a greater distance between the tip of the mouth and the eyeball?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0095.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0039.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0049.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0032.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0039.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0024.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0060.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0017.jpg",
+    "answer": "Left",
+    "question": "Which fish has a longer mouth with a greater distance between the tip of the mouth and the eyeball?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0034.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0010.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0007.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0032.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0023.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0083.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0027.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0037.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0055.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0033.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0066.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0032.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0010.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0037.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0031.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0033.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0056.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0017.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0095.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0053.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0037.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0011.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0019.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0002.jpg",
+    "answer": "Left",
+    "question": "Which fish has more purple tails?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0041.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0081.jpg",
+    "answer": "Left",
+    "question": "Which fish has more small black dots on the chest area?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0014.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0038.jpg",
+    "answer": "Left",
+    "question": "Which fish is more black with variable orange on the head, ventral parts, and fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0027.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0029.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0046.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0047.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0014.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0045.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0066.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0043.jpg",
+    "answer": "Left",
+    "question": "Which fish has more pronounced concentric rings of green and orange"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0055.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0073.jpg",
+    "answer": "Left",
+    "question": "Which fish has a longer mouth with a greater distance between the tip of the mouth and the eyeball?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_diphreutes/Heniochus_diphreutes_0042.jpg",
+    "image_2": "wildfish/diff_images/val/Heniochus_diphreutes-Heniochus_acuminatus/Heniochus_acuminatus/Heniochus_acuminatus_0018.jpg",
+    "answer": "Right",
+    "question": "Which fish has a sharper angle than 90 degrees at the tip of the anal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0041.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0017.jpg",
+    "answer": "Left",
+    "question": "Which fish has a longer mouth with a greater distance between the tip of the mouth and the eyeball?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0023.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0088.jpg",
+    "answer": "Left",
+    "question": "Which fish is more black with variable orange on the head, ventral parts, and fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0093.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0012.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0081.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0039.jpg",
+    "answer": "Left",
+    "question": "Which fish is more black with variable orange on the head, ventral parts, and fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0005.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0045.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0056.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0039.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0015.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0024.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0014.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0004.jpg",
+    "answer": "Left",
+    "question": "Which fish has a sharper demarcation between the white on the caudal fin base and the dark of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0004.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0083.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0037.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0036.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0081.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0054.jpg",
+    "answer": "Left",
+    "question": "Which fish has more pronounced concentric rings of green and orange"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0003.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0050.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0055.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0013.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0049.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0037.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0019.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0004.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0049.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0092.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more spotted breast and fully blackened eye?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0048.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0054.jpg",
+    "answer": "Left",
+    "question": "Which fish has more pronounced concentric rings of green and orange"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0038.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0011.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0002.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0017.jpg",
+    "answer": "Left",
+    "question": "Which fish has a greater amount of yellow coloration throughout its body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0064.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0032.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0055.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0004.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0021.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0024.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0037.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0015.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0012.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0029.jpg",
+    "answer": "Left",
+    "question": "Which fish has more purple tails?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0007.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0004.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0017.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0040.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0003.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0044.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0024.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0039.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0010.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0040.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more pronounced dark blotch on the dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0027.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0007.jpg",
+    "answer": "Left",
+    "question": "Which fish has more purple tails?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0066.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0029.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0081.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0041.jpg",
+    "answer": "Left",
+    "question": "Which fish is more black with variable orange on the head, ventral parts, and fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0055.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0023.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0010.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_tuka/Pseudanthias_tuka_0040.jpg",
+    "answer": "Left",
+    "question": "Which fish has more purple tails?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0081.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0037.jpg",
+    "answer": "Left",
+    "question": "Which fish is more black with variable orange on the head, ventral parts, and fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0018.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0026.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0004.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0053.jpg",
+    "answer": "Left",
+    "question": "Which fish has more yellow pelvic fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0050.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0024.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_longirostris/Forcipiger_longirostris_0041.jpg",
+    "image_2": "wildfish/diff_images/val/Forcipiger_longirostris-Forcipiger_flavissimus/Forcipiger_flavissimus/Forcipiger_flavissimus_0092.jpg",
+    "answer": "Left",
+    "question": "Which fish has more small black dots on the chest area?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0037.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0045.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0038.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0027.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_marginalis/Chelmon_marginalis_0046.jpg",
+    "image_2": "wildfish/diff_images/val/Chelmon_rostratus-Chelmon_marginalis/Chelmon_rostratus/Chelmon_rostratus_0017.jpg",
+    "answer": "Left",
+    "question": "Which fish has more yellow pelvic fins?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0021.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0013.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0019.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0035.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0000.jpg",
+    "image_2": "wildfish/diff_images/val/Pseudanthias_tuka-Pseudanthias_pascalus/Pseudanthias_pascalus/Pseudanthias_pascalus_0032.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange stripe down the back and orange tail forks in juveniles and females?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0025.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0031.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_murdjan/Myripristis_murdjan_0061.jpg",
+    "image_2": "wildfish/diff_images/val/Myripristis_murdjan-Myripristis_berndti/Myripristis_berndti/Myripristis_berndti_0066.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more orange-red spiny dorsal fin?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0015.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0049.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0005.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0006.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0066.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0027.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0015.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0023.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Canthigaster_valentini/Canthigaster_valentini_0003.jpg",
+    "image_2": "wildfish/diff_images/val/Paraluteres_prionurus-Canthigaster_valentini/Paraluteres_prionurus/Paraluteres_prionurus_0032.jpg",
+    "answer": "Left",
+    "question": "Which fish has more pronounced concentric rings of green and orange"
+  },
+  {},
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0025.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0049.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0032.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0041.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0042.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0062.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_akindynos/Amphiprion_akindynos_0049.jpg",
+    "image_2": "wildfish/diff_images/val/Amphiprion_clarkii-Amphiprion_akindynos/Amphiprion_clarkii/Amphiprion_clarkii_0109.jpg",
+    "answer": "Left",
+    "question": "Which fish has a narrower mid-body bar?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0064.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0022.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  },
+  {
+    "image_1": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_unimaculatus/Siganus_unimaculatus_0032.jpg",
+    "image_2": "wildfish/diff_images/val/Siganus_unimaculatus-Siganus_vulpinus/Siganus_vulpinus/Siganus_vulpinus_0057.jpg",
+    "answer": "Left",
+    "question": "Which fish has a more prominent dark spot on the posterior upper side of the body?"
+  }
+]

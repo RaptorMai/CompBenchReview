@@ -1,0 +1,4792 @@
+[
+    {
+        "image_1": "celeba/adj_images/test/Smiling/051651.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/174406.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/026142.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/174406.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/152370.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/174406.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/107371.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/174406.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/085819.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/174406.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/104446.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/174406.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/032123.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/174406.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/025463.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/174406.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/192801.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/174406.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/026142.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/152370.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/085819.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/152370.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/025463.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/152370.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/192801.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/152370.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/025463.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/104446.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/026142.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/104446.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/051484.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/063436.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/051484.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/068239.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/051484.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/123774.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/150956.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/063436.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/150956.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/068239.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/150956.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/123774.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/190596.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/063436.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/190596.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/068239.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/190596.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/123774.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/016532.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/063436.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/016532.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/068239.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/016532.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/123774.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/020725.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/063436.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/020725.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/068239.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/020725.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/123774.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/016081.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/063436.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/016081.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/068239.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/016081.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/123774.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/060856.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/198684.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/060856.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/194531.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/060856.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/087029.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/060856.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/085170.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/034778.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/198684.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/034778.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/194531.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/034778.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/087029.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/034778.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/085170.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/086492.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/198684.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/086492.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/194531.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/086492.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/087029.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/086492.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/085170.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/067491.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/198684.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/067491.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/194531.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/067491.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/087029.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/067491.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/085170.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/021639.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/198684.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/021639.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/194531.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/021639.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/087029.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/021639.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/085170.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/113112.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/093935.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/113112.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/122324.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/113112.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/194914.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/113112.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/122456.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/150215.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/093935.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/150215.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/122324.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/150215.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/194914.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/150215.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/122456.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/039738.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/093935.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/039738.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/122324.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/039738.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/194914.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/039738.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/122456.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/020533.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/093935.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/020533.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/122324.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/020533.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/194914.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/020533.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/122456.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/064167.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/093935.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/064167.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/122324.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/064167.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/194914.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/064167.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/122456.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/061989.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/093935.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/061989.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/122324.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/061989.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/194914.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/061989.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/122456.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/018245.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/096124.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/018245.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/108283.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/018245.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/094257.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/018245.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/034552.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/147543.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/096124.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/147543.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/108283.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/147543.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/094257.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/147543.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/034552.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/172507.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/096124.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/172507.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/108283.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/172507.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/094257.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/172507.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/034552.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/037067.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/096124.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/037067.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/108283.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/037067.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/094257.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/037067.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/034552.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/078994.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/096124.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/078994.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/108283.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/078994.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/094257.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/078994.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/034552.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/200465.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/075532.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/200465.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/069669.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/044512.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/075532.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/044512.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/069669.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/012998.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/075532.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/012998.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/069669.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/053536.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/075532.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/053536.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/069669.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/104863.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/075532.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/104863.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/069669.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/094069.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/075532.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/094069.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/069669.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/147769.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/075532.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/147769.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/069669.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/065090.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/152172.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/065090.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/163807.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/135670.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/152172.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/135670.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/163807.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/074412.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/152172.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/074412.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/163807.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/175903.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/152172.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/175903.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/163807.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/126803.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/075724.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/126803.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/139248.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/126803.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/172513.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/126803.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/105228.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/126803.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/121611.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/126803.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/184736.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/126803.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/121407.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/058311.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/075724.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/058311.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/139248.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/058311.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/172513.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/058311.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/105228.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/058311.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/121611.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/058311.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/184736.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/058311.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/121407.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/195175.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/089945.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/195175.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/070112.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/195175.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/067452.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/195175.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/177127.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/201579.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/089945.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/201579.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/070112.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/201579.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/067452.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/201579.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/177127.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/141640.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/089945.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/141640.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/070112.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/141640.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/067452.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/141640.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/177127.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/112595.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/073816.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/112595.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/047543.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/112595.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/065286.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/112595.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/153052.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/112595.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/157036.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/112595.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/121605.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/140210.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/073816.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/140210.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/047543.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/140210.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/065286.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/140210.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/153052.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/140210.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/157036.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/140210.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/121605.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/072739.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/004687.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/072739.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/126630.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/072739.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/074638.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/072739.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/013884.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/175730.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/103856.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/175730.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/060117.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/175730.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/061779.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/035300.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/103856.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/035300.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/060117.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/035300.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/061779.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/061209.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/103856.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/061209.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/060117.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/061209.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/061779.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/151453.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/103856.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/151453.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/060117.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/151453.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/061779.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/058649.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/150942.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/058649.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/012797.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/058649.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/157778.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/058649.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/191844.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/058649.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/022683.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/130913.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/150942.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/130913.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/012797.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/130913.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/157778.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/130913.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/191844.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/130913.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/022683.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/161221.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/150942.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/161221.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/012797.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/161221.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/157778.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/161221.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/191844.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/161221.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/022683.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/079491.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/150942.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/079491.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/012797.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/079491.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/157778.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/079491.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/191844.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/079491.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/022683.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/077457.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/150942.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/077457.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/012797.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/077457.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/157778.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/077457.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/191844.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/077457.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/022683.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/142188.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/171973.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/142188.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/000436.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/142188.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/105764.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/151645.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/171973.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/151645.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/000436.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/151645.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/105764.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/087798.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/171973.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/087798.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/000436.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/087798.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/105764.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/124231.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/171973.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/124231.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/000436.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/124231.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/105764.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/050765.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/171973.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/050765.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/000436.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/050765.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/105764.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/109348.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/157220.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/109348.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/007173.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/109348.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/042361.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/109348.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/055190.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/110355.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/093538.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/168952.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/093538.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/201021.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/093538.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/149963.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/093538.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/005764.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/137715.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/005764.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/155635.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/005764.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/043255.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/005764.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/024557.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/105943.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/137715.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/105943.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/155635.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/105943.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/043255.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/105943.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/024557.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/079136.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/137715.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/079136.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/155635.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/079136.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/043255.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/079136.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/024557.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/145618.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/137715.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/145618.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/155635.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/145618.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/043255.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/145618.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/024557.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/086653.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/063185.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/086653.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/145426.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/086653.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/170489.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/086653.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/008297.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/086653.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/131600.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/086653.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/020296.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/042349.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/063185.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/042349.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/145426.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/042349.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/170489.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/042349.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/008297.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/042349.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/131600.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/042349.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/020296.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/032484.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/091887.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/032484.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/073341.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/032484.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/126368.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/032484.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/063620.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/032484.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/163813.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/173396.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/091887.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/173396.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/073341.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/173396.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/126368.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/173396.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/063620.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/173396.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/163813.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/099001.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/091887.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/099001.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/073341.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/099001.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/126368.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/099001.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/063620.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/099001.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/163813.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/200303.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/032679.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/071998.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/032679.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/147225.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/032679.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/106735.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/032679.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/124027.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/032679.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/140006.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/032679.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/063634.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/032679.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/115761.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/032679.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/130720.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/201592.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/130720.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/049552.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/130720.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/112581.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/130720.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/051335.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/130720.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/113338.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/070476.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/201592.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/070476.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/049552.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/070476.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/112581.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/070476.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/051335.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/070476.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/113338.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/050201.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/201592.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/050201.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/049552.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/050201.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/112581.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/050201.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/051335.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/050201.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/113338.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/141456.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/201592.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/141456.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/049552.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/141456.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/112581.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/141456.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/051335.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/141456.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/113338.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/045354.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/071740.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/019615.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/071740.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/071973.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/071740.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/200673.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/071740.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/026383.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/071740.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/031172.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/071740.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/078016.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/032651.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/078016.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/141683.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/078016.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/093706.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/098109.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/032651.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/098109.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/141683.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/098109.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/093706.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/090025.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/032651.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/090025.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/141683.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/090025.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/093706.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/128621.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/032651.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/128621.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/141683.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/128621.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/093706.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/000422.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/098647.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/000422.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/133215.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/000422.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/177494.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/032447.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/098647.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/032447.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/133215.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/032447.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/177494.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/189992.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/098647.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/189992.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/133215.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/189992.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/177494.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/110625.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/098647.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/110625.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/133215.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/110625.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/177494.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/152628.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/141867.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/152628.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/199015.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/152628.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/029271.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/152628.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/016718.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/152628.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/065251.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/014331.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/141867.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/014331.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/199015.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/014331.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/029271.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/014331.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/016718.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/014331.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/065251.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/179687.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/066957.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/179687.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/154503.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/179687.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/006709.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/013847.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/066957.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/013847.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/154503.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/013847.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/006709.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/149208.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/066957.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/149208.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/154503.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/149208.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/006709.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/122126.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/066957.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/122126.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/154503.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/122126.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/006709.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/110143.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/034591.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/110143.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/078758.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/169696.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/034591.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/169696.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/078758.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/043269.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/034591.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/043269.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/078758.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/092154.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/034591.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/092154.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/078758.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/149778.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/102989.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/149778.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/102779.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/149778.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/040006.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/102989.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/102989.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/102989.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/102779.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/102989.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/040006.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/092424.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/102989.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/092424.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/102779.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/092424.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/040006.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/192342.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/102989.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/192342.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/102779.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/192342.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/040006.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/144512.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/102989.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/144512.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/102779.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/144512.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/040006.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/035472.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/019601.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/035472.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/123760.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/173143.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/019601.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/173143.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/123760.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/201948.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/019601.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/201948.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/123760.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/100620.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/019601.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/100620.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/123760.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/175042.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/019601.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/175042.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/123760.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/111275.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/019601.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/111275.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/123760.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/083059.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/019601.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/083059.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/123760.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/060467.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/019601.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/060467.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/123760.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/072507.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/086109.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/072507.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/077331.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/072507.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/051686.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/102792.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/086109.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/102792.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/077331.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/102792.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/051686.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/114457.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/086109.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/114457.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/077331.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/114457.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/051686.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/052364.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/086109.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/052364.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/077331.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/052364.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/051686.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/033765.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/086109.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/033765.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/077331.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/033765.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/051686.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/200471.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/056314.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/200471.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/080008.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/189951.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/056314.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/189951.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/080008.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/092140.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/056314.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/092140.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/080008.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/196695.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/056314.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/196695.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/080008.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/012542.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/056314.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/012542.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/080008.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/062502.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/056314.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/062502.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/080008.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/124219.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/056314.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/124219.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/080008.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/025339.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/116056.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/025339.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/013674.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/025339.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/152614.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/047999.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/116056.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/047999.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/013674.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/047999.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/152614.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/037503.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/116056.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/037503.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/013674.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/037503.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/152614.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/005200.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/018906.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/005200.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/024972.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/005200.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/188332.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/175283.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/018906.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/175283.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/024972.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/175283.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/188332.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/192381.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/185366.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/192381.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/127704.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/192381.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/011088.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/047231.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/185366.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/047231.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/127704.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/047231.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/011088.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/169494.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/185366.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/169494.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/127704.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/169494.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/011088.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/161786.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/185366.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/161786.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/127704.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/161786.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/011088.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/152364.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/185366.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/152364.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/127704.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/152364.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/011088.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/173427.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/144248.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/173427.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/196483.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/041668.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/144248.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/041668.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/196483.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/176211.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/144248.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/176211.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/196483.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/154517.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/003473.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/154517.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/013648.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/154517.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/092801.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/057552.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/003473.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/057552.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/013648.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/057552.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/092801.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/019629.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/110396.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/115239.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/110396.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/072705.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/110396.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/148670.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/110396.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/067136.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/110396.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/023990.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/110396.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/031402.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/110396.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/078943.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/110396.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/061235.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/110396.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/163393.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/004491.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/029926.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/004491.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/134963.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/004491.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/076007.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/004491.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/101264.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/055812.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/151484.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/055812.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/000191.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/055812.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/035116.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/055812.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/053293.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/055812.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/131402.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/012556.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/131402.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/035894.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/131402.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/193262.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/131402.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/053046.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/026803.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/012556.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/026803.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/035894.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/026803.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/193262.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/026803.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/053046.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/163620.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/012556.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/163620.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/035894.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/163620.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/193262.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/163620.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/053046.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/063146.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/197762.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/063146.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/160498.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/063146.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/044704.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/032645.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/197762.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/032645.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/160498.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/032645.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/044704.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/088681.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/197762.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/088681.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/160498.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/088681.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/044704.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/132137.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/120916.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/132137.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/068775.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/191850.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/120916.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/191850.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/068775.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/161792.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/120916.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/161792.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/068775.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/086337.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/120916.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/086337.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/068775.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/189979.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/085158.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/189979.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/011711.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/145624.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/085158.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/145624.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/011711.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/192168.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/085158.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/192168.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/011711.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/105566.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/189212.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/105566.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/167485.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/105566.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/116081.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/105566.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/008730.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/107417.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/189212.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/107417.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/167485.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/107417.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/116081.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/107417.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/008730.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/061553.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/189212.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/061553.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/167485.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/061553.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/116081.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/061553.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/008730.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/081882.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/189212.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/081882.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/167485.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/081882.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/116081.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/081882.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/008730.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/057208.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/196332.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/057208.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/045383.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/057208.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/177133.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/057208.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/009610.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/057208.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/093921.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/027260.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/196332.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/027260.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/045383.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/027260.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/177133.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/027260.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/009610.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/027260.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/093921.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/010816.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/196332.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/010816.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/045383.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/010816.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/177133.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/010816.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/009610.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/010816.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/093921.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/064629.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/196332.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/064629.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/045383.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/064629.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/177133.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/064629.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/009610.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/064629.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/093921.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/188859.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/122442.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/188859.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/148857.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/180020.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/122442.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/180020.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/148857.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/148843.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/122442.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/148843.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/148857.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/026618.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/122442.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/026618.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/148857.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/105200.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/062516.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/105200.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/046311.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/105200.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/151679.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/105200.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/157585.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/181882.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/062516.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/181882.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/046311.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/181882.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/151679.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/181882.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/157585.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/108042.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/062516.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/108042.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/046311.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/108042.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/151679.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/108042.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/157585.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/094914.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/062516.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/094914.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/046311.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/094914.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/151679.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/094914.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/157585.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/082145.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/059557.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/082145.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/102786.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/082145.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/160856.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/082145.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/181666.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/082145.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/085400.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/136386.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/059557.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/136386.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/102786.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/136386.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/160856.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/136386.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/181666.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/136386.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/085400.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/182623.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/059557.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/182623.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/102786.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/182623.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/160856.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/182623.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/181666.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/182623.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/085400.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/160856.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/059557.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/160856.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/102786.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/160856.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/160856.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/160856.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/181666.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/160856.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/085400.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/010382.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/040748.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/010382.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/187029.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/010382.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/138426.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/178943.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/040748.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/178943.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/187029.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/178943.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/138426.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/045368.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/040748.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/045368.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/187029.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/045368.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/138426.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/050229.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/040748.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/050229.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/187029.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/050229.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/138426.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/092197.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/142375.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/092197.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/073631.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/092197.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/061962.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/092197.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/083703.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/110382.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/142375.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/110382.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/073631.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/110382.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/061962.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/110382.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/083703.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/143725.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/142375.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/143725.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/073631.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/143725.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/061962.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/143725.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/083703.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/132645.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/163350.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/132645.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/160659.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/036392.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/163350.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/036392.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/160659.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/148664.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/163350.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/148664.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/160659.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/137265.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/163350.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/137265.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/160659.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/008526.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/163350.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/008526.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/160659.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/193909.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/083924.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/158661.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/083924.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/076749.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/058339.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/076749.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/080034.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/076749.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/199217.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/076749.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/073194.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/076749.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/026432.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/076749.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/118292.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/005758.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/058339.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/005758.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/080034.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/005758.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/199217.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/005758.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/073194.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/005758.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/026432.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/005758.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/118292.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/001933.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/151651.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/001933.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/199565.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/001933.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/095149.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/001933.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/046649.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/033003.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/151651.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/033003.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/199565.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/033003.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/095149.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/033003.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/046649.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/041132.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/151651.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/041132.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/199565.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/041132.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/095149.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/041132.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/046649.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/157744.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/096656.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/157744.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/065279.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/157744.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/187954.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/157744.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/058891.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/126156.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/096656.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/126156.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/065279.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/126156.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/187954.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/126156.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/058891.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/132309.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/054715.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/132309.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/061590.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/114641.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/054715.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/114641.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/061590.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/080961.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/166764.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/169655.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/166764.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/161235.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/166764.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/091307.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/094525.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/091307.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/113890.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/091307.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/105214.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/091307.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/017412.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/091307.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/184520.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/146107.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/193276.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/146107.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/186653.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/146107.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/114127.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/065084.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/193276.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/065084.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/186653.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/065084.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/114127.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/056499.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/193276.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/056499.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/186653.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/056499.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/114127.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/058846.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/193276.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/058846.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/186653.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/058846.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/114127.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/057963.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/154932.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/057963.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/026630.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/057963.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/069127.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/095175.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/154932.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/095175.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/026630.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/095175.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/069127.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/164403.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/154932.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/164403.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/026630.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/164403.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/069127.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/075526.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/154932.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/075526.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/026630.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/075526.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/069127.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/129729.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/129729.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/129729.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/186492.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/129729.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/001502.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/129729.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/090555.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/129729.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/178764.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/157546.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/129729.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/157546.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/186492.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/157546.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/001502.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/157546.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/090555.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/157546.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/178764.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/142611.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/129729.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/142611.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/186492.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/142611.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/001502.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/142611.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/090555.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/142611.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/178764.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/007832.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/129729.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/007832.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/186492.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/007832.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/001502.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/007832.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/090555.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/007832.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/178764.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/193048.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/189038.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/193048.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/168239.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/138397.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/189038.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/138397.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/168239.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/098690.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/189038.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/098690.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/168239.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {},
+    {
+        "image_1": "celeba/adj_images/test/Smiling/170884.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/197560.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/107365.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/197560.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/167491.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/197560.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/117360.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/197560.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/007359.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/197560.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/198323.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/154073.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/198323.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/127710.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/198323.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/104485.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/104485.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/154073.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/104485.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/127710.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {},
+    {
+        "image_1": "celeba/adj_images/test/Smiling/061751.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/188440.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/061751.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/194525.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/061751.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/110816.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/061751.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/098684.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/135658.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/188440.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/135658.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/194525.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/135658.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/110816.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/135658.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/098684.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/145383.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/075240.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/145383.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/033215.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/145383.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/047755.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/145383.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/126195.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/145383.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/034787.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/145354.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/075240.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/145354.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/033215.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/145354.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/047755.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/145354.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/126195.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/145354.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/034787.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/102235.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/075240.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/102235.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/033215.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/102235.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/047755.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/102235.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/126195.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/102235.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/034787.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/126181.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/075240.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/126181.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/033215.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/126181.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/047755.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/126181.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/126195.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/126181.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/034787.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/008095.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/136345.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/008095.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/178980.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/106906.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/136345.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/106906.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/178980.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/148102.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/136345.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/148102.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/178980.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/088497.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/136345.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/088497.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/178980.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/004320.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/136345.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/004320.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/178980.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/006245.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/136345.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/006245.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/178980.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/132686.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/075056.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/132686.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/150771.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/055621.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/075056.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/055621.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/150771.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/190541.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/075056.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/190541.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/150771.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/108240.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/075056.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/108240.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/150771.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/131370.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/075056.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/131370.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/150771.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/202266.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/105002.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/202266.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/014319.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/202266.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/084285.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/202266.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/142349.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/202266.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/186337.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/202266.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/097212.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/202266.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/143269.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/010157.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/105002.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/010157.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/014319.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/010157.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/084285.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/010157.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/142349.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/010157.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/186337.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/010157.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/097212.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/010157.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/143269.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/171230.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/105002.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/171230.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/014319.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/171230.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/084285.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/171230.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/142349.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/171230.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/186337.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/171230.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/097212.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "celeba/adj_images/test/Smiling/171230.jpg",
+        "image_2": "celeba/adj_images/test/Smiling/143269.jpg",
+        "question": "Which person smiles more?",
+        "answer": "Left"
+    }
+]

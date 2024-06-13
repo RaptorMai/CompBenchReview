@@ -1,0 +1,1707 @@
+[
+    {
+        "image_1": "fer-2013/test/neutral/im279.png",
+        "image_2": "fer-2013/test/neutral/im280.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im29.png",
+        "image_2": "fer-2013/test/neutral/im291.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im29.png",
+        "image_2": "fer-2013/test/neutral/im294.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im293.png",
+        "image_2": "fer-2013/test/neutral/im294.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im289.png",
+        "image_2": "fer-2013/test/neutral/im291.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im287.png",
+        "image_2": "fer-2013/test/neutral/im291.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im287.png",
+        "image_2": "fer-2013/test/neutral/im294.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im295.png",
+        "image_2": "fer-2013/test/neutral/im294.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im292.png",
+        "image_2": "fer-2013/test/neutral/im294.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im297.png",
+        "image_2": "fer-2013/test/neutral/im303.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im298.png",
+        "image_2": "fer-2013/test/neutral/im303.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im299.png",
+        "image_2": "fer-2013/test/neutral/im303.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im3.png",
+        "image_2": "fer-2013/test/neutral/im303.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im30.png",
+        "image_2": "fer-2013/test/neutral/im303.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im300.png",
+        "image_2": "fer-2013/test/neutral/im303.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im301.png",
+        "image_2": "fer-2013/test/neutral/im303.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im302.png",
+        "image_2": "fer-2013/test/neutral/im303.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im31.png",
+        "image_2": "fer-2013/test/neutral/im310.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im312.png",
+        "image_2": "fer-2013/test/neutral/im310.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im306.png",
+        "image_2": "fer-2013/test/neutral/im304.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im31.png",
+        "image_2": "fer-2013/test/neutral/im309.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im313.png",
+        "image_2": "fer-2013/test/neutral/im315.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im313.png",
+        "image_2": "fer-2013/test/neutral/im316.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im314.png",
+        "image_2": "fer-2013/test/neutral/im315.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im314.png",
+        "image_2": "fer-2013/test/neutral/im316.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im317.png",
+        "image_2": "fer-2013/test/neutral/im320.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im319.png",
+        "image_2": "fer-2013/test/neutral/im316.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im331.png",
+        "image_2": "fer-2013/test/neutral/im335.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im332.png",
+        "image_2": "fer-2013/test/neutral/im335.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im336.png",
+        "image_2": "fer-2013/test/neutral/im335.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im332.png",
+        "image_2": "fer-2013/test/neutral/im337.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im338.png",
+        "image_2": "fer-2013/test/neutral/im335.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im340.png",
+        "image_2": "fer-2013/test/neutral/im346.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im341.png",
+        "image_2": "fer-2013/test/neutral/im346.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im342.png",
+        "image_2": "fer-2013/test/neutral/im346.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im343.png",
+        "image_2": "fer-2013/test/neutral/im346.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im344.png",
+        "image_2": "fer-2013/test/neutral/im346.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im345.png",
+        "image_2": "fer-2013/test/neutral/im346.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im347.png",
+        "image_2": "fer-2013/test/neutral/im346.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im349.png",
+        "image_2": "fer-2013/test/neutral/im346.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im353.png",
+        "image_2": "fer-2013/test/neutral/im35.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im351.png",
+        "image_2": "fer-2013/test/neutral/im35.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im356.png",
+        "image_2": "fer-2013/test/neutral/im35.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im355.png",
+        "image_2": "fer-2013/test/neutral/im35.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im355.png",
+        "image_2": "fer-2013/test/neutral/im358.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im361.png",
+        "image_2": "fer-2013/test/neutral/im359.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im365.png",
+        "image_2": "fer-2013/test/neutral/im360.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im367.png",
+        "image_2": "fer-2013/test/neutral/im366.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im375.png",
+        "image_2": "fer-2013/test/neutral/im370.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im373.png",
+        "image_2": "fer-2013/test/neutral/im368.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im371.png",
+        "image_2": "fer-2013/test/neutral/im372.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im376.png",
+        "image_2": "fer-2013/test/neutral/im368.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im373.png",
+        "image_2": "fer-2013/test/neutral/im372.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im384.png",
+        "image_2": "fer-2013/test/neutral/im380.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im381.png",
+        "image_2": "fer-2013/test/neutral/im380.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im385.png",
+        "image_2": "fer-2013/test/neutral/im380.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im378.png",
+        "image_2": "fer-2013/test/neutral/im380.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im384.png",
+        "image_2": "fer-2013/test/neutral/im38.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im392.png",
+        "image_2": "fer-2013/test/neutral/im394.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im39.png",
+        "image_2": "fer-2013/test/neutral/im391.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im388.png",
+        "image_2": "fer-2013/test/neutral/im390.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im409.png",
+        "image_2": "fer-2013/test/neutral/im411.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im408.png",
+        "image_2": "fer-2013/test/neutral/im411.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im406.png",
+        "image_2": "fer-2013/test/neutral/im411.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im412.png",
+        "image_2": "fer-2013/test/neutral/im419.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im413.png",
+        "image_2": "fer-2013/test/neutral/im419.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im414.png",
+        "image_2": "fer-2013/test/neutral/im419.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im416.png",
+        "image_2": "fer-2013/test/neutral/im419.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im42.png",
+        "image_2": "fer-2013/test/neutral/im417.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im422.png",
+        "image_2": "fer-2013/test/neutral/im425.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im424.png",
+        "image_2": "fer-2013/test/neutral/im425.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im427.png",
+        "image_2": "fer-2013/test/neutral/im429.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im428.png",
+        "image_2": "fer-2013/test/neutral/im425.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im433.png",
+        "image_2": "fer-2013/test/neutral/im430.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im435.png",
+        "image_2": "fer-2013/test/neutral/im430.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im437.png",
+        "image_2": "fer-2013/test/neutral/im430.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im439.png",
+        "image_2": "fer-2013/test/neutral/im430.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im440.png",
+        "image_2": "fer-2013/test/neutral/im448.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im446.png",
+        "image_2": "fer-2013/test/neutral/im448.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im447.png",
+        "image_2": "fer-2013/test/neutral/im448.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im445.png",
+        "image_2": "fer-2013/test/neutral/im448.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im440.png",
+        "image_2": "fer-2013/test/neutral/im444.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im464.png",
+        "image_2": "fer-2013/test/neutral/im461.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im470.png",
+        "image_2": "fer-2013/test/neutral/im469.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im475.png",
+        "image_2": "fer-2013/test/neutral/im469.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im470.png",
+        "image_2": "fer-2013/test/neutral/im471.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im476.png",
+        "image_2": "fer-2013/test/neutral/im478.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im477.png",
+        "image_2": "fer-2013/test/neutral/im478.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im48.png",
+        "image_2": "fer-2013/test/neutral/im478.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im48.png",
+        "image_2": "fer-2013/test/neutral/im481.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im483.png",
+        "image_2": "fer-2013/test/neutral/im478.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im487.png",
+        "image_2": "fer-2013/test/neutral/im488.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im487.png",
+        "image_2": "fer-2013/test/neutral/im491.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im489.png",
+        "image_2": "fer-2013/test/neutral/im488.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im493.png",
+        "image_2": "fer-2013/test/neutral/im491.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im492.png",
+        "image_2": "fer-2013/test/neutral/im491.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im501.png",
+        "image_2": "fer-2013/test/neutral/im50.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im496.png",
+        "image_2": "fer-2013/test/neutral/im50.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im50.png",
+        "image_2": "fer-2013/test/neutral/im495.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im504.png",
+        "image_2": "fer-2013/test/neutral/im503.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im502.png",
+        "image_2": "fer-2013/test/neutral/im503.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im508.png",
+        "image_2": "fer-2013/test/neutral/im509.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im510.png",
+        "image_2": "fer-2013/test/neutral/im509.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im51.png",
+        "image_2": "fer-2013/test/neutral/im509.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im52.png",
+        "image_2": "fer-2013/test/neutral/im517.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im514.png",
+        "image_2": "fer-2013/test/neutral/im515.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im511.png",
+        "image_2": "fer-2013/test/neutral/im519.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im514.png",
+        "image_2": "fer-2013/test/neutral/im516.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im52.png",
+        "image_2": "fer-2013/test/neutral/im516.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im528.png",
+        "image_2": "fer-2013/test/neutral/im525.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im520.png",
+        "image_2": "fer-2013/test/neutral/im525.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im527.png",
+        "image_2": "fer-2013/test/neutral/im525.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im523.png",
+        "image_2": "fer-2013/test/neutral/im525.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im527.png",
+        "image_2": "fer-2013/test/neutral/im524.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im531.png",
+        "image_2": "fer-2013/test/neutral/im530.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im531.png",
+        "image_2": "fer-2013/test/neutral/im533.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im536.png",
+        "image_2": "fer-2013/test/neutral/im538.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im536.png",
+        "image_2": "fer-2013/test/neutral/im533.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im537.png",
+        "image_2": "fer-2013/test/neutral/im533.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im540.png",
+        "image_2": "fer-2013/test/neutral/im543.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im539.png",
+        "image_2": "fer-2013/test/neutral/im543.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im54.png",
+        "image_2": "fer-2013/test/neutral/im543.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im545.png",
+        "image_2": "fer-2013/test/neutral/im543.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im541.png",
+        "image_2": "fer-2013/test/neutral/im543.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im547.png",
+        "image_2": "fer-2013/test/neutral/im544.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im548.png",
+        "image_2": "fer-2013/test/neutral/im550.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im548.png",
+        "image_2": "fer-2013/test/neutral/im551.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im548.png",
+        "image_2": "fer-2013/test/neutral/im552.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im549.png",
+        "image_2": "fer-2013/test/neutral/im550.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im549.png",
+        "image_2": "fer-2013/test/neutral/im551.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im548.png",
+        "image_2": "fer-2013/test/neutral/im554.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im562.png",
+        "image_2": "fer-2013/test/neutral/im557.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im563.png",
+        "image_2": "fer-2013/test/neutral/im557.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im559.png",
+        "image_2": "fer-2013/test/neutral/im557.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im561.png",
+        "image_2": "fer-2013/test/neutral/im557.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im564.png",
+        "image_2": "fer-2013/test/neutral/im557.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im570.png",
+        "image_2": "fer-2013/test/neutral/im568.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im572.png",
+        "image_2": "fer-2013/test/neutral/im568.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im573.png",
+        "image_2": "fer-2013/test/neutral/im568.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im581.png",
+        "image_2": "fer-2013/test/neutral/im577.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im579.png",
+        "image_2": "fer-2013/test/neutral/im577.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im591.png",
+        "image_2": "fer-2013/test/neutral/im59.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im585.png",
+        "image_2": "fer-2013/test/neutral/im59.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im584.png",
+        "image_2": "fer-2013/test/neutral/im59.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im596.png",
+        "image_2": "fer-2013/test/neutral/im597.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im598.png",
+        "image_2": "fer-2013/test/neutral/im597.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im599.png",
+        "image_2": "fer-2013/test/neutral/im597.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im595.png",
+        "image_2": "fer-2013/test/neutral/im597.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im599.png",
+        "image_2": "fer-2013/test/neutral/im60.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im598.png",
+        "image_2": "fer-2013/test/neutral/im60.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im603.png",
+        "image_2": "fer-2013/test/neutral/im602.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im605.png",
+        "image_2": "fer-2013/test/neutral/im602.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im61.png",
+        "image_2": "fer-2013/test/neutral/im602.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im608.png",
+        "image_2": "fer-2013/test/neutral/im602.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im604.png",
+        "image_2": "fer-2013/test/neutral/im602.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im610.png",
+        "image_2": "fer-2013/test/neutral/im617.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im612.png",
+        "image_2": "fer-2013/test/neutral/im617.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im611.png",
+        "image_2": "fer-2013/test/neutral/im617.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im613.png",
+        "image_2": "fer-2013/test/neutral/im617.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im614.png",
+        "image_2": "fer-2013/test/neutral/im617.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im616.png",
+        "image_2": "fer-2013/test/neutral/im617.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im618.png",
+        "image_2": "fer-2013/test/neutral/im617.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im62.png",
+        "image_2": "fer-2013/test/neutral/im620.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im623.png",
+        "image_2": "fer-2013/test/neutral/im620.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im622.png",
+        "image_2": "fer-2013/test/neutral/im620.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im626.png",
+        "image_2": "fer-2013/test/neutral/im620.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im629.png",
+        "image_2": "fer-2013/test/neutral/im631.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im629.png",
+        "image_2": "fer-2013/test/neutral/im63.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im633.png",
+        "image_2": "fer-2013/test/neutral/im631.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im635.png",
+        "image_2": "fer-2013/test/neutral/im631.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {},
+    {
+        "image_1": "fer-2013/test/neutral/im638.png",
+        "image_2": "fer-2013/test/neutral/im64.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im638.png",
+        "image_2": "fer-2013/test/neutral/im640.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im644.png",
+        "image_2": "fer-2013/test/neutral/im640.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im644.png",
+        "image_2": "fer-2013/test/neutral/im64.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im638.png",
+        "image_2": "fer-2013/test/neutral/im639.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im648.png",
+        "image_2": "fer-2013/test/neutral/im647.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im649.png",
+        "image_2": "fer-2013/test/neutral/im647.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im650.png",
+        "image_2": "fer-2013/test/neutral/im647.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im653.png",
+        "image_2": "fer-2013/test/neutral/im647.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im654.png",
+        "image_2": "fer-2013/test/neutral/im647.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im662.png",
+        "image_2": "fer-2013/test/neutral/im664.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im660.png",
+        "image_2": "fer-2013/test/neutral/im664.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im66.png",
+        "image_2": "fer-2013/test/neutral/im664.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im659.png",
+        "image_2": "fer-2013/test/neutral/im664.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im669.png",
+        "image_2": "fer-2013/test/neutral/im665.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im669.png",
+        "image_2": "fer-2013/test/neutral/im666.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im672.png",
+        "image_2": "fer-2013/test/neutral/im665.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im672.png",
+        "image_2": "fer-2013/test/neutral/im666.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im673.png",
+        "image_2": "fer-2013/test/neutral/im665.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im673.png",
+        "image_2": "fer-2013/test/neutral/im666.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im679.png",
+        "image_2": "fer-2013/test/neutral/im675.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im68.png",
+        "image_2": "fer-2013/test/neutral/im675.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im680.png",
+        "image_2": "fer-2013/test/neutral/im675.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im681.png",
+        "image_2": "fer-2013/test/neutral/im675.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im674.png",
+        "image_2": "fer-2013/test/neutral/im675.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im683.png",
+        "image_2": "fer-2013/test/neutral/im686.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im685.png",
+        "image_2": "fer-2013/test/neutral/im686.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im683.png",
+        "image_2": "fer-2013/test/neutral/im688.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im685.png",
+        "image_2": "fer-2013/test/neutral/im688.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im691.png",
+        "image_2": "fer-2013/test/neutral/im686.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im703.png",
+        "image_2": "fer-2013/test/neutral/im700.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im707.png",
+        "image_2": "fer-2013/test/neutral/im700.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im707.png",
+        "image_2": "fer-2013/test/neutral/im706.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im708.png",
+        "image_2": "fer-2013/test/neutral/im700.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im709.png",
+        "image_2": "fer-2013/test/neutral/im700.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im710.png",
+        "image_2": "fer-2013/test/neutral/im717.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im718.png",
+        "image_2": "fer-2013/test/neutral/im717.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im716.png",
+        "image_2": "fer-2013/test/neutral/im717.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im715.png",
+        "image_2": "fer-2013/test/neutral/im717.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im713.png",
+        "image_2": "fer-2013/test/neutral/im717.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im732.png",
+        "image_2": "fer-2013/test/neutral/im736.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im742.png",
+        "image_2": "fer-2013/test/neutral/im744.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im745.png",
+        "image_2": "fer-2013/test/neutral/im744.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im74.png",
+        "image_2": "fer-2013/test/neutral/im744.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im747.png",
+        "image_2": "fer-2013/test/neutral/im748.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im746.png",
+        "image_2": "fer-2013/test/neutral/im748.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im754.png",
+        "image_2": "fer-2013/test/neutral/im748.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im750.png",
+        "image_2": "fer-2013/test/neutral/im748.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im75.png",
+        "image_2": "fer-2013/test/neutral/im748.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im76.png",
+        "image_2": "fer-2013/test/neutral/im756.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im759.png",
+        "image_2": "fer-2013/test/neutral/im756.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im762.png",
+        "image_2": "fer-2013/test/neutral/im756.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im76.png",
+        "image_2": "fer-2013/test/neutral/im755.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im759.png",
+        "image_2": "fer-2013/test/neutral/im755.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im764.png",
+        "image_2": "fer-2013/test/neutral/im765.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im766.png",
+        "image_2": "fer-2013/test/neutral/im765.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im770.png",
+        "image_2": "fer-2013/test/neutral/im77.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im771.png",
+        "image_2": "fer-2013/test/neutral/im77.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im764.png",
+        "image_2": "fer-2013/test/neutral/im768.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im766.png",
+        "image_2": "fer-2013/test/neutral/im768.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im781.png",
+        "image_2": "fer-2013/test/neutral/im775.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im780.png",
+        "image_2": "fer-2013/test/neutral/im775.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im779.png",
+        "image_2": "fer-2013/test/neutral/im775.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im780.png",
+        "image_2": "fer-2013/test/neutral/im778.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im781.png",
+        "image_2": "fer-2013/test/neutral/im778.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im79.png",
+        "image_2": "fer-2013/test/neutral/im790.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im791.png",
+        "image_2": "fer-2013/test/neutral/im792.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im791.png",
+        "image_2": "fer-2013/test/neutral/im793.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im797.png",
+        "image_2": "fer-2013/test/neutral/im795.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im798.png",
+        "image_2": "fer-2013/test/neutral/im795.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im796.png",
+        "image_2": "fer-2013/test/neutral/im795.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im8.png",
+        "image_2": "fer-2013/test/neutral/im795.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Right"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im80.png",
+        "image_2": "fer-2013/test/neutral/im800.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im801.png",
+        "image_2": "fer-2013/test/neutral/im800.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im802.png",
+        "image_2": "fer-2013/test/neutral/im806.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im803.png",
+        "image_2": "fer-2013/test/neutral/im806.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im804.png",
+        "image_2": "fer-2013/test/neutral/im806.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im812.png",
+        "image_2": "fer-2013/test/neutral/im814.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im813.png",
+        "image_2": "fer-2013/test/neutral/im814.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im809.png",
+        "image_2": "fer-2013/test/neutral/im814.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im818.png",
+        "image_2": "fer-2013/test/neutral/im822.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im819.png",
+        "image_2": "fer-2013/test/neutral/im822.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im820.png",
+        "image_2": "fer-2013/test/neutral/im822.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im825.png",
+        "image_2": "fer-2013/test/neutral/im822.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im823.png",
+        "image_2": "fer-2013/test/neutral/im822.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im827.png",
+        "image_2": "fer-2013/test/neutral/im829.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im827.png",
+        "image_2": "fer-2013/test/neutral/im830.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im827.png",
+        "image_2": "fer-2013/test/neutral/im835.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im831.png",
+        "image_2": "fer-2013/test/neutral/im830.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im831.png",
+        "image_2": "fer-2013/test/neutral/im829.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im84.png",
+        "image_2": "fer-2013/test/neutral/im840.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im842.png",
+        "image_2": "fer-2013/test/neutral/im840.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im839.png",
+        "image_2": "fer-2013/test/neutral/im843.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im844.png",
+        "image_2": "fer-2013/test/neutral/im843.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im849.png",
+        "image_2": "fer-2013/test/neutral/im85.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im851.png",
+        "image_2": "fer-2013/test/neutral/im85.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im853.png",
+        "image_2": "fer-2013/test/neutral/im85.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im852.png",
+        "image_2": "fer-2013/test/neutral/im85.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im845.png",
+        "image_2": "fer-2013/test/neutral/im85.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im87.png",
+        "image_2": "fer-2013/test/neutral/im871.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im867.png",
+        "image_2": "fer-2013/test/neutral/im871.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im865.png",
+        "image_2": "fer-2013/test/neutral/im871.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im863.png",
+        "image_2": "fer-2013/test/neutral/im871.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im864.png",
+        "image_2": "fer-2013/test/neutral/im871.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im873.png",
+        "image_2": "fer-2013/test/neutral/im874.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im879.png",
+        "image_2": "fer-2013/test/neutral/im874.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im875.png",
+        "image_2": "fer-2013/test/neutral/im874.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im876.png",
+        "image_2": "fer-2013/test/neutral/im874.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im88.png",
+        "image_2": "fer-2013/test/neutral/im874.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im889.png",
+        "image_2": "fer-2013/test/neutral/im888.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im89.png",
+        "image_2": "fer-2013/test/neutral/im888.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im887.png",
+        "image_2": "fer-2013/test/neutral/im888.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im885.png",
+        "image_2": "fer-2013/test/neutral/im884.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    },
+    {
+        "image_1": "fer-2013/test/neutral/im883.png",
+        "image_2": "fer-2013/test/neutral/im884.png",
+        "question": "Which person feels more neutral?",
+        "answer": "Left"
+    }
+]
